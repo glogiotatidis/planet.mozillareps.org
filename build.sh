@@ -1,14 +1,14 @@
 #!/bin/bash
 git clone https://github.com/glogiotatidis/planet.mozillareps.org.git
+pushd planet.mozillareps.org
 git config user.email "planetupdate@mozillareps.org"
 git config user.name "planet-update-bot"
 git remote add origin-rw https://${GITHUB_AUTH_TOKEN}@github.com/glogiotatidis/planet.mozillareps.org.git
 
 docker run \
-       -v `pwd`/planet.mozillareps.org/docs:/data/output \
+       -v `pwd`/docs:/data/output \
        -v ~/cache:/data/cache \
        giorgos/planet-mozillareps-org-builder
-
 git add -f --all docs/
 git commit -m "Site update"
 
