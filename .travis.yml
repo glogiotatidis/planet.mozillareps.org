@@ -4,4 +4,7 @@ services:
 cache:
   directories:
     - $HOME/cache
+branches:
+  only:
+    - master
 script: ./build.sh
