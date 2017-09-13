@@ -1,4 +1,6 @@
 #!/bin/bash
+set -ex
+
 git clone -b gh-pages https://github.com/mozilla-parsys/planet.mozillareps.org.git
 pushd planet.mozillareps.org
 git config user.email "planetupdate@mozillareps.org"
