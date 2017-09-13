@@ -8,7 +8,7 @@ git remote add origin-rw https://${GITHUB_AUTH_TOKEN}@github.com/mozilla-parsys/
 docker run \
        -v `pwd`:/data/output \
        -v ~/cache:/data/cache \
-       mozilla-parsys/planet-mozillareps-org-builder
+       giorgos/planet-mozillareps-org-builder
 git add -f --all .
 git commit -m "Site update"
 
