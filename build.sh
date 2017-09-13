@@ -12,6 +12,7 @@ docker run \
        -v ~/cache:/data/cache \
        giorgos/planet-mozillareps-org-builder
 git add -f --all .
+set +e  # Don't fail the script if commit fails due to no changes.
 git commit -m "Site update"
 
 # Push only if there are commit changes.
