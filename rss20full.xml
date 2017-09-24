@@ -10,6 +10,99 @@
 
 
 <item>
+  <title>Mehul Patel - Dive Into Rust at ORDINATEUR’17</title>
+  <guid isPermaLink="false">http://www.rowdymehul.com/?p=1416</guid>
+  <link>http://www.rowdymehul.com/dive-into-rust-at-ordinateur17/</link>
+  <description>
+    <![CDATA[<p><span class="author-a-n8m2z75zz85z1z88zz69zi0fz76zz87z1c">The event is focused on introducing and teaching the state of art system programming language <a href="https://www.rust-lang.org/en-US/" rel="noopener" target="_blank">Rust</a> to local programmers and Mozillians in Gujarat.  This is the first time <strong>Mozilla</strong> will participate at <strong>ORDINATEUR’17</strong>! The summit will involve students and tech enthusiasts from the university. I gave a talk on <a href="https://www.rust-lang.org/en-US/">Rust programming</a> which is one of emerging technologies and one of the major focus of Mozilla.<br />
+</span></p>
+<p><strong>About ORDINATEUR’17 :</strong></p>
+<p>ORDINATEUR’17 is a one of a kind flagship event organized by IEEE GCET Computer Society Student Chapter under the them “<strong><em>Tech Trend &amp; Innovate</em></strong>”</p>
+<p><a href="https://i1.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/poster.jpg"><img alt="" class="aligncenter size-full wp-image-1420" src="https://i1.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/poster.jpg?resize=720%2C267" /></a>Before, I shared my experience with this talk, so let me tell you one thing that this was my one of the best intellectual programming debate talk. Yes, it is! <img alt="😀" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" style="height: 1em;" /><span id="more-1416"></span></p>
+<p>I have started with Introduction to Mozilla and “Who am I”. Adding to that, I have also shared about Mozilla projects and <a href="https://www.rust-lang.org/en-US/">Rust </a>is one of them. So now, Lets Dive Into Rust!</p>
+<p><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8975.jpg"><img alt="" class="aligncenter size-full wp-image-1421" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8975.jpg?resize=720%2C480" /></a><br />
+According to me, <em>Rust is a good choice when you’d choose C++. You can also say, “Rust is a systems programming language that pursuing the trifecta: safe, concurrent, and fast.” I would say, Rust is an ownership-oriented programming language.</em></p>
+<p><em><strong>Why should I use Rust? </strong></em>I am always expecting this question whenever I talk about Rust and here as well one language enthusiast asked me the same questions.</p>
+<p><strong>Firstly, I have shared the reason that I’ve looked into Rust at first and then I have explained and discussed each point with participants.  </strong></p>
+<p><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_04-10-17.jpg"><img alt="" class="aligncenter size-full wp-image-1419" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_04-10-17.jpg?resize=720%2C720" /></a></p>
+<ul>
+<li>Rust is new enough that you can write useful stuff that would have already existed in other languages</li>
+<li>It is low-level enough that you take account of most resources.</li>
+<li>It’s more like C++ and Go, less like Node and Ruby</li>
+<li>cargo is awesome. Managing crates just works as intended, which makes a whole lot of troubles you may have in other languages just vanish with a satisfying <em>poof</em>.</li>
+</ul>
+<p>Please read the full story <a href="http://www.rowdymehul.com/why-should-i-use-rust/" rel="noopener">here</a>, this may explain you, <em><strong>why you should use </strong></em>Rust?</p>
+<p>Then, we move ahead did some practicals where I have shown them small demos from our <a href="https://github.com/MozillaIndia/RustIndia/tree/master/short_demo" rel="noopener">Rust Kits</a></p>
+<p><a href="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8938.jpg"><img alt="" class="aligncenter size-full wp-image-1422" src="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8938.jpg?resize=720%2C480" /></a>It was always fun to play with Rust and glad that participants also enjoyed while rusty their hand.</p>
+<div class="wp-caption aligncenter" id="attachment_1423" style="width: 5194px;"><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8978.jpg"><img alt="" class="wp-image-1423 size-full" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8978.jpg?resize=720%2C480" /></a><p class="wp-caption-text"><strong>                                             Thanks, ORDINATEUR’17 Team for this memento.</strong></p></div>
+<p><strong>Reps </strong>link: <a href="https://reps.mozilla.org/e/mozconnect-with-ordinateur-17/" rel="noopener">https://reps.mozilla.org/e/mozconnect-with-ordinateur-17/</a></p>
+<p><strong>Presentation </strong>link: <a href="https://docs.google.com/presentation/d/1SatJ6G_Um9cRbV7PjqRrjwf68Ku7kSYG9vGJI_Zy40M/edit?usp=sharing" rel="noopener">https://docs.google.com/presentation/d/1SatJ6G_Um9cRbV7PjqRrjwf68Ku7kSYG9vGJI_Zy40M/edit?usp=sharing</a></p>
+<p><strong>Google Drive (Photos) </strong>link: <a href="https://drive.google.com/drive/folders/0B9Vs6T2Sp2LAWV9KLWhPYktPOVU" rel="noopener">https://drive.google.com/drive/folders/0B9Vs6T2Sp2LAWV9KLWhPYktPOVU </a></p>
+<h1>What Next?</h1>
+<ul>
+<li>I am looking for more such collaboration with such organizations to spread the Mozilla mission &amp; Rust.</li>
+<li>Next series of full-day intense workshop on Rust at G H Patel College of Engineering &amp; Technology with IEEE GCET Computer Society and nearby university campuses.</li>
+</ul>
+<p style="text-align: center;"><strong><em>Hope you enjoyed my blog! <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" style="height: 1em;" /></em></strong></p>]]>
+  </description>
+  <pubDate>Sat, 23 Sep 2017 23:37:52 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Mehul Patel - Why Open Source ?</title>
+  <guid isPermaLink="false">http://www.rowdymehul.com/?p=1406</guid>
+  <link>http://www.rowdymehul.com/why-open-source/</link>
+  <description>
+    <![CDATA[<p>Firstly, let me extend the thanks to <a href="http://elab.yuvalay.org/" rel="noopener">Yuvalay Electronics Lab</a> for inviting me as Speaker to give a talk on Open Source. Moreover, kudos to you to arrange a talk on Open source first time ever in <span class="_Xbe">Vadodara</span> city.</p>
+<p><strong>About Yuvalay Electronics Lab</strong></p>
+<p>Yuvalay Electronics Lab offers a platform and eco-system to the students, hobbyists, and professionals to understand and apply the theoretical knowledge of the subjects in the field of Electronics. It helps to convert the interest into the passion by providing a conducive environment to learn-explore-innovate under the guidance of experts. <a href="http://elab.yuvalay.org/" rel="noopener">More</a></p>
+<p>This is the first time ever I have not presented any presentation, this time it’s gonna be a pure talk where people can ask me anything about open source. I have started my talk with, what I am thinking or believing about open source.</p>
+<p><a href="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-31-39.jpg"><img alt="" class="aligncenter size-full wp-image-1408" src="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-31-39.jpg?resize=720%2C720" /></a>For me, <em>contributing to open source can be a rewarding way to learn, teach, and gain experience. No matter which skills you have, everything can be made useful. In this talk, I have shared the following points which can help you to get started with </em>an<em> open source contribution.</em><span id="more-1406"></span></p>
+<ol>
+<li><em>Why contribute to open source?</em></li>
+<li><em>What it means to contribute</em></li>
+<li><em>Boost yourself to a new project; best example: Github</em></li>
+<li><em>How to find a project to contribute to? : some sources Github, Your First PR, and so on.</em></li>
+<li><em>How to submit a contribution?</em></li>
+<li><em>What happens once you contributed?</em></li>
+</ol>
+<p>I am always asking these questions to my self and trying to find out the answer, and guess what while finding the answer to these questions my contribution to open source automatically done.</p>
+<p>A common misconception about contributing to open source is that you need to contribute code. For me, contributions don’t have to be tech related as open source projects also need people who have non-tech skills, like documentation, localization, marketing, testing and much more.</p>
+<p>For instance, <b><i>What can I do for Mozilla?</i></b> is a resource that helps pair people with the organization’s technical and non-technical needs.</p>
+<p><b><i>Why do people contribute to open source? </i></b></p>
+<p>To, improve existing skills<br />
+To, meet people who are having similar interests<br />
+To, find mentors and teach others<br />
+To, build public artifacts that help to build your profile</p>
+<p>Here are  few of my personal favorites Open Source Platforms;</p>
+<ul>
+<li>Linux &lt;3</li>
+<li>WordPress</li>
+<li>Python &amp; Rust</li>
+<li>VLC Media Player &lt;3</li>
+<li>Web Browsers:
+<ul>
+<li>Firefox &lt;3</li>
+<li>Chromium (the basis for Chrome)</li>
+</ul>
+</li>
+<li>GIMP</li>
+</ul>
+<p><i>I bet on you, within these kinds of projects exist more undetected bugs, probable improvements, and documentation deficiency. Therefore, even if you don’t want to learn how to code inside, still you can find ways to take part in the open source world.</i></p>
+<p>There was a very healthy discussion between me and all the participants where they asking back to back questions and I am thus thoroughly enjoying to answer those questions.</p>
+<p><a href="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-28-47.jpg"><img alt="" class="aligncenter size-full wp-image-1409" src="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-28-47.jpg?resize=720%2C720" /></a>Our goal via this talk is to make people understand that open source contribution have no explicit literal like hard-earned cash value. But, the implicit value, i.e. the opportunity to contribute to open source widely outweighs any literal cash value you might gain by giving your time over to a project. e.g. Guess how much money I got paid for contributing to Linux package? $0. Yep, it was $0.</p>
+<p>Our aim is to people believe that if they don’t file bugs and make steps to reproduce them, or on ways to reproduce expected and unexpected behaviors, so coders/techs have no way of knowing how software gets used and what they should do get resolved.</p>
+<p>At last, we also had round discussion of what participants thinking about open source and what their passion about open source.Everyone has shared their views and all an all it was great to hear their views on it.</p>
+<p><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-42-46.jpg"><img alt="" class="aligncenter size-full wp-image-1411" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-42-46.jpg?resize=720%2C720" /></a>Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project. This is the way community builds with better engagement.</p>
+<p><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG-9744.jpg"><img alt="" class="aligncenter size-full wp-image-1410" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG-9744.jpg?resize=720%2C540" /></a><br />
+Thank you, everyone, who joined our talk! <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" style="height: 1em;" /> Hope you enjoyed reading my blog.  <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" style="height: 1em;" /></p>]]>
+  </description>
+  <pubDate>Sat, 23 Sep 2017 22:25:32 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Viswaprasath KS - MozillaTN SNSCT WebExtension Workshop</title>
   <guid isPermaLink="false">http://iamVP7.in//SNSCT-MozActivate-WebExt-workshop/</guid>
   <link>http://iamVP7.in//SNSCT-MozActivate-WebExt-workshop/</link>
@@ -1851,126 +1944,6 @@ R. Lasar Segal, 617-779 – Jardim Florence, Campinas – SP</p>
     <![CDATA[Financial Administration of the Republic of Slovenia has recently (3th of March 2017) published...]]>
   </description>
   <pubDate>Mon, 06 Mar 2017 17:49:32 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Geraldo Barros - How to organize and document your Mozilla event with Dropbox Paper</title>
-  <guid isPermaLink="false">https://geraldobarros.me/?p=233</guid>
-  <link>https://geraldobarros.me/how-to-organize-and-document-your-mozilla-event-with-dropbox-paper/</link>
-  <description>
-    <![CDATA[<p><a href="https://www.dropbox.com/paper">Dropbox Paper</a> is Dropbox’s cloud web text editor that lets you create documents in the cloud that can be managed collaboratively, sharing with your contacts and team, with interface in many languages, the platform allows you to login with the same Dropbox credentials and have features that make it easier to organize events, meetings, campaigns and other tasks in our communities.<span id="more-233"></span></p>
-<p>If you work on event organization as a representative of <a href="https://reps.mozilla.org/">Mozilla Reps</a>, you’ll love using Dropbox tools, because it not only enables collaboration, but also has a very comfortable editor, clean, and has cool tools for interacting and organizing tasks with your community team.</p>
-<p>Feel free to do an overview on <a href="http://paper.dropbox.com/">Paper</a>, <a href="https://paper.dropbox.com/doc/Mozilla-at-Cryptorave-Sao-Paulo-2017-Exemple-NJiIwQqtUnGOkz37aPz2d"><strong>test and use this template</strong></a> created by myself to facilitate organization of community events, this will facilitate your work in organizing the event and do not forget that you can convert your document to <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> and download, this allows you to copy all content in Markdown and add it to the <a href="https://reps.mozilla.org/events/new/">Mozilla Reps Event Page</a>, or create a public link to your document and add it to the event page.</p>
-<p>Cheers! ????</p>
-<p>The post <a href="https://geraldobarros.me/how-to-organize-and-document-your-mozilla-event-with-dropbox-paper/" rel="nofollow">How to organize and document your Mozilla event with Dropbox Paper</a> appeared first on <a href="https://geraldobarros.me" rel="nofollow">Geraldo Barros</a>.</p>]]>
-  </description>
-  <pubDate>Thu, 23 Feb 2017 23:52:44 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Geraldo Barros - My Mozilla Volunteer 2016 Report</title>
-  <guid isPermaLink="false">https://geraldobarros.me/?p=35</guid>
-  <link>https://geraldobarros.me/my-mozilla-volunteer-2016-report/</link>
-  <description>
-    <![CDATA[<p>This is my small report of activities, campaigns and programs that I got involved in throughout the Mozilla community in the last year!</p>
-<p>I’m describing a summary of all the actions and adding some links to my blog posts that have all the history of my involvement in all activities at Mozilla.</p>
-<p><strong>I am hopeful that this report will inspire you to keep your contribution or join today to our <a href="http://www.mozilla.org/contribute">Mozilla community</a>.</strong><span id="more-35"></span></p>
-<h3>#1 Join at Mozilla Reps program</h3>
-<p>In March I joined <a href="https://reps.mozilla.org/">Mozilla Reps</a>, after 2 months that I applied to the program, for me it was fast, was my second applied to the program and was approved to join.</p>
-<p>I have <a href="https://reps.mozilla.org/events/#/period/custom/search/brazil%20geraldo/start/2016-01-01/end/2016-12-31/">organized/participated in more than 30+ events as a representative of Mozilla</a>, plus dozens of meetings and training with various projects involved.</p>
-<p>Working with the entire Reps Community is a great learning environment, read more about my first experiences with the program at <a href="https://medium.com/@geraldobarros_/the-mozilla-reps-program-aims-to-empower-and-support-volunteer-mozillians-who-want-to-become-e7bc6fe3bbdd#.3w4bptrl9">“I became a Mozilla Rep! But what has changed?”</a>.</p>
-<p>And I was <a href="https://blog.mozilla.org/mozillareps/2016/11/10/rep-of-the-month-october-2016/"><strong>Rep of the Month in October</strong></a>, beyond recognition, I got a Firefox sweater and my Reps Welcome Pack.</p>
-<div class="wp-caption aligncenter" id="attachment_42" style="width: 770px;"><img alt="Mozilla Reps Welcome Pack" class="size-large wp-image-42" height="507" src="https://geraldobarros.me/wp-content/uploads/2017/02/IMG_0164-1024x683.jpg" width="760" /><p class="wp-caption-text">Mozilla Reps Welcome Pack, I loved this pack!!! ????</p></div>
-<h3>#2 Open Internet Leader at Mozilla StoryEngine</h3>
-<div class="wp-caption aligncenter" id="attachment_224" style="width: 1887px;"><img alt="Geraldo Barros as Open Internet Leader at Mozilla Story Engine" class="size-full wp-image-224" height="962" src="https://geraldobarros.me/wp-content/uploads/2017/02/Page-Shot-2017-2-22-Geraldo-Barros.png" width="1877" /><p class="wp-caption-text">Geraldo Barros as Open Internet Leader at Mozilla Story Engine</p></div>
-<p>The Mozilla Foundation is creating a better way to gather feedback and accelerate learning. We’re calling it StoryEngine. Designed to systematically collect, analyze, and leverage the stories emerging from our networks, <a href="https://storyengine.io">StoryEngine</a> will help support <strong>open Internet leaders</strong> and advocates, demonstrate the impact of our work, and act on opportunities and challenges.</p>
-<p>My story is published at <strong><a href="https://storyengine.io/stories/digital-inclusion/geraldo-barros/">Geraldo Barros — Story Engine</a></strong>.</p>
-<h3>#3 Captain at Leão Mozilla Clubs, my favorite Mozilla Club!</h3>
-<div class="wp-caption aligncenter" id="attachment_113" style="width: 770px;"><img alt="Leão Mozilla Clubs 2016 Team Work" class="size-large wp-image-113" height="428" src="https://geraldobarros.me/wp-content/uploads/2017/02/30519881124_255fff5dbd_h-1024x576.jpg" width="760" /><p class="wp-caption-text">Leão Mozilla Clubs 2016 Team Work</p></div>
-<div class="wp-caption aligncenter" id="attachment_114" style="width: 770px;"><img alt="Leão Mozilla Clubs 2016 Team Work" class="size-large wp-image-114" height="570" src="https://geraldobarros.me/wp-content/uploads/2017/02/30624818354_6d135c8889_k-1024x768.jpg" width="760" /><p class="wp-caption-text">Leão Mozilla Clubs 2016 Team Work</p></div>
-<p>My work at <strong>Leão Mozilla Clubs</strong> as captain continue, by the second year of the success at <strong>Padre Leão Vallerié School</strong> in <strong>Campinas, Brazil</strong>.</p>
-<p>Last year we kept content on web development and we introduced <a href="https://www.arduino.cc/">Arduino</a> content, <a href="https://forum.learning.mozilla.org/t/testing-make-your-first-webpage-module/1120">in addition to participating in other curriculum tests created by Chad</a>, I can say was that it was a great year.</p>
-<p>At school we have some problems with the Internet and computers, we are limited to few tools and low quality internet.</p>
-<p>Oh, we’ve moved our blog to Medium, so now it’s under <a href="https://leaomozillaclubs.com">https://leaomozillaclubs.com</a>.</p>
-<h3>#4 Take Back The Web Campaign</h3>
-<div class="wp-caption aligncenter" id="attachment_56" style="width: 770px;"><img alt="Campus Campaign - Take Back The Web" class="size-large wp-image-56" height="243" src="https://geraldobarros.me/wp-content/uploads/2017/02/campus-campaign-1024x327.png" width="760" /><p class="wp-caption-text">Campus Campaign – Take Back The Web</p></div>
-<p><strong>Take Back The Web</strong> was an incredible Mozilla worldwide campaign, organized last year the campaign involved communities and college students from around the world! The campaign was aimed at the development of open technologies, talks and actions related to security and privacy, focused on campus college students from around the world the campaign was organized by Mozilla.</p>
-<p>The campaign had local support from college teams who developed activities on their campus, a network of local coaches ensured that local teams developed activities and gained training and mentoring.</p>
-<p>My work in the campaign was to mentor and coach local 2 local team students of the Colombia and Venezuela. At the end of the campaign the Mozilla team received feedback and gained the experience with campus to organize the newest program, <strong><a href="https://campus.mozilla.community/">Mozilla Campus Clubs</a></strong>!</p>
-<p>Read more about Mozilla on Campus at <strong><a href="https://blog.mozilla.org/community/2016/05/17/reinventing-mozilla-on-campus/">Reinventing Mozilla on Campus</a></strong>.</p>
-<h3>#5 Mozilla Brazil Community Gathering</h3>
-<div class="wp-caption aligncenter" id="attachment_54" style="width: 1034px;"><img alt="Mozilla Brazil Community Volunteers at Mozilla Community Gathering" class="wp-image-54 size-full" height="680" src="https://geraldobarros.me/wp-content/uploads/2017/02/1Z6m0uulnmYjIf6kriV8daA.jpeg" width="1024" /><p class="wp-caption-text">Mozilla Brazil Community Volunteers at Mozilla Community Gathering</p></div>
-<p>28 and 29 May 2016 were special for <a href="https://mozillabrasil.org.br">Mozilla Brazil Community</a> happened <a href="https://reps.mozilla.org/e/mozilla-brasil-community-gathering-2016/">Mozilla Brazil Community Gathering 2016</a> organized by Mozilla for the purpose of improve the health of the community, establish empathy between members, solve problems and conflicts and align the community about the campaigns and Mozilla development projects.</p>
-<p>Read more about <strong>Mozilla Brazil Community Gathering</strong> at <strong><a href="https://medium.com/@geraldobarros_/mozilla-brazil-community-gathering-2016-3af3e1cb486e#.q6r33ssov">Mozilla Brazil Community Gathering 2016 by Geraldo Barros</a></strong>.<br />
-Read more about <strong>community gatherings</strong> at <strong><a href="http://francjp.net/wp/2017/01/participation-community-gatherings-overview/">Community Gatherings Overview by Francisco Picolini</a></strong>.</p>
-<h3>#6 Mozilla at FISL17 in Porto Alegre, Brazil</h3>
-<div class="wp-caption aligncenter" id="attachment_58" style="width: 810px;"><img alt="Mozilla Brazil Community at FISL17" class="size-full wp-image-58" height="533" src="https://geraldobarros.me/wp-content/uploads/2017/02/1bG5RGPxyJeTKq_j4USFZTA.jpeg" width="800" /><p class="wp-caption-text">Mozilla Brazil Community at FISL17</p></div>
-<p>FISL17 was one of the editions of <a href="http://softwarelivre.org">FISL</a> that our community again participated in, it is a great event and one of the largest free software in Latin America.</p>
-<p>Last year I organized community participation in FISL17 and many volunteers participated talking and developing activities in our break out room, our participation was focused on Mozilla’s support, developer network, diversity and other projects.</p>
-<p>The most shocking results have been for the community support team, which has really consolidated and done incredible things to this day.</p>
-<p>The participation of the community in the event was awesome, but it required a lot of work and previous organization to ensure an incredible event.</p>
-<p><span style="line-height: 1.7;">See event pictures on</span><span style="line-height: 1.7;"> </span><a href="https://flic.kr/s/aHskEiZJeP" style="line-height: 1.7;">Flickr</a><span style="line-height: 1.7;">, </span><span style="line-height: 1.7;">the newest</span><span style="line-height: 1.7;"> </span><a href="https://wiki.mozilla.org/Brasil/FISL17/FISL_Playbook_v1.0" style="line-height: 1.7;">FISL Playbook V.1</a><span style="line-height: 1.7;"> </span><span style="line-height: 1.7;">and our </span><a href="https://discourse.mozilla-community.org/t/feedback-mozilla-no-fisl17/9889" style="line-height: 1.7;">event report</a><span style="line-height: 1.7;">.</span></p>
-<h3>#7 Mozilla at Tech Week UFMG in Bambui, Brazil</h3>
-<div class="wp-caption aligncenter" id="attachment_59" style="width: 770px;"><img alt="Mozilla at Tech Week UFMG in Bambui, Brazil" class="wp-image-59 size-large" height="372" src="https://geraldobarros.me/wp-content/uploads/2017/02/DSC_0431_01-1024x501.jpg" width="760" /><p class="wp-caption-text">Mozilla at Tech Week UFMG in Bambui, Brazil</p></div>
-<p>The <strong><a href="http://www.bambui.ifmg.edu.br/portal/">Semana de Engenharia, Tecnologia e Computação</a></strong> is constituted as the main scientific event to promote, technological and cultural at <strong>IFMG – Campus Bambuí</strong>. It is a local action related to the <strong>National Week of Science and Technology</strong>, an initiative of the <strong>Ministry of Science and Technology of the Federal Government</strong>, which has as main purpose to mobilize the population, especially children and young people around issues and science and technology activities.</p>
-<p>And I’m talked about Web Compatibility, an open invitation to all developers, web users and browsers developers to join the web compatibility. Learn how to make the Web a more compatible place with all and for all and best of all a super fun way! Report issues and get help in solving compatibility issues on any website. The project is developed by volunteers around the world and supported by Mozilla in a global effort to make the Web better.</p>
-<p>My participation in the event took a long trip to the interior of Minas Gerais state, but it was one of my best trips because I saw beautiful landscapes through flights, cars and buses.</p>
-<p>The university campus is beautiful and big, the students took me to know the whole campus the first day, they were very nice and hospitable! Oh, I could not forget to tell you that I ate the best milk candy in the world and I received a pot of milk candy to take to my home made on campus, I really want to come back soon, thank you for all university team!</p>
-<h3>#8 Mozilla at Latinoware 2016 in Foz do Iguaçu, Brazil</h3>
-<div class="wp-caption aligncenter" id="attachment_97" style="width: 770px;"><img alt="Geraldo Barros at Latinoware 2016 talking about WebVR" class="size-large wp-image-97" height="428" src="https://geraldobarros.me/wp-content/uploads/2017/02/photo_2016-11-02_23-33-46-1024x576.jpg" width="760" /><p class="wp-caption-text">Geraldo Barros at Latinoware 2016 talking about WebVR</p></div>
-<div class="wp-caption aligncenter" id="attachment_96" style="width: 770px;"><img alt="Geraldo Barros at Latinoware 2016 talking about WebVR" class="size-large wp-image-96" height="570" src="https://geraldobarros.me/wp-content/uploads/2017/02/photo_2016-11-02_23-34-02-1024x768.jpg" width="760" /><p class="wp-caption-text">Geraldo Barros at Latinoware 2016 talking about WebVR</p></div>
-<div class="wp-caption aligncenter" id="attachment_98" style="width: 770px;"><img alt="Mozilla at Latinoware 2016: Joao, Alcides, Eduardo, Rocio and Geraldo" class="size-large wp-image-98" height="570" src="https://geraldobarros.me/wp-content/uploads/2017/02/photo_2016-11-02_23-32-19-1024x768.jpg" width="760" /><p class="wp-caption-text">Mozilla at Latinoware 2016: Joao, Alcides, Eduardo, Rocio and Geraldo</p></div>
-<div class="wp-caption aligncenter" id="attachment_95" style="width: 770px;"><img alt="Geraldo Barros at Latinoware 2016 talking about Web Compatibility issues" class="size-large wp-image-95" height="428" src="https://geraldobarros.me/wp-content/uploads/2017/02/photo_2017-02-21_18-42-32-1024x576.jpg" width="760" /><p class="wp-caption-text">Geraldo Barros at Latinoware 2016 talking about Web Compatibility issues</p></div>
-<p>Latinoware opens up space for discussion and reflection on the deployment of open source software in Latin America. The public consist among students, professionals and specialists from the area and also international celebrities and representatives from public and private agencies of different countries of Latin America. In the last edition, the event had 4.259 participants and 230 speakers in activities related the world of I.T. and free software.</p>
-<p>And the last year I’m talked about WebVR and Web Compatibility Issues for all people, and participated of all activities at Mozilla break out room.</p>
-<p>Latinoware is a big event, a very diverse and multilingual audience, is focused so that all the countries of latin america participate.</p>
-<p>Mozilla participated in the event through many volunteers from the Mozilla Brasil and Paraguay communities, it was amazing to meet the Mozilla Paraguay team and their recent work with <a href="http://mozillanativo.org/2016/lanzamiento-oficial-de-firefox-en-guarani.html">Firefox Aguaratata</a>.</p>
-<p>Read more about my talks at <a href="https://medium.com/@geraldobarros_/crie-uma-web-que-funcione-para-todos-mozillanalatinoware-c56ee669bcd5#.9rrznzylp">Crie uma web que funcione para todos #MozillaNaLatinoware</a> and <a href="https://medium.com/@geraldobarros_/webvr-com-a-frame-mozillanalatinoware-91d82c9c876c#.2cj5yjh43">WebVR com A-Frame #MozillaNaLatinoware</a>.</p>
-<h3>#9 Mozilla Festival 2016 at Ravensbourne, London, United Kingdom</h3>
-<div class="wp-caption aligncenter" id="attachment_62" style="width: 770px;"><img alt="Mozilla Clubs at Mozilla Festival 2016" class="size-large wp-image-62" height="570" src="https://geraldobarros.me/wp-content/uploads/2017/02/IMG-20161028-WA0026-1024x768.jpg" width="760" /><p class="wp-caption-text">Mozilla Clubs at Mozilla Festival 2016</p></div>
-<p>I had the opportunity to attend the <a href="https://mozfest.org">Mozilla Festival 2016</a>, a world festival focusing on the opening movement of the Internet, happened year pass from 28 to 30 October at Ravensbourne College in London/UK.</p>
-<p>The Mozilla Festival is a great event that deals with topics related to technology and the internet and subjects related to focus on debates, activities hand in hand and this year a series of lectures on topics relevant to the world of internet and technology.</p>
-<p>I could spend hours writing about the festival, in general I can say that it is a big festival with the most diverse themes that connect the internet and technology (that is, everything), the festival is like a bomb of learning and knowledge, Is a space where you will learn a lot in a short time in an inclusive, participative and engaging way, every session had people excited and passionate about teaching and learning.</p>
-<p>I met new technologies at the science fair, met lots of people and put my hand in the dough by learning to work hand in hand with many projects and sessions, as well as falling in love with the arts sessions.</p>
-<p>Mozilla Festival is an important space for captains to learn new things, share experiences, meet new captains and participate in countless sessions that connect education, it’s time to learn new methodologies and best practices to develop in their clubs, exchange experience and Storytelling is very important with other captains to learn and know other distinct realities and the event provides this space for learning.</p>
-<p>Read more about Mozilla Clubs at MozFest at <strong><a href="https://medium.com/mozilla-festival/mozilla-clubs-at-mozfest-2016-5c9b941fa3bb#.hhskaorv7">Mozilla Clubs at Mozfest 2016</a> </strong>and about my personal experiences at <strong><a href="https://medium.com/@geraldobarros_/mozilla-festival-clubes-arte-localiza%C3%A7%C3%A3o-open-badges-lideran%C3%A7a-e-internet-374471b1d1ce?source=user_profile---------11----------">Mozilla Festival: Clubes, Arte, Localização, Open Badges, Liderança e Internet</a></strong>.</p>
-<h3>#10 Mozilla Campus Clubs as Regional Coordinator</h3>
-<div class="wp-caption aligncenter" id="attachment_120" style="width: 982px;"><img alt="Mozilla Campus Clubs" class="wp-image-120 size-full" height="634" src="https://geraldobarros.me/wp-content/uploads/2017/02/Captura-de-tela-de-2017-02-21-19-34-33.png" width="972" /><p class="wp-caption-text">Mozilla Campus Clubs</p></div>
-<p>The <a href="https://campus.mozilla.community/about/">Mozilla Campus Clubs</a> are Mozilla Clubs that take place at a University or College – These clubs take advantage of the unique learning environments of Universities and Colleges to bring students with a passion for technology together to build and innovate on open source projects that build the open web.</p>
-<p>And with a simple structure, Campus Clubs have important roles to mentoring club captains from universities, one of which is the <a href="https://discourse.mozilla-community.org/t/applying-for-regional-coordinator/13131">Campus Clubs Regional Coordinator</a>, I joined the program assuming this role after training.</p>
-<p>Today I am working on the mentoring of <strong>3 new captains</strong> who are doing a awesome work on their campus!</p>
-<p>See all clubs and regional coordinator around the world at <a href="https://campus.mozilla.community/connect/">Mozilla Campus Clubs Connect</a>.</p>
-<h3>#11 Maker Party Week Campinas 2016</h3>
-<div class="wp-caption alignnone" id="attachment_228" style="width: 808px;"><img alt="Geraldo Barros at Maker Party" class="wp-image-228 size-full" height="1024" src="https://geraldobarros.me/wp-content/uploads/2017/02/tmp_31292-Geraldo_Barros_MAKERPARTY-1972394189.jpg" width="798" /><p class="wp-caption-text">Geraldo Barros at Maker Party</p></div>
-<p>And it all started at the Mozilla Festival, Mozilla’s annual event about the open Internet movement, read more about it, the event gave me many ideas and ways of working copyrighted in Brazil.</p>
-<p>The Maker Party this last year is focused on the need for changes in copyright laws in Europe, but there are other ways to work a Maker Party in Brazil, since it is important to educate as people on copyright and open licenses.</p>
-<p>When I started thinking about the strategy in which people were able to learn copyright in an engaging, intuitive and allied way to something that people definitely enjoy was the key to a successful activity.</p>
-<p>We are all users, creators, consumers, educators, students and we are constantly creating new things: music, blog posts, essays, tweets, paintings and photos — yes, we are artists and great creators!</p>
-<p>Learning about content licensing is openly important to enable the promotion of your work, co-creation and innovation.</p>
-<p>Educators are important pieces to continue teaching this content in various community spaces, telecenters and schools, many of them today know the importance and how to license content with Creative Commons.</p>
-<blockquote><p>Brazil is a country that needs a new copyright law, it is not just Europe, the Internet challenges copyright systems all over the world, demanding updates in a structure that was forged and developed between the XVIII and XX centuries. <a href="http://droitdu.net/2016/11/why-brazil-needs-a-new-copyright-law/">Read more at Droitdu</a>..</p></blockquote>
-<p>Read more about this Maker Party at <strong><a href="https://leaomozillaclubs.com/maker-party-week-campinas-2016-direito-autoral-arte-e-aprendizado-e9a4b421dffd#.l2ffklp2l">Maker Party Week Campinas 2016: copyright, art and learning</a></strong>.</p>
-<h3>#12 Mozilla Support Brazil with Mozpizza Hackathon</h3>
-<p>Mozpizza was one of the most out-of-box events that the support team has hosted and perhaps the most out-of-the-box event of Mozilla every year.</p>
-<p>The idea was simple, put everyone together on video to stay up all night and get engaged working on all open support platforms and kill all the to-do lists!</p>
-<p><strong><span style="line-height: 1.7;">The goals were ambitious: 100% of everything!</span></strong></p>
-<ul>
-<li>100% articles in knowledge base translated/reviewed.</li>
-<li>100% questions in support forum about Firefox answered.</li>
-<li>100% questions in support forum about Thunderbird answered.</li>
-<li>100% questions in Sprinklr answered.</li>
-<li>100% questions/comments in AoA answered.</li>
-</ul>
-<p><span style="line-height: 1.7;">Oh, all the volunteers got pizza to eat during the online marathon. </span></p>
-<p><span style="line-height: 1.7;">The result has been a sucess, read more about this initiative at </span><a href="https://medium.com/mozilla-support-brazil/mozpizza-hackathon-support-brazil-fde937006053#.6zoix5obq" style="line-height: 1.7;">MozPizza Hackathon — Support Brazil</a><span style="line-height: 1.7;">.</span></p>
-<h2>Thank you!</h2>
-<p>Thanks to everyone who got involved in my work last year, a special thank you to the entire Mozilla community, the Reps program team and the Mozilla Leadership Network.</p>
-<p>I would like to name everyone, but there are many, so if you worked with me on any task this year, a big thank you!</p>
-<p>The post <a href="https://geraldobarros.me/my-mozilla-volunteer-2016-report/" rel="nofollow">My Mozilla Volunteer 2016 Report</a> appeared first on <a href="https://geraldobarros.me" rel="nofollow">Geraldo Barros</a>.</p>]]>
-  </description>
-  <pubDate>Wed, 22 Feb 2017 01:04:31 +0000</pubDate>
   
 </item>
 
