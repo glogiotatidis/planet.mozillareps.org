@@ -1,7 +1,7 @@
 # Mozilla Reps Planet
 
 This repository contains the builder and the website for
-http://planet.mozilla.org.
+http://planet.mozillareps.org/
 
 ## Operation
 
