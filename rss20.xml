@@ -10,6 +10,15 @@
 
 
 <item>
+	<title>Christophe Villeneuve - Introduction aux WebExtensions lundi prochain chez Mozilla Paris</title>
+	<guid isPermaLink="false">urn:md5:4262c6c53890e5fc080de2c669b5e819</guid>
+	<link>https://blog.mozfr.org/post/2017/10/Introduction-aux-WebExtensions-lundi-prochain-chez-Mozilla-Paris</link>
+	<description>Le prochain Firefox – Firefox Quantum – verra de nombreuses et radicales nouveautés arriver jusqu’au grand public. Un de ces changements sera que Firefox n’acceptera plus que les WebExtensions. (Re)lire : Allumez vos moteurs – Firefox Quantum passe en bêta ...</description>
+	<pubDate>Fri, 13 Oct 2017 06:47:58 +0000</pubDate>
+	
+</item>
+
+<item>
 	<title>Christophe Villeneuve - Firefox Quantum 57 Sprint, à vous de jouer !</title>
 	<guid isPermaLink="false">urn:md5:3f83c3f6c3a84a20b40fb422b3a3ffd7</guid>
 	<link>https://blog.mozfr.org/post/2017/10/firefox-quantum-57-sprint-a-vous-de-jouer</link>
@@ -537,15 +546,6 @@
 	<link>https://alamshahbaz.wordpress.com/2017/04/20/mozcoffee-jaipur/</link>
 	<description>When you see people around you, have enough potential to lead a project or be a mentor to someone . Its your duty to guide them to a proper channel so that they follows the same. Recently I became Mozilla ...</description>
 	<pubDate>Thu, 20 Apr 2017 10:20:04 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Md Shahbaz Alam - Jaipur Test Pilot Meetup</title>
-	<guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=714</guid>
-	<link>https://alamshahbaz.wordpress.com/2017/04/17/jaipur-test-pilot-meetup/</link>
-	<description>With the help of the contributors, we aim to explore Test Pilot as a hope to test the experimental add-ons, find issues, file bugs and document. Event was organized in MCR Community House with the MCR members and QA Analyst ...</description>
-	<pubDate>Mon, 17 Apr 2017 05:44:26 +0000</pubDate>
 	
 </item>
 
