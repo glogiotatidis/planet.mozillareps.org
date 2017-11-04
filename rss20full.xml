@@ -10,6 +10,131 @@
 
 
 <item>
+  <title>Christophe Villeneuve - Meetup et hackathon WebExtensions chez Mozilla Paris</title>
+  <guid isPermaLink="false">urn:md5:f89b57e42cee63ea83f2c412bd39b517</guid>
+  <link>https://blog.mozfr.org/post/2017/11/meetup-Hackathon-webextensions-Mozilla-Paris</link>
+  <description>
+    <![CDATA[<p><a href="https://blog.mozfr.org/dotclear/public/MozillaParis/webextensions/salle.jpg"><img alt="Meetup Mozilla Paris" src="https://blog.mozfr.org/dotclear/public/MozillaParis/webextensions/.salle_s.jpg" style="float: right; margin: 0 0 1em 1em;" /></a> Suite au succès du précédent Meetup sur l’<a href="https://blog.mozfr.org/post/2017/10/Introduction-aux-WebExtensions-lundi-prochain-chez-Mozilla-Paris" hreflang="fr" title="Introduction aux WebExtensions lundi prochain chez Mozilla Paris (12 oct. 2017) Communauté Mozilla francophone">introduction aux WebExtensions</a>, nous vous proposons de nous retrouver de nouveau autour des WebExtensions mais sous une nouvelle formule.</p>
+
+
+<p>Ce rendez-vous se déroulera en 2 temps (ou en 2 jours) les <strong>17 et 18 novembre</strong> prochain à Mozilla Paris.</p>    <h3>1<sup>re</sup> étape : le lancement</h3>
+
+
+<p>La première étape de ce rendez-vous sera au format Meetup et lancera la deuxième étape.</p>
+
+
+<p>Ce rendez-vous est destiné à toutes les personnes intéressées par cette mutation dans leur navigateur préféré, mais aussi aux personnes curieuses en matière de compatibilité du code pour le développement web.</p>
+
+
+<p>Le programme de la soirée se composera :</p>
+
+
+<p>Tout d’abord, notre Mozillien <strong>Christophe Villeneuve</strong> (<em>Mozilla Rep</em>), contributeur aux WebExtensions, nous  parlera du portage au sens large, dont :</p>
+<ul>
+<li>le portage des extensions venant de Chrome ;</li>
+<li>des différences entre le bureau et le mobile ;</li>
+<li>les incompatibilités que vous rencontrerez actuellement.</li>
+</ul>
+
+
+<p>Il sera suivi de <strong>Marc Haussaire</strong>, cofondateur du moteur de recherche <a href="https://www.lilo.org/fr/" hreflang="fr" title="Lilo, le moteur de recherche qui finance des projets sociaux">Lilo</a> qui finance des projets sociaux et environnementaux. Marc nous présentera les différentes fonctionnalités utilisées par Lilo dans les WebExtensions :</p>
+<ul>
+<li>affichage de fenêtres liées à un bouton dans Firefox ;</li>
+<li>gestion des <em>content scripts</em> ;</li>
+<li>comment ils ont opéré la migration depuis les extensions <em>legacy</em> (obsolètes).</li>
+</ul>
+
+
+<p>Ensuite, nous préparerons le hackathon du lendemain en partageant liens et astuces, et en récoltant les idées et envies d’extension des présents, même s’ils ne seront pas là pour la seconde journée.</p>
+
+
+<p>Enfin, pour terminer la soirée, il sera possible d’échanger de manière informelle, en dégustant quelques pizzas, autour des différentes présentations, mais aussi sur Firefox en général.</p>
+
+
+<p>L’événement est <strong>gratuit, mais sur inscription</strong> sur <a href="https://www.meetup.com/fr-FR/Firefox-France-User-Group/events/243686714/" hreflang="fr" title="Meetup 17 novembre 2017 : Présentation Hackathon WebExtensions">sa page Meetup</a>.</p>
+
+
+<h3>2ᵉ étape : le jour J</h3>
+
+
+<p>Le jour J va permettre à tout le monde de contribuer individuellement ou par petits groupes aux extensions jusqu’à la soumission sur le site officiel des <a href="https://addons.mozilla.org/fr/firefox/" hreflang="fr" title="Modules pour Firefox"><em>add-ons</em> de Mozilla</a>.</p>
+
+
+<p>Ainsi, à partir des idées et des différentes propositions soumises lors de la soirée de lancement, vous pourrez :</p>
+<ul>
+<li>apprendre et créer une WebExtension ;</li>
+<li>porter une extension Google ou Edge vers Firefox.</li>
+</ul>
+
+
+<p>Il est impératif de <strong>vous munir d’un ordinateur</strong> pour pouvoir programmer sa WebExtension.</p>
+
+
+<p>L’événement est <strong>gratuit, mais sur inscription</strong> sur <a href="https://www.meetup.com/fr-FR/Firefox-France-User-Group/events/243686678/" hreflang="fr" title="Hackathon 18 novembre 2017 : Hackathon WebExtensions">sa page Meetup</a>.</p>
+
+
+<p><img alt="Puzzle Firefox" src="https://blog.mozfr.org/dotclear/public/mozilla/logo/puzzle.jpg" style="display: table; margin: 0 auto;" /></p>
+
+
+<h3>Retour sur l’introduction aux WebExtensions</h3>
+
+
+<p><a href="https://blog.mozfr.org/post/2017/10/Introduction-aux-WebExtensions-lundi-prochain-chez-Mozilla-Paris" hreflang="fr" title="Introduction aux WebExtensions lundi prochain chez Mozilla Paris (12 oct. 2017) Communauté Mozilla francophone">Le mois dernier</a> se déroulait une soirée sous la forme d’une mise en bouche aux WebExtensions. Ce fut l’occasion de découvrir ce chamboulement qui arrive dans vos navigateurs, comme dans Firefox 57 nommé Firefox Quantum, le 14 novembre prochain.</p>
+
+
+<p><img alt="Christophe Villeneuve - Hellosct1" src="https://blog.mozfr.org/dotclear/public/MozillaParis/webextensions/.hellosct1_s.jpg" style="float: right; margin: 0 0 1em 1em;" /></p>
+
+
+<p>Tout d’abord, notre Mozillien Christophe Villeneuve a  aidé à mieux appréhender ces nouvelles extensions, les impacts et les possibilités offertes dans le navigateur, dont voici les diapos (<em>slides</em>)  :</p>
+
+ 
+<div style="margin-bottom: 5px;"> <strong><a href="https://www.slideshare.net/hellosct1/introduction-webextensions-v2" title="Introduction webextensions (v2)">Introduction aux WebExtensions</a> </strong> par <strong><a href="https://www.slideshare.net/hellosct1">Christophe Villeneuve</a></strong> </div>
+
+
+
+<p>Pour illustrer ces explications, il a monté une petite animation pour mieux comprendre l’anatomie des WebExtensions. Il l’a appelée <a href="https://addons.mozilla.org/fr/firefox/addon/screen-saver/" hreflang="fr" title="Screen Saver / Economisateur d'écran par hellosct1 – Modules pour Firefox">Screen saver</a>. Vous pouvez en  consulter les sources sur le <a href="https://github.com/hellosct1/screensaver-webextensions" hreflang="fr" title="Dépôt Screen saver en WebExtensions">dépôt GitHub</a>.</p>
+
+
+<p><img alt="Christophe Fernandes et Athanase Kalantzakis - iGraal" src="https://blog.mozfr.org/dotclear/public/MozillaParis/webextensions/.igraal_s.jpg" style="float: left; margin: 0 1em 1em 0;" /></p>
+
+
+<p>Juste après, ce furent Christophe Fernandes et Athanase Kalantzakis de <a href="https://fr.igraal.com/" hreflang="fr" title="iGraal cashback">iGraal</a> qui ont montré à travers leur expérience professionnelle l’utilisation des extensions en général et des WebExtensions en particulier.</p>
+
+
+<div style="margin-bottom: 5px;"><strong><a href="https://www.slideshare.net/christophefernandes/igraal-et-les-webextensions" title="iGraal et les webextensions">iGraal et les WebExtensions</a></strong> par <strong><a href="https://www.slideshare.net/christophefernandes">Christophe Fernandes</a></strong> </div>
+
+
+
+<p>Nous ne doutons pas que notre second événement pourra, comme le premier, allier apprentissage et bonne humeur. Nous comptons donc sur vous pour ces 2 journées.</p>
+
+
+<p>Pour venir…</p>
+
+<p style="margin: 2em 0 1em 2em; line-height: 1.8em;"><a href="https://www.mozilla.org/en-US/contact/spaces/paris/" title="Mozilla Spaces Paris"><img alt="Mozilla Spaces Paris" src="https://blog.mozfr.org/dotclear/public/MozillaParis/20170109/.mozillaspaces_paris_s.png" style="float: right; margin: 0 0 1em 1em;" /></a><strong>Vendredi 17 novembre 2017 à 19 h 00</strong><br />
+<a href="https://www.mozilla.org/">Fondation Mozilla</a><br />
+<strong>16 bis, boulevard Montmartre</strong>, Paris 9ᵉ (<a href="https://www.openstreetmap.org/node/2883451098#map=18/48.87195/2.34215" hreflang="fr" title="OpenStreetMap">plan libre</a>)<br />
+<em>Accès handicapé</em><br />
+<br />
+<a href="https://blog.mozfr.org/dotclear/public/Firefox_OS/station-gare.png"><img alt="" src="https://blog.mozfr.org/dotclear/public/Firefox_OS/station-gare.png" style="float: left; margin: 0 1em 1em 0;" /></a>Métro : préférez <strong>Grands Boulevards</strong><br />
+(sortie <strong>Musée Grévin</strong>)<br />
+<br />
+<a href="https://github.com/mozfr/besogne/wiki/Se-rendre-%C3%A0-Mozilla-Paris" hreflang="fr" title="Se rendre à Mozilla Paris · mozfr/besogne Wiki">Se rendre à Mozilla Paris</a> sur notre wiki.</p>
+
+<address><br />
+<a href="https://twitter.com/hellosct1" hreflang="fr" title="Christophe Villeneuve (@hellosct1) sur Twitter">@hellosct1</a> </address>
+
+
+
+<p><em>Précédent événement :</em>  <a href="https://blog.mozfr.org/post/2017/10/alchimie-12-apres-2-annees-d-absence" hreflang="fr" title="Alchimie 12, après 2 années d’absence">Alchimie 12, après 2 années d’absence</a></p>
+
+
+<p><em>Crédit photo :</em> <a href="https://www.flickr.com/photos/mozinet/albums/72157662214314018/with/38106494702/" hreflang="fr" title="Meetup Introduction WebExtensions octobre 2017 – Mozilla Paris">Mozinet</a> sous licence <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.fr&amp;quot" hreflang="fr" title="Creative Commons — Attribution - partage dans les mêmes conditions 2.0 Générique — CC BY-SA 2.0">CC By-SA 2.0</a>.</p>]]>
+  </description>
+  <pubDate>Sat, 04 Nov 2017 01:24:12 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Official Reps Blog - Resources Reps, what’s next?</title>
   <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=515</guid>
   <link>https://blog.mozilla.org/mozillareps/2017/11/01/resources-reps-whats-next/</link>
@@ -2112,24 +2237,6 @@ More info: <a href="https://cpa.cryptorave.org/pt-BR/CR2017/public/events/46">ta
 <p>The post <a href="https://geraldobarros.me/internet-health-report-cryptorave-2017/" rel="nofollow">The Internet Health Report at CryptoRave 2017</a> appeared first on <a href="https://geraldobarros.me" rel="nofollow">Geraldo Barros</a>.</p>]]>
   </description>
   <pubDate>Fri, 05 May 2017 14:45:23 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Official Reps Blog - Rep of the Month – March 2017</title>
-  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=492</guid>
-  <link>https://blog.mozilla.org/mozillareps/2017/05/04/rep-of-the-month-march-2017/</link>
-  <description>
-    <![CDATA[<p>Please join us in congratulating <a href="https://reps.mozilla.org/u/kelimuttu/" rel="nofollow noopener">Rizki Kelimutu</a>, our Rep of the Month for March 2017!</p>
-<p>Kiki is an awesome Rep from Indonesia based in Jakarta. You might have met her in Bugzilla since her daily job is handling seamlessly all the Reps budget and swag requests. But Kiki is restless! So after the endless hours of Bugzilla she volunteers her time on building and developing the community in Indonesia.</p>
-<div class="lightbox-wrapper">
-<p><a class="lightbox" href="https://discourse-paas-production-content.s3.amazonaws.com/original/2X/2/28b539b3983ba2527c38d38a68e129e19d61ce51.jpg" rel="nofollow noopener" title="photo252963858974616268.jpg"><img height="456" src="https://discourse-paas-production-content.s3.amazonaws.com/optimized/2X/2/28b539b3983ba2527c38d38a68e129e19d61ce51_1_690x456.jpg" width="690" /></a></p>
-<div class="meta"><span class="informations"> </span></div>
-</div>
-<p>During the past few months Kiki has worked on expanding the Aurora community and organizing SUMO days. She has also been advocating to local audiences about online privacy. Further, she has been advocating for Mozilla and has been building a community in Kopdar. Lately she has also represented Mozilla along with other volunteers Mozilla in WikuFest. Kiki has also recently joined the Tech Speakers program, expanding her skills even further. And she has done all this while being one of the space wrangles of the amazing Jakarta space.</p>
-<p>Thank you Kiki for being awesome, keep rocking the free web! <a href="https://discourse.mozilla-community.org/t/rep-of-the-month-march-2017/15392">Please join us in congratulating her on Discourse!</a></p>]]>
-  </description>
-  <pubDate>Thu, 04 May 2017 09:28:40 +0000</pubDate>
   
 </item>
 
