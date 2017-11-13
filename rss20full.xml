@@ -10,6 +10,25 @@
 
 
 <item>
+  <title>Michal Stanke - Pontoon Tools 3.0</title>
+  <guid isPermaLink="false">http://michal.stanke.cz/2017/11/12/pontoon-tools-3-0</guid>
+  <link>http://michal.stanke.cz/2017/11/12/pontoon-tools-3-0.html</link>
+  <description>
+    <![CDATA[<p>After 150 commits in total, Pontoon Tools got a third major release 3.0! From now on, post-installation/update tour will show you the most important features in Pontoon Tools. So this time for the last time probably (and shortly) what’s new in the new and still shiny Pontoon Tools 3.0.</p>
+
+<p>As noted, there is a new introduction tour listing all major features of Pontoon Tools. It will appear after first installation or major version update. You can guess where I took inspiration for its design. Please check it carefully, as there may be feature you were not aware of before. ;)</p>
+
+<p><a href="http://michal.stanke.cz/assets/img/pontoon-tools-intro.jpg" style="display: block; text-align: center;"><img alt="Pontoon Tools introduction tour" src="http://michal.stanke.cz/assets/img/pontoon-tools-intro.jpg" /></a></p>
+
+<p>Also a completely new feature arrived, which are system notifications. Pontoon Tools can now utilize the <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/user_interface/Notifications">notifications API</a> to inform you about new unread notifications in Pontoon. Because I understand not everyone must be happy with something popping up in the system, this feature is disabled by default and the introduction tour will allow you to enable it quickly.</p>
+
+<p>And last but not least, I have unified the toolbar button popup style with Pontoon itself, and added short information about last team activity. The complete list of all the small improvements, including those on background, can be found in the <a href="https://github.com/MikkCZ/pontoon-tools/releases/tag/v3.0">release notes</a>. If you are not using Pontoon Tools yet, your can <a href="https://addons.mozilla.org/firefox/addon/pontoon-tools/">install them into your Firefox from AMO</a>.</p>]]>
+  </description>
+  <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Xavier Martorell - My Experience - Mozfest17</title>
   <guid isPermaLink="false">https://yunit0.tumblr.com/post/167299502492</guid>
   <link>https://yunit0.tumblr.com/post/167299502492</link>
@@ -2281,17 +2300,6 @@ Image head:  <a href="https://twitter.com/_DouglasEsteves">Douglas Esteves</a>
 <p>The post <a href="https://geraldobarros.me/mozilla-cryptorave-2017-24-hours-privacy-freedom-network/" rel="nofollow">[Mozilla at] CryptoRave 2017 — 24 hours for privacy and freedom in the network</a> appeared first on <a href="https://geraldobarros.me" rel="nofollow">Geraldo Barros</a>.</p>]]>
   </description>
   <pubDate>Mon, 08 May 2017 03:31:51 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Viswaprasath KS - Simple Tab Closing Addon using WebExtension API</title>
-  <guid isPermaLink="false">http://iamVP7.in//Simple-Tab-Closing-Extension/</guid>
-  <link>http://iamVP7.in//Simple-Tab-Closing-Extension/</link>
-  <description>
-    <![CDATA[<p>Before reading this post setup your Firefox so you can run WebExtensions in your browser.</p>]]>
-  </description>
-  <pubDate>Fri, 05 May 2017 23:34:00 +0000</pubDate>
   
 </item>
 
