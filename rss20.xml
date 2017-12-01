@@ -10,6 +10,15 @@
 
 
 <item>
+	<title>Christophe Villeneuve - Retour sur le meetup-hackathon WebExtensions</title>
+	<guid isPermaLink="false">urn:md5:1e47a3027ffc329dd34f5915c1b93018</guid>
+	<link>https://blog.mozfr.org/post/2017/12/retour-meetup-hackathon-WebExtensions</link>
+	<description>Les 17 et 18 novembre dernier, Mozilla Paris accueillait un hackathon dédié aux WebExtensions. Ce nouveau modèle d’extensions multinavigateur était devenu exclusif dans Firefox quelques jours plus tôt. Une soirée de présentation a précédé la journée de programmation de ces ...</description>
+	<pubDate>Fri, 01 Dec 2017 13:47:08 +0000</pubDate>
+	
+</item>
+
+<item>
 	<title>Md Shahbaz Alam - WebVR Camp @ JRU, Ranchi</title>
 	<guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=929</guid>
 	<link>https://alamshahbaz.wordpress.com/2017/11/30/webvr-camp-jru-ranchi/</link>
@@ -537,15 +546,6 @@
 	<link>https://geraldobarros.me/my-first-webvr-camp-roadshow-with-local-projects-based-in-sao-paulo-and-campinas/</link>
 	<description>In recent weeks I’ve taken my time to dive into WebVR with A-Frame and teach people from technology projects to create new things using A-Frame, the result is that I teach WebVR/A-Frame to developers, creators, educators, clubbers, Mozilla volunteers and ...</description>
 	<pubDate>Thu, 25 May 2017 00:52:24 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Md Shahbaz Alam - Jaipur Uses Firefox Nightly</title>
-	<guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=779</guid>
-	<link>https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/</link>
-	<description>It was an initiative to run a pilot campaign for Firefox Nightly in Jaipur as it is happening throughout India. Through this event we wanted be building strong technical community in Jaipur which will be using and testing Nightly on ...</description>
-	<pubDate>Tue, 16 May 2017 04:31:14 +0000</pubDate>
 	
 </item>
 

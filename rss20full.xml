@@ -10,6 +10,68 @@
 
 
 <item>
+  <title>Christophe Villeneuve - Retour sur le meetup-hackathon WebExtensions</title>
+  <guid isPermaLink="false">urn:md5:1e47a3027ffc329dd34f5915c1b93018</guid>
+  <link>https://blog.mozfr.org/post/2017/12/retour-meetup-hackathon-WebExtensions</link>
+  <description>
+    <![CDATA[<p><a href="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/soiree.jpg"><img alt="Soiree WebExtensions" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/.soiree_m.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;" /></a> Les 17 et 18 novembre dernier, Mozilla Paris <a href="https://blog.mozfr.org/post/2017/11/meetup-Hackathon-webextensions-Mozilla-Paris" hreflang="fr" title="Meetup et hackathon WebExtensions chez Mozilla Paris (3 nov. 2017) Communauté Mozilla francophone">accueillait</a> un hackathon dédié aux WebExtensions. Ce nouveau modèle d’extensions multinavigateur était devenu exclusif dans Firefox quelques jours plus tôt. Une soirée de présentation a précédé la journée de programmation de ces extensions.</p>
+<p>Pour préparer le hackathon, il fallait une soirée de lancement.</p>    <p><a href="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/conf-meetup.jpg" title="Salle conférence à Mozilla Paris"><img alt="Salle conférence à Mozilla Paris" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/.conf-meetup_m.jpg" style="margin: 0 auto; display: block;" /></a></p>
+
+<p>Ce hackathon sous le signe du portage et de la migration des extensions a été introduit par deux présentations.</p>
+
+<p>Tout d’abord, notre Mozillien Christophe Villeneuve a montré comment porter les extensions développées pour Chrome vers Firefox. Il a listé les erreurs couramment rencontrées lors de ces opérations. Vous pouvez retrouver ses diapos (<i lang="en">slides</i>) :</p>
+
+<div style="margin-bottom: 5px;"><a href="https://www.slideshare.net/hellosct1/le-portage-des-webextensions" title="Le portage des WebExtensions">Le portage des WebExtensions</a> par <a href="https://www.slideshare.net/hellosct1">Christophe Villeneuve</a></div>
+
+<p>Ensuite, Marc de <a href="https://www.lilo.org/fr/" hreflang="fr" title="Lilo moteur de recherche">Lilo</a> a partagé son expérience dans le développement d’extensions pour un moteur de recherche « qui finance des projets sociaux et environnementaux ». Il a justifié ses choix techniques face aux  contraintes de son service et des navigateurs pris en charge.</p>
+
+<p><a href="https://www.lilo.org/dl/presentation-Lilo-Firefox.pptx" hreflang="fr" title="Lilo et les WebExtensions"><img alt="slide lilo - Meetup Hackathon" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/.lilo_m.png" style="display: table; margin: 0 auto;" /></a><br />
+<a href="https://www.lilo.org/dl/presentation-Lilo-Firefox.pptx" hreflang="fr" style="display: block; text-align: center;" title="Lilo et les WebExtensions">Lilo et les WebExtensions [<abbr title="Format PowerPoint de Microsoft">PPTX</abbr>]</a></p>
+
+<p>Enfin, il a été temps pour les participants de proposer leurs envies, manques, besoin aux <i lang="en">hackers</i> du lendemain.</p>
+
+<p><img alt="idées pour le hackathon" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/.idees_m.jpg" style="display: table; margin: 0 auto;" /><br />
+<em style="display: block; text-align: center;">Extrait des idées des participants</em></p>
+
+<p>Après une courte nuit, les participants sont revenus avec beaucoup d’idées suite aux différentes conversations de la veille.</p>
+
+<p>Au cours de la journée, les développements ont été très variés, avec une pause en milieu de journée pour reprendre des forces. Voici une petite liste des projets en cours établie en fin de journée :</p>
+
+<p><a href="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/midi.jpg"><img alt="repas du midi" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/.midi_m.jpg" style="float: right; margin: 0 0 1em 1em; width: 150px;" /></a></p>
+<ul>
+<li>Tamper proxy (anciennement Tamper Data) : monitoring de requête</li>
+<li>Top Word  : un outil pour analyser le nombre de mots employés dans une page et les classer</li>
+<li>Aria Liner : une extension d’accessibilité</li>
+<li>Un cloneur de contenu</li>
+<li>Une extension pour communiquer avec le site liveslide.io</li>
+<li>DevTools PHP : un débogueur PHP dans la console</li>
+</ul>
+
+<p>Ce fut l’occasion pour les participants d’apprendre à créer les extensions. Ils vont continuer le développement pour pouvoir les mettre prochainement dans le <a href="http://addons.mozilla.org/" hreflang="fr" title="Site des extensions de Firefox">dépôt site des extensions</a> de Mozilla.</p>
+
+<p>Nous sommes sûrs que certains projets verront le jour très rapidement.</p>
+
+<p>En outre, les idées proposées et non retenues ne sont pas perdues. Elles ont été envoyées sur le <a href="https://github.com/firefox-addons/ideas/issues" hreflang="en" title="dépôt communautaire des extensions">dépôt communautaire</a>. La communauté des extensions pourra s’en inspirer pour en réaliser une.</p>
+
+<p>Après ce marathon, les organisateurs ont reçu des demandes pour refaire un événement de ce type. Ils ont été sensibles à cette forte demande… Ce sera pour 2018. Alors, à suivre…</p>
+
+<address><br />
+<a href="https://twitter.com/hellosct1" hreflang="fr" title="Christophe Villeneuve (@hellosct1) sur Twitter">@hellosct1</a>
+</address>
+
+<p><br />
+<em>Précédent événement :</em>  <a href="https://blog.mozfr.org/post/2017/11/Mozilla-Paris-Open-Source-Summit-6-7-decembre" hreflang="fr" title="Mozilla au Paris Open Source Summit les 6 et 7 décembre">Mozilla au Paris Open Source Summit les 6 et 7 décembre</a></p>
+
+<p><em>Crédit photos :</em></p>
+
+<p>Photo n° 1 <a href="https://www.flickr.com/photos/mozinet/albums/72157662214314018/with/38106494702/" hreflang="fr" title="Meetup Introduction WebExtensions octobre 2017 – Mozilla Paris">Mozinet</a> sous licence <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.fr&amp;quot" hreflang="fr" title="Creative Commons — Attribution - partage dans les mêmes conditions 2.0 Générique — CC BY-SA 2.0">CC By-SA 2.0</a></p>
+<p>Photo n<sup>os</sup> 2 à 4 <a href="https://www.flickr.com/photos/26276571@N03/albums/72157676896112176/" hreflang="fr" title="Open Source Summit 2016">Hellosct1</a> sous licence <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.fr&amp;quot" hreflang="fr" title="Creative Commons — Attribution - partage dans les mêmes conditions 2.0 Générique — CC BY-SA 2.0">CC By-SA 2.0</a>.</p>]]>
+  </description>
+  <pubDate>Fri, 01 Dec 2017 13:47:08 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Md Shahbaz Alam - WebVR Camp @ JRU, Ranchi</title>
   <guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=929</guid>
   <link>https://alamshahbaz.wordpress.com/2017/11/30/webvr-camp-jru-ranchi/</link>
@@ -2281,30 +2343,6 @@ Doing good is part of our code</blockquote>
 <p>The post <a href="https://geraldobarros.me/my-first-webvr-camp-roadshow-with-local-projects-based-in-sao-paulo-and-campinas/" rel="nofollow">My first WebVR Camp roadshow with local projects based in São Paulo and Campinas</a> appeared first on <a href="https://geraldobarros.me" rel="nofollow">Geraldo Barros</a>.</p>]]>
   </description>
   <pubDate>Thu, 25 May 2017 00:52:24 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Md Shahbaz Alam - Jaipur Uses Firefox Nightly</title>
-  <guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=779</guid>
-  <link>https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/</link>
-  <description>
-    <![CDATA[<p><span class="">It was an initiative to run a pilot campaign for <a href="https://reps.mozilla.org/e/jaipur-uses-firefox-nightly/" rel="noopener noreferrer" target="_blank">Firefox Nightly in Jaipur</a> as it is happening throughout India. Through this event we wanted be building strong technical community in Jaipur which will be using and testing Nightly on a regular basic which is a great way to get involved to a Mozilla project.<br />
-</span></p>
-<p>Event started with a brief introduction of Mozilla and What is <a href="https://wiki.mozilla.org/Nightly#What_is_Firefox_Nightly.3F" rel="noopener noreferrer" target="_blank">Firefox Nightly</a>? And then we have shared the nightly file so that everyone has nightly browser to explore and use on a daily basis. As they were installing on their computer I talked about importance of nightly user and what great impact it gives back to community when we use this browser and file a bug if any in nightly browser.</p>
-
-<a href="https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/18486436_1699395803409501_859767328494890206_n/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/05/18486436_1699395803409501_859767328494890206_n.jpg?w=150&amp;h=113" width="150" /></a>
-<a href="https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/18424083_1699395463409535_979582241966293095_n/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/05/18424083_1699395463409535_979582241966293095_n.jpg?w=150&amp;h=113" width="150" /></a>
-<a href="https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/18519492_1699395663409515_5940272611773158119_n/"><img alt="" class="attachment-thumbnail size-thumbnail" height="84" src="https://alamshahbaz.files.wordpress.com/2017/05/18519492_1699395663409515_5940272611773158119_n.jpg?w=150&amp;h=84" width="150" /></a>
-
-<p>After the installation we have discussed about two methods of filing bug. One for the browser specific , use <a href="http://bugzilla.mozilla.org/" rel="noopener noreferrer" target="_blank">bugzilla</a> and for website which are not compatible in nightly, use <a href="http://webcompat.com/" rel="noopener noreferrer" target="_blank">webcompat</a> . Also gave a demo of <span class="mw-headline" id="What_is_the_Nightly_Tester_Tools_extension.3F"><a href="https://addons.mozilla.org/firefox/addon/nightly-tester-tools/" rel="noopener noreferrer" target="_blank">Nightly Tester Tools extension</a> and how they an use it in the browser.<br />
-</span></p>
-<p>During the event we shared <a href="https://www.facebook.com/mdsbzalam/posts/1699396156742799?pnref=story" rel="noopener noreferrer" target="_blank">pictures</a> on social media and used profile changer and shared the details of campaign and nightly on twitter. Also one of the participant filed two bugs,<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1364735" rel="noopener noreferrer" target="_blank"> one on bugzilla</a> and <a href="https://webcompat.com/issues/6694" rel="noopener noreferrer" target="_blank">one on webcompat</a> . Everyone will be using this browser on a daily basis and we are looking forward for more bugs to be filed .</p>
-
-<a href="https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/18424069_1699395300076218_8572378443863762929_n/"><img alt="" class="attachment-thumbnail size-thumbnail" height="84" src="https://alamshahbaz.files.wordpress.com/2017/05/18424069_1699395300076218_8572378443863762929_n.jpg?w=150&amp;h=84" width="150" /></a>
-<a href="https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/18485310_1699396106742804_4277924514248193578_n/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/05/18485310_1699396106742804_4277924514248193578_n.jpg?w=150&amp;h=113" width="150" /></a><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/alamshahbaz.wordpress.com/779/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/alamshahbaz.wordpress.com/779/" /></a> <img alt="" border="0" height="1" src="https://pixel.wp.com/b.gif?host=alamshahbaz.wordpress.com&amp;blog=73514675&amp;post=779&amp;subd=alamshahbaz&amp;ref=&amp;feed=1" width="1" />]]>
-  </description>
-  <pubDate>Tue, 16 May 2017 04:31:14 +0000</pubDate>
   
 </item>
 
