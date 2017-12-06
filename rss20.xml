@@ -10,6 +10,15 @@
 
 
 <item>
+	<title>Mehul Patel - Maker Fest 2018, Ahmedabad – Call for Participation</title>
+	<guid isPermaLink="false">http://www.rowdymehul.com/?p=1458</guid>
+	<link>http://www.rowdymehul.com/mozilla/maker-fest-2018-ahmedabad-call-for-participation/</link>
+	<description>Hey Mozillians! We are so thrilled to announce that Mozilla India is partnering with the India’s largest Maker Festival, Maker Fest 2018 for the 5th consecutive year. The call for participation is open for all Mozillians. Mozilla India has partnered ...</description>
+	<pubDate>Tue, 05 Dec 2017 18:59:10 +0000</pubDate>
+	
+</item>
+
+<item>
 	<title>Christophe Villeneuve - Retour sur le meetup-hackathon WebExtensions</title>
 	<guid isPermaLink="false">urn:md5:1e47a3027ffc329dd34f5915c1b93018</guid>
 	<link>https://blog.mozfr.org/post/2017/12/retour-meetup-hackathon-WebExtensions</link>
@@ -210,7 +219,7 @@
 <item>
 	<title>Mehul Patel - Dive Into Rust at ORDINATEUR’17</title>
 	<guid isPermaLink="false">http://www.rowdymehul.com/?p=1416</guid>
-	<link>http://www.rowdymehul.com/dive-into-rust-at-ordinateur17/</link>
+	<link>http://www.rowdymehul.com/mozilla/dive-into-rust-at-ordinateur17/</link>
 	<description>The event is focused on introducing and teaching the state of art system programming language Rust to local programmers and Mozillians in Gujarat. This is the first time Mozilla will participate at ORDINATEUR’17! The summit will involve students and tech ...</description>
 	<pubDate>Sat, 23 Sep 2017 23:37:52 +0000</pubDate>
 	
@@ -219,7 +228,7 @@
 <item>
 	<title>Mehul Patel - Why Open Source ?</title>
 	<guid isPermaLink="false">http://www.rowdymehul.com/?p=1406</guid>
-	<link>http://www.rowdymehul.com/why-open-source/</link>
+	<link>http://www.rowdymehul.com/mozilla/why-open-source/</link>
 	<description>Firstly, let me extend the thanks to Yuvalay Electronics Lab for inviting me as Speaker to give a talk on Open Source. Moreover, kudos to you to arrange a talk on Open source first time ever in Vadodara city. About ...</description>
 	<pubDate>Sat, 23 Sep 2017 22:25:32 +0000</pubDate>
 	
@@ -282,7 +291,7 @@
 <item>
 	<title>Mehul Patel - MozConnect with IEEE R10 Sectional Leadership Summit</title>
 	<guid isPermaLink="false">http://www.rowdymehul.com/?p=1374</guid>
-	<link>http://www.rowdymehul.com/mozconnect-with-ieee-r10-sectional-leadership-summit/</link>
+	<link>http://www.rowdymehul.com/mozilla/mozconnect-with-ieee-r10-sectional-leadership-summit/</link>
 	<description>While wrapping up with RainOfRust campaigns I was working on reports and gathering feedbacks from the community about our recent initiative and we got an overwhelmed responses from the all around. The participation with IEEE R10 Sectional Leadership Summit was ...</description>
 	<pubDate>Tue, 22 Aug 2017 17:18:40 +0000</pubDate>
 	
@@ -381,7 +390,7 @@
 <item>
 	<title>Mehul Patel - Rain Of Rust – How we did it?</title>
 	<guid isPermaLink="false">http://www.rowdymehul.com/?p=1343</guid>
-	<link>http://www.rowdymehul.com/rain-of-rust-how-we-did-it/</link>
+	<link>http://www.rowdymehul.com/mozilla/rain-of-rust-how-we-did-it/</link>
 	<description>Growing up I was a tech geek, always kept myself updated with the latest ongoing in the language world. It always excited me to explore the tiny bits of these platforms and constantly kept myself updated with brushing my knowledge. ...</description>
 	<pubDate>Tue, 18 Jul 2017 10:35:00 +0000</pubDate>
 	
@@ -537,15 +546,6 @@
 	<link>https://khantanzeel.wordpress.com/2017/05/25/kashmir-uses-firefox-nightly/</link>
 	<description>The event was a part of PAN India pilot campaign for Firefox Nightly aimed to create a strong technical community who will be using and testing Nightly on a regular basis. Besides, it was a meetup for community members in ...</description>
 	<pubDate>Thu, 25 May 2017 15:55:59 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Geraldo Barros - My first WebVR Camp roadshow with local projects based in São Paulo and Campinas</title>
-	<guid isPermaLink="false">https://geraldobarros.me/?p=742</guid>
-	<link>https://geraldobarros.me/my-first-webvr-camp-roadshow-with-local-projects-based-in-sao-paulo-and-campinas/</link>
-	<description>In recent weeks I’ve taken my time to dive into WebVR with A-Frame and teach people from technology projects to create new things using A-Frame, the result is that I teach WebVR/A-Frame to developers, creators, educators, clubbers, Mozilla volunteers and ...</description>
-	<pubDate>Thu, 25 May 2017 00:52:24 +0000</pubDate>
 	
 </item>
 
