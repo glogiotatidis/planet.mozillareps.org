@@ -10,6 +10,24 @@
 
 
 <item>
+	<title>Official Reps Blog - Reps Council at Austin</title>
+	<guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=522</guid>
+	<link>https://blog.mozilla.org/mozillareps/2018/01/11/reps-council-at-austin/</link>
+	<description>TL;DR The All Hands is a special time of the year where Mozilla employees along with core volunteers gather for a week of many meetings and brainstorming. The All Hands Wiki page has more information about the general setting. During ...</description>
+	<pubDate>Thu, 11 Jan 2018 13:41:51 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Christophe Villeneuve - Comm Mozilla fr : le bilan 2017 Ⅰ</title>
+	<guid isPermaLink="false">urn:md5:989461183f766655cf53c9ede1493066</guid>
+	<link>https://blog.mozfr.org/post/2018/01/Comm-Mozilla-fr-bilan-2017-1re-partie</link>
+	<description>Poster pour Firefox Quantum lors de son développement (Sean Martell)L’actualité du projet Mozilla a encore été chargée en 2017. La communauté Mozilla francophone a été bien occupée elle aussi. Elle a notamment produit un nombre impressionnant de traductions de qualité ...</description>
+	<pubDate>Wed, 10 Jan 2018 19:42:09 +0000</pubDate>
+	
+</item>
+
+<item>
 	<title>Christophe Villeneuve - Meilleurs vœux pour 2018</title>
 	<guid isPermaLink="false">urn:md5:fa68b2a4dc60139bf306872b14ed2bd3</guid>
 	<link>https://blog.mozfr.org/post/2018/01/meilleurs-voeux-2018</link>
@@ -528,24 +546,6 @@
 	<link>http://iamVP7.in//Creating-Simple-Easy-Searcher-Using-ContextMenu/</link>
 	<description>Before reading this post setup your Firefox so you can run WebExtensions in your browser.</description>
 	<pubDate>Sat, 27 May 2017 23:34:00 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Viswaprasath KS - Creating ShortenURL Maker Addon</title>
-	<guid isPermaLink="false">http://iamVP7.in//Creating-ShortenURL-Maker/</guid>
-	<link>http://iamVP7.in//Creating-ShortenURL-Maker/</link>
-	<description>Before reading this post setup your Firefox so you can run WebExtensions in your browser.</description>
-	<pubDate>Sat, 27 May 2017 23:34:00 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Viswaprasath KS - Simple Alarm with Notification</title>
-	<guid isPermaLink="false">http://iamVP7.in//Create-Alarm-And-Notification/</guid>
-	<link>http://iamVP7.in//Create-Alarm-And-Notification/</link>
-	<description>Before reading this post setup your Firefox so you can run WebExtensions in your browser.</description>
-	<pubDate>Thu, 25 May 2017 23:34:00 +0000</pubDate>
 	
 </item>
 
