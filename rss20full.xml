@@ -10,6 +10,35 @@
 
 
 <item>
+  <title>Michal Stanke - Mozilla.cz 2017 recap</title>
+  <guid isPermaLink="false">http://michal.stanke.cz/2018/01/14/mozilla-cz-2017-recap</guid>
+  <link>http://michal.stanke.cz/2018/01/14/mozilla-cz-2017-recap.html</link>
+  <description>
+    <![CDATA[<p>This week I have published a <a href="https://www.mozilla.cz/zpravicky/ohlednuti-za-rokem-2017/">recapitulation of the last year</a>, how we did in 2017 and how we would like to continue in 2018. It was rather a short article in Czech and I would like to elaborate more here for the global Mozilla community.</p>
+
+<p>In the last year we have attended more conferences than I realized. I was surprised when counting them before writing the post, and if I counted right, the final number is eight, plus a secondary school. Btw. did you know we started meetups too? Yes, we did! We call them MozBeers and so far we had them in Prague and Brno, the two largest cities in the Czech Republic. True, our MozBeers are not happening regularly, but we have them. Also I need to highlight we never gathered in the full count on any place, nor meetups nor conferences, but thanks we were able to share our experience and ideas, everything went smooth.</p>
+
+<p>Localization became our natural activity we do not even have to plan or organize much. We have localized both versions of Firefox Focus for Android and iOS (kudos to Michal Vašíček and the rest of the team), all the new Tet Pilot experiments, and Firefox Quantum of course! I don’t want to boast, but retrospectively I think we could do even twice as much l10n work without even noticing.</p>
+
+<p>After such year I am pretty positive about our community traction. There are new faces around and I feel much less pressure on myself, which was not the case a year ago. Despite we still s**k in our communication in the direction outside, I see this improving in the last months. We have created a Telegram channel as an open channel to reach us in a completely informal way for all the Czech users and the broader community. Plus we have got <a href="https://blog.mozilla.org/sumo/2018/01/13/the-big-sumo-report-2017/">Czech in the social support tool</a>. @firefox now speaks Czech too! I hope we can improve in the area of communication in 2018 even more.</p>
+
+<p>There are several priority goals we are already decided to do in 2018:</p>
+<ul>
+  <li>Go through all the <a href="https://bugzilla.mozilla.org/buglist.cgi?cmdtype=runnamed&amp;namedcmd=Open%20[cs]%20bugs">terminology bugs and questions</a> we have filed on ourselves and resolve them.</li>
+  <li>Write a localization style guide. This is a long overdue task.</li>
+  <li>Finish all other, mostly technical <a href="https://www.mozilla.cz/ukoly/">tasks</a> we have.</li>
+  <li>Get Firefox.cz and Mozilla.cz in a new dress. No promises on this, but it seems to happen soonish.</li>
+  <li>Build a strategy for regular and interesting content for Mozilla.cz. This will be a tough one.</li>
+  <li>Show ourselves everywhere possible. ;)</li>
+</ul>
+
+<p>You already see there is plenty for us to do. I could barely complete a half of these tasks only myself, but I see them as a peace of cake being surrounded by the army of awesome Mozillians!</p>]]>
+  </description>
+  <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Christophe Villeneuve - Comm Mozilla fr : le bilan 2017 Ⅰ</title>
   <guid isPermaLink="false">urn:md5:989461183f766655cf53c9ede1493066</guid>
   <link>https://blog.mozfr.org/post/2018/01/Comm-Mozilla-fr-bilan-2017-1re-partie</link>
@@ -2569,24 +2598,6 @@ Doing good is part of our code</blockquote>
 <div class="" id="magicdomid31"></div><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/alamshahbaz.wordpress.com/848/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/alamshahbaz.wordpress.com/848/" /></a> <img alt="" border="0" height="1" src="https://pixel.wp.com/b.gif?host=alamshahbaz.wordpress.com&amp;blog=73514675&amp;post=848&amp;subd=alamshahbaz&amp;ref=&amp;feed=1" width="1" />]]>
   </description>
   <pubDate>Sat, 10 Jun 2017 06:43:29 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Official Reps Blog - Rep of the Month – May 2017</title>
-  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=494</guid>
-  <link>https://blog.mozilla.org/mozillareps/2017/05/29/rep-of-the-month-may-2017/</link>
-  <description>
-    <![CDATA[<div class="cooked">
-<p>Please join us in congratulating <a href="https://reps.mozilla.org/u/vabajaj/" rel="nofollow">Vaibhav Bajaj</a>, our Rep of the Month for May 2017!</p>
-<p>Vaibhav is a Reps Mentor from Bhopal, India. He has been contributing as a Mozilla Rep since October 2014.</p>
-<div class="lightbox-wrapper"><a class="lightbox" href="https://discourse-paas-production-content.s3.amazonaws.com/original/2X/3/3d041e89ec5c7520386142992a60bf066a04b0ee.jpg" rel="nofollow" title="3567cb5bef4d24f03d871f4ed1a81e8a.jpg"><img class="aligncenter" height="500" src="https://discourse-paas-production-content.s3.amazonaws.com/optimized/2X/3/3d041e89ec5c7520386142992a60bf066a04b0ee_1_500x500.jpg" width="500" /></a></div>
-<p>During the past few months, Vaibhav has organized a <a href="https://reps.mozilla.org/u/vabajaj/r/2017/January/2/41916/" rel="nofollow">WebVR Camp</a> in Bhopal, and attended the WebVR Camp in Indore. Additionally he took part in the <a href="https://reps.mozilla.org/e/mozilla-hindi-marathi-community-meet-up-2016-1/" rel="nofollow">Hindi &amp; Marathi localization community meetup</a> and participated in the <a href="https://reps.mozilla.org/e/a-frame-hack-night-india/" rel="nofollow">A-Frame Hack Night India</a> which had the goal to create training material about WebVR. To help increase the Nightly usage in India, he is also part of the <a href="https://reps.mozilla.org/e/india-uses-firefox-nightly/" rel="nofollow">India uses Firefox Nightly</a> initiative.</p>
-<p>Vaibhav, Keep rocking the open web!</p>
-<div class="" id="magicdomid21"><a href="https://discourse.mozilla-community.org/t/rep-of-the-month-may-2017/15950"><span class="author-a-ez76zz82zy82z68zfz86zcxz122zmwz76zz66z">Join</span><span class="author-a-tz66zfeb4z79zz66zqz122zz71zpz75zz73zz65zz66z"> us in congratulating him on Discourse.</span></a></div>
-</div>]]>
-  </description>
-  <pubDate>Mon, 29 May 2017 15:46:00 +0000</pubDate>
   
 </item>
 
