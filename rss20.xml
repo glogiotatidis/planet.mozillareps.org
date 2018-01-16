@@ -118,38 +118,11 @@
 </item>
 
 <item>
-	<title>Christophe Villeneuve - Meetup et hackathon WebExtensions chez Mozilla Paris</title>
-	<guid isPermaLink="false">urn:md5:f89b57e42cee63ea83f2c412bd39b517</guid>
-	<link>https://blog.mozfr.org/post/2017/11/meetup-Hackathon-webextensions-Mozilla-Paris</link>
-	<description>Suite au succès du précédent Meetup sur l’introduction aux WebExtensions, nous vous proposons de nous retrouver de nouveau autour des WebExtensions mais sous une nouvelle formule. Ce rendez-vous se déroulera en 2 temps (ou en 2 jours) les 17 et ...</description>
-	<pubDate>Sat, 04 Nov 2017 01:24:12 +0000</pubDate>
-	
-</item>
-
-<item>
 	<title>Official Reps Blog - Resources Reps, what’s next?</title>
 	<guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=515</guid>
 	<link>https://blog.mozilla.org/mozillareps/2017/11/01/resources-reps-whats-next/</link>
 	<description>In the previous blog post, I wrote about the learnings that we got from the initial training session. And last Friday, we just announced the new graduates from the final phase of Resources Rep training. The assessment was made during ...</description>
 	<pubDate>Wed, 01 Nov 2017 16:52:15 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Christophe Villeneuve - Firefox et sécurité vendredi à Associalibre à Bruxelles</title>
-	<guid isPermaLink="false">urn:md5:a0d8aa5ccd3ae166e3c72d690359dc92</guid>
-	<link>https://blog.mozfr.org/post/2017/10/firefox-et-securite-vendredi-associalibre-bruxelles</link>
-	<description>La semaine numérique est un rendez-vous incontournable en Belgique qui se déroulera du 16 au 27 octobre 2017. À cette occasion, pour la troisième année consécutive, Associalibre participera à ce rendez-vous et vous invite les 19 et 20 octobre prochain ...</description>
-	<pubDate>Tue, 31 Oct 2017 20:23:40 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Christophe Villeneuve - Nouveautés Firefox et patrimoine à Mozilla Paris</title>
-	<guid isPermaLink="false">urn:md5:53dbafae8aa3db2f6394179c2ebca374</guid>
-	<link>https://blog.mozfr.org/post/2017/10/Nouveautes-Firefox-patrimoine-Mozilla-Paris</link>
-	<description>Comme depuis cinq années maintenant, les bureaux classés aux monuments historiques de Mozilla à Paris étaient ouverts au public pour les Journées européennes du patrimoine (voir notre annonce). Des Mozilliens étaient présents pour faire la visite aux nombreux curieux et ...</description>
-	<pubDate>Sat, 21 Oct 2017 17:00:00 +0000</pubDate>
 	
 </item>
 
@@ -181,92 +154,11 @@
 </item>
 
 <item>
-	<title>Christophe Villeneuve - Introduction aux WebExtensions lundi prochain chez Mozilla Paris</title>
-	<guid isPermaLink="false">urn:md5:4262c6c53890e5fc080de2c669b5e819</guid>
-	<link>https://blog.mozfr.org/post/2017/10/Introduction-aux-WebExtensions-lundi-prochain-chez-Mozilla-Paris</link>
-	<description>Le prochain Firefox – Firefox Quantum – verra de nombreuses et radicales nouveautés arriver jusqu’au grand public. Un de ces changements sera que Firefox n’acceptera plus que les WebExtensions. (Re)lire : Allumez vos moteurs – Firefox Quantum passe en bêta ...</description>
-	<pubDate>Fri, 13 Oct 2017 05:47:58 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Christophe Villeneuve - Firefox Quantum 57 Sprint, à vous de jouer !</title>
-	<guid isPermaLink="false">urn:md5:3f83c3f6c3a84a20b40fb422b3a3ffd7</guid>
-	<link>https://blog.mozfr.org/post/2017/10/firefox-quantum-57-sprint-a-vous-de-jouer</link>
-	<description>Après le sprint pour Firefox Quantum 57 couru en personne chez Mozilla Paris, nous vous passons le relais pour continuer le sprint de chez vous et vous pouvez courir jusqu’au 8 octobre prochain. Pour cela, nous mettons à votre disposition ...</description>
-	<pubDate>Sat, 07 Oct 2017 14:15:22 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Christophe Villeneuve - Sprintons pour Firefox Quantum 57 le 4 octobre à Paris</title>
-	<guid isPermaLink="false">urn:md5:b340fdf29c86c13b64cc6a49cc6d3fc5</guid>
-	<link>https://blog.mozfr.org/post/2017/09/sprintons-pour-firefox-quantum-57-4-octobre-paris</link>
-	<description>Dans notre précédent article, nous vous proposions de découvrir Firefox 57 pour que chacun puisse contribuer à son succès. Aujourd’hui, nous vous proposons de passer à une nouvelle étape en participant à la campagne mondiale qui se déroulera du 2 ...</description>
-	<pubDate>Thu, 05 Oct 2017 11:56:12 +0000</pubDate>
-	
-</item>
-
-<item>
 	<title>Official Reps Blog - Rep of the Month – September 2017</title>
 	<guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=512</guid>
 	<link>https://blog.mozilla.org/mozillareps/2017/10/03/rep-of-the-month-september-2017/</link>
 	<description>Please join us in congratulating Kushagra Varade, our Rep of the Month for September 2017! Kushagra is a web developer from Bhopal, India and has joined the Reps program in the first Webinar we ever organized back in April. Since ...</description>
 	<pubDate>Tue, 03 Oct 2017 09:14:11 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Viswaprasath KS - Weeks of Contribution- WebExtension Session7</title>
-	<guid isPermaLink="false">http://iamVP7.in//MozWOC-Session7/</guid>
-	<link>http://iamVP7.in//MozWOC-Session7/</link>
-	<description>Date : 29th August 2017</description>
-	<pubDate>Mon, 02 Oct 2017 00:54:00 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Viswaprasath KS - Weeks of Contribution- WebExtension Session6</title>
-	<guid isPermaLink="false">http://iamVP7.in//MozWOC-Session6/</guid>
-	<link>http://iamVP7.in//MozWOC-Session6/</link>
-	<description>Date : 22nd August 2017</description>
-	<pubDate>Mon, 02 Oct 2017 00:34:00 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Viswaprasath KS - Weeks of Contribution- WebExtension Session5</title>
-	<guid isPermaLink="false">http://iamVP7.in//MozWOC-Session5/</guid>
-	<link>http://iamVP7.in//MozWOC-Session5/</link>
-	<description>Date : 4th August 2017</description>
-	<pubDate>Mon, 02 Oct 2017 00:04:00 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Viswaprasath KS - Weeks of Contribution- WebExtension Session4</title>
-	<guid isPermaLink="false">http://iamVP7.in//MozWOC-Session4/</guid>
-	<link>http://iamVP7.in//MozWOC-Session4/</link>
-	<description>Date : 2nd August 2017</description>
-	<pubDate>Sun, 01 Oct 2017 23:34:00 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Viswaprasath KS - MozillaTN SFDHack WebExtension Workshop</title>
-	<guid isPermaLink="false">http://iamVP7.in//SFDHack-MozActivate-WebExt-workshop/</guid>
-	<link>http://iamVP7.in//SFDHack-MozActivate-WebExt-workshop/</link>
-	<description>We wanted to make a strong community in Chennai. We got this wonderful place KCG E-cell. Lot of planning went around this event, and we planned event month before.</description>
-	<pubDate>Fri, 29 Sep 2017 01:34:00 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Christophe Villeneuve - Alternatiba, le week-end prochain à Paris</title>
-	<guid isPermaLink="false">urn:md5:914b7f056972fed4a95dfe48ebf1bf0b</guid>
-	<link>https://blog.mozfr.org/post/2017/09/alternatiba-le-week-end-prochain-a-paris</link>
-	<description>Après deux années de patience, Alternatiba Paris fait son grand retour avec comme mot d’ordre Ensemble, nous sommes une force immense ! Il s’agit de l’important événement citoyen où les solutions alternatives sont abordées. Nous étions présents en 2015 à ...</description>
-	<pubDate>Thu, 28 Sep 2017 13:10:12 +0000</pubDate>
 	
 </item>
 
@@ -285,33 +177,6 @@
 	<link>http://www.rowdymehul.com/mozilla/why-open-source/</link>
 	<description>Firstly, let me extend the thanks to Yuvalay Electronics Lab for inviting me as Speaker to give a talk on Open Source. Moreover, kudos to you to arrange a talk on Open source first time ever in Vadodara city. About ...</description>
 	<pubDate>Sat, 23 Sep 2017 22:25:32 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Viswaprasath KS - MozillaTN SNSCT WebExtension Workshop</title>
-	<guid isPermaLink="false">http://iamVP7.in//SNSCT-MozActivate-WebExt-workshop/</guid>
-	<link>http://iamVP7.in//SNSCT-MozActivate-WebExt-workshop/</link>
-	<description>Coimbatore is one of the amazing city in Tamilnadu, and its so special for MozillaTN community as we have more amazing student contributors. SNSCT college at Coimbatore is so special and is best known for QA activities.</description>
-	<pubDate>Tue, 19 Sep 2017 01:34:00 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Geraldo Barros - Internet Health @Software Freedom Day 2017 São Carlos</title>
-	<guid isPermaLink="false">https://geraldobarros.me/?p=894</guid>
-	<link>https://geraldobarros.me/internet-health-software-freedom-day-2017-sao-carlos/</link>
-	<description>Yesterday I was in one of the editions of Software Freedom Day 2017 in the city of São Carlos to talk about the Internet Health. Here we have a little draft of what we talked! The Software Freedom Day (SFD) ...</description>
-	<pubDate>Sun, 17 Sep 2017 18:36:40 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Christophe Villeneuve - Mozilla vous attend aux Journées du patrimoine les 16 et 17 septembre</title>
-	<guid isPermaLink="false">urn:md5:2f0a34fce4406a436c58ba6dd4a681a0</guid>
-	<link>https://blog.mozfr.org/post/2017/09/Mozilla-vous-attend-journees-europeennes-du-patrimoine-2017-16-17-septembre</link>
-	<description>Les Journées européennes du patrimoine 2017 se dérouleront le 16 et 17 septembre. Le thème de cette année en France est : Jeunesse et Patrimoine, avec de nombreux lieux ouverts gratuitement ou à tarifs réduits. Les bureaux de Mozilla Paris ...</description>
-	<pubDate>Fri, 15 Sep 2017 19:27:35 +0000</pubDate>
 	
 </item>
 
@@ -361,15 +226,6 @@
 </item>
 
 <item>
-	<title>Geraldo Barros - Setting up the success of Dive Into Rust workshops at São Paulo</title>
-	<guid isPermaLink="false">https://geraldobarros.me/?p=847</guid>
-	<link>https://geraldobarros.me/setting-up-the-success-of-dive-into-rust-workshops-at-sao-paulo/</link>
-	<description>The first Dive Into Rust workshop at São Paulo, the connection of Mozilla communities with Rust brazilian community, the people who were with us, our learnings, workshop flow, resources, follow up and the next steps. Last Saturday was our first ...</description>
-	<pubDate>Tue, 15 Aug 2017 18:14:08 +0000</pubDate>
-	
-</item>
-
-<item>
 	<title>Official Reps Blog - Reps Program Objectives – Q3 2017</title>
 	<guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=510</guid>
 	<link>https://blog.mozilla.org/mozillareps/2017/08/15/reps-program-objectives-q3-2017/</link>
@@ -384,33 +240,6 @@
 	<link>http://www.bobreyes.com/myblog/first-time-coscup-taiwan/</link>
 	<description>I had the opportunity to represent Mozilla (and my country) in COSCUP 2017 over the weekend. COSCUP is an annual conference held by Taiwanese Open source community participants since 2006. It’s a major force of Free software movement advocacy in ...</description>
 	<pubDate>Mon, 07 Aug 2017 02:35:27 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Christophe Villeneuve - Création de MoCo – 3 août 2005 – Coup d'œil dans le rétro</title>
-	<guid isPermaLink="false">urn:md5:c79ffd466956db399b5dbc71deee7e90</guid>
-	<link>https://blog.mozfr.org/post/2017/08/Creation-MoCo-3-aout-2005</link>
-	<description>Firefox n’est pas né de nulle part. Il est le fruit d’une riche histoire. Découvrons-en un événement marquant. Le 3 août 2005, la Mozilla Foundation, l’organisation d’intérêt général sans but lucratif de développement de logiciels et chargée du pilotage du ...</description>
-	<pubDate>Fri, 04 Aug 2017 15:01:04 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Viswaprasath KS - Weeks of Contribution- WebExtension Session3</title>
-	<guid isPermaLink="false">http://iamVP7.in//MozWOC-Session3/</guid>
-	<link>http://iamVP7.in//MozWOC-Session3/</link>
-	<description>Date : 28th July 2017</description>
-	<pubDate>Fri, 28 Jul 2017 23:34:00 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Viswaprasath KS - Weeks of Contribution- WebExtension Session1</title>
-	<guid isPermaLink="false">http://iamVP7.in//MozWOC-Session1/</guid>
-	<link>http://iamVP7.in//MozWOC-Session1/</link>
-	<description>Date : 24th July 2017</description>
-	<pubDate>Fri, 28 Jul 2017 23:34:00 +0000</pubDate>
 	
 </item>
 
@@ -451,38 +280,11 @@
 </item>
 
 <item>
-	<title>Mehul Patel - Why should I use Rust?</title>
-	<guid isPermaLink="false">http://www.rowdymehul.com/?p=1334</guid>
-	<link>http://www.rowdymehul.com/why-should-i-use-rust/</link>
-	<description>With respect to subject of my blog, this might be the questions of all who heard about this programming language or who have attended any rust session/workshops very first time. Recently when I was traveling to some cities in India ...</description>
-	<pubDate>Sat, 15 Jul 2017 21:03:12 +0000</pubDate>
-	
-</item>
-
-<item>
 	<title>Official Reps Blog - Reps Mobilizer Experiment</title>
 	<guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=503</guid>
 	<link>https://blog.mozilla.org/mozillareps/2017/07/10/reps-mobilizer-experiment/</link>
 	<description>During the second quarter of 2017, and in order to understand how to better identify, recruit and support mobilizers, we decided to run a small experiment with a reduced set of existing “best in class” mobilizers and walk with them ...</description>
 	<pubDate>Mon, 10 Jul 2017 13:25:18 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Viswaprasath KS - Weeks of Contribution-WebExtension</title>
-	<guid isPermaLink="false">http://iamVP7.in//WebExtension-IRC-Learning/</guid>
-	<link>http://iamVP7.in//WebExtension-IRC-Learning/</link>
-	<description>Weeks of Contribution is one of the amazing series of online event where first time contributors get started contributing to Mozilla Community. It was started in 2015 by set of contributors aiming to bring contributors around Tamilnadu in various areas ...</description>
-	<pubDate>Wed, 05 Jul 2017 23:34:00 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Viswaprasath KS - Weeks of Contribution-WebExtension</title>
-	<guid isPermaLink="false">http://iamVP7.in//PreSession-WOC-Extension-IRC-Learning/</guid>
-	<link>http://iamVP7.in//PreSession-WOC-Extension-IRC-Learning/</link>
-	<description>Weeks of Contribution is one of the amazing series of online event where first time contributors get started contributing to Mozilla Community. It was started in 2015 by set of contributors aiming to bring contributors around Tamilnadu in various areas ...</description>
-	<pubDate>Wed, 05 Jul 2017 23:34:00 +0000</pubDate>
 	
 </item>
 
@@ -505,15 +307,6 @@
 </item>
 
 <item>
-	<title>Geraldo Barros - WebVR with A-Frame @Circuito SENAI</title>
-	<guid isPermaLink="false">https://geraldobarros.me/?p=824</guid>
-	<link>https://geraldobarros.me/webvr-with-frame-circuito-senai/</link>
-	<description>The Circuito SENAI is a technology event of the National Industrial Learning Service in São Paulo that spreaded modern technologies, we worked in this event to ensure that more web developers are introduced on WebVR, 3D and A-Frame to begin ...</description>
-	<pubDate>Thu, 29 Jun 2017 23:17:35 +0000</pubDate>
-	
-</item>
-
-<item>
 	<title>Sanyam Khurana - Why you should contribute to Open Source</title>
 	<guid isPermaLink="false">tag:SanyamKhurana.com,2017-06-26:blog/why-contribute-to-foss.html</guid>
 	<link>http://SanyamKhurana.com/blog/why-contribute-to-foss.html</link>
@@ -532,20 +325,227 @@
 </item>
 
 <item>
-	<title>Official Reps Blog - RepsNext – Status Update June 2017</title>
-	<guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=496</guid>
-	<link>https://blog.mozilla.org/mozillareps/2017/06/22/repsnext-status-update-june-2017/</link>
-	<description>In the past few months we have kept working on the implementation of our RepsNext initiative. The RepsNext initiative has started more than a year ago with the goal to bring the Mozilla Reps program to the next level. Back ...</description>
-	<pubDate>Thu, 22 Jun 2017 10:19:11 +0000</pubDate>
-	
-</item>
-
-<item>
 	<title>Md Shahbaz Alam - A-frame Bug Fixing Contest</title>
 	<guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=848</guid>
 	<link>https://alamshahbaz.wordpress.com/2017/06/10/a-frame-bug-fixing-contest/</link>
 	<description>Hello Mozilla India! We are inviting all the new developers as well as everyone else interested in contributing, to take part in the A-Frame bug fixing contest. A quick description for those who don’t know, A-Frame is an open-source web ...</description>
 	<pubDate>Sat, 10 Jun 2017 06:43:29 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Tanzeel Khan - Kashmir Uses Firefox Nightly</title>
+	<guid isPermaLink="false">http://khantanzeel.wordpress.com/?p=350</guid>
+	<link>https://khantanzeel.wordpress.com/2017/05/25/kashmir-uses-firefox-nightly/</link>
+	<description>The event was a part of PAN India pilot campaign for Firefox Nightly aimed to create a strong technical community who will be using and testing Nightly on a regular basis. Besides, it was a meetup for community members in ...</description>
+	<pubDate>Thu, 25 May 2017 15:55:59 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Md Shahbaz Alam - Jaipur Uses Firefox Nightly</title>
+	<guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=779</guid>
+	<link>https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/</link>
+	<description>It was an initiative to run a pilot campaign for Firefox Nightly in Jaipur as it is happening throughout India. Through this event we wanted be building strong technical community in Jaipur which will be using and testing Nightly on ...</description>
+	<pubDate>Tue, 16 May 2017 04:31:14 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Nino Vranesic - Let’s focus on privacy and get rid of the clutter</title>
+	<guid isPermaLink="false">http://blog.elnino.si/post/160523882052</guid>
+	<link>http://blog.elnino.si/post/160523882052</link>
+	<description>We live in Information Society in which the creation and distribution of information has become the...</description>
+	<pubDate>Wed, 10 May 2017 19:49:39 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Biraj Karmakar - India uses Firefox Nightly: Kick off on May 1, 2017</title>
+	<guid isPermaLink="false">http://birajkarmakar.wordpress.com/?p=1367</guid>
+	<link>https://birajkarmakar.wordpress.com/2017/04/25/india-uses-firefox-nightly-kick-off-on-may-1-2017/</link>
+	<description>In my last blog, I have announced that Mozilla India is going to organize a special campaign on Firefox Nightly Usage in India. RSVP here. Everything is set. Gearing up for the campaign. BTW Recently we have organized one community ...</description>
+	<pubDate>Tue, 25 Apr 2017 13:02:38 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Robert Reyes - Pinoy Mozillians at the 2017 Asian L10n Workshop in Taipei</title>
+	<guid isPermaLink="false">http://www.bobreyes.com/myblog/?p=5149</guid>
+	<link>http://www.bobreyes.com/myblog/pinoy-mozillians-2017-asian-l10n-workshop-taipei/</link>
+	<description>A delegation of four (04) Pinoy Mozillians participated in the weekend-long workshop for Mozilla Localization (L10n) at Mozilla Taiwan office. Heading the delegation was your’s truly, with fellow Mozilla Rep Frederick Villaluna, and Localizers Richmond Lacanlalay and Michelle Manlogon. Bye, ...</description>
+	<pubDate>Mon, 24 Apr 2017 14:55:59 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Nino Vranesic - We need diversity and polymorphism to secure future of the Web</title>
+	<guid isPermaLink="false">http://blog.elnino.si/post/159804822072</guid>
+	<link>http://blog.elnino.si/post/159804822072</link>
+	<description>The digital revolution is now part of our everyday life. Much of the digital change has happened at...</description>
+	<pubDate>Thu, 20 Apr 2017 22:41:46 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Md Shahbaz Alam - MozCoffee Jaipur</title>
+	<guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=738</guid>
+	<link>https://alamshahbaz.wordpress.com/2017/04/20/mozcoffee-jaipur/</link>
+	<description>When you see people around you, have enough potential to lead a project or be a mentor to someone . Its your duty to guide them to a proper channel so that they follows the same. Recently I became Mozilla ...</description>
+	<pubDate>Thu, 20 Apr 2017 10:20:04 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Md Shahbaz Alam - Jaipur Test Pilot Meetup</title>
+	<guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=714</guid>
+	<link>https://alamshahbaz.wordpress.com/2017/04/17/jaipur-test-pilot-meetup/</link>
+	<description>With the help of the contributors, we aim to explore Test Pilot as a hope to test the experimental add-ons, find issues, file bugs and document. Event was organized in MCR Community House with the MCR members and QA Analyst ...</description>
+	<pubDate>Mon, 17 Apr 2017 05:44:26 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Md Shahbaz Alam - MozActivate MITS &amp; Unicorn Club</title>
+	<guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=639</guid>
+	<link>https://alamshahbaz.wordpress.com/2017/04/10/mozactivate-mits-unicorn-club/</link>
+	<description>It all started in the month of January when i requested Mehul Patel to file an event on behalf of me. He is a helpful person who really want to spread the Mozilla Love to all corners of India not ...</description>
+	<pubDate>Mon, 10 Apr 2017 21:06:29 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Elio Qoshi - Joining the Mozilla Creative Team</title>
+	<guid isPermaLink="false">https://elioqoshi.me/?p=1753</guid>
+	<link>https://elioqoshi.me/2017/04/joining-mozilla-creative-team/</link>
+	<description>A day after April Fool’s, it seems like the right time to announce the news: I’m joining the Mozilla Creative Team as a design contractor starting tomorrow. This is a major step and honor for me to work among one ...</description>
+	<pubDate>Sun, 02 Apr 2017 09:24:33 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Biraj Karmakar - India uses Firefox Nightly – A Campaign especially for India</title>
+	<guid isPermaLink="false">http://birajkarmakar.wordpress.com/?p=1289</guid>
+	<link>https://birajkarmakar.wordpress.com/2017/03/30/india-uses-firefox-nightly-a-campaign-especially-for-india/</link>
+	<description>Fellow mozillians, I am super excited to inform you that very soon we are going to release a new campaign in India called “India uses Firefox Nightly“. Behind this campaign, our mission is to increases Firefox nightly usages in India. ...</description>
+	<pubDate>Thu, 30 Mar 2017 15:51:43 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Biraj Karmakar - My dream project – Digital Literacy Camp 2017</title>
+	<guid isPermaLink="false">http://birajkarmakar.wordpress.com/?p=1160</guid>
+	<link>https://birajkarmakar.wordpress.com/2017/03/23/my-dream-project-digital-literacy-camp-2017/</link>
+	<description>Sorry, for posting this late. Actually last few months I was so busy. That’s why I could not write this here. As you all know, the world has now transformed into a global village and the digital literacy movement will ...</description>
+	<pubDate>Thu, 23 Mar 2017 12:59:03 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Robert Reyes - Pinoy Mozillian at FOSSASIA 2017</title>
+	<guid isPermaLink="false">http://www.bobreyes.com/myblog/?p=5134</guid>
+	<link>http://www.bobreyes.com/myblog/pinoy-mozillian-fossasia-2017/</link>
+	<description>I had the privilege of representing Mozilla and my country, the Philippines for the third straight year in FOSSASIA. For the second year in a row, FOSSASIA 2017 was held at the Science Center Singapore from the 17th up to ...</description>
+	<pubDate>Tue, 21 Mar 2017 08:26:26 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Irvin Chen - Mozilla Community Space Taipei Status Report, May 2014 - Feb 2017</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-9654230.post-3432335155184343414</guid>
+	<link>http://irvin.sto.tw/2017/03/mozilla-community-space-taipei-status.html</link>
+	<description>“摩茲工寮, Mozilla Community Space Taipei” is an event/meeting/working space and shelter to the local Mozillians, Mozilla volunteers, and OSS communities. It is the first of three spaces besides Manila Space &amp;amp; Jakarta Space. The spaces are leading by Mozilla Open ...</description>
+	<pubDate>Wed, 15 Mar 2017 03:08:05 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Nino Vranesic - Open letter to Financial Administration of the Republic of Slovenia</title>
+	<guid isPermaLink="false">http://blog.elnino.si/post/158073716607</guid>
+	<link>http://blog.elnino.si/post/158073716607</link>
+	<description>Financial Administration of the Republic of Slovenia has recently (3th of March 2017) published...</description>
+	<pubDate>Mon, 06 Mar 2017 17:49:32 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Robert Reyes - Finally Saw My Name in the Mozilla Firefox Monument!</title>
+	<guid isPermaLink="false">http://www.bobreyes.com/myblog/?p=5126</guid>
+	<link>http://www.bobreyes.com/myblog/finally-saw-name-mozilla-firefox-monument/</link>
+	<description>Late 2013, Mozilla announced that it will be erecting a monument for Mozillians in San Francisco, just outside of its office. “The structure is being constructed now, concrete is being poured, and the monument is planned to be unveiled in ...</description>
+	<pubDate>Mon, 20 Feb 2017 14:20:55 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Abhiram Ravikumar - Mozilla at 4CCON</title>
+	<guid isPermaLink="false">http://abhiramrk.com/?p=310</guid>
+	<link>http://abhiramrk.com/mozilla-at-4ccon/</link>
+	<description>I’m writing a blog post after a long, long time and the reason why I’ve been dormant is because I’ve not done anything of significance for the past 6 months. As I’m writing this, I’m also watching the US Open ...</description>
+	<pubDate>Sun, 19 Feb 2017 17:15:41 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Elio Qoshi - FOSDEM 2017 in Brussels, Belgium – Report</title>
+	<guid isPermaLink="false">https://elioqoshi.me/?p=1646</guid>
+	<link>https://elioqoshi.me/2017/02/fosdem-2017-report/</link>
+	<description>It feels like yesterday when I had my first FOSDEM, Yet more than 3 years passed and my 4th edition of FOSDEM is behind me as well. Throughout all 4 years I have been part of the Mozilla presence, regardless ...</description>
+	<pubDate>Tue, 14 Feb 2017 14:08:05 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Sanyam Khurana - NIEC Activate Mozilla with WebVR</title>
+	<guid isPermaLink="false">tag:SanyamKhurana.com,2017-01-29:blog/niec-mozilla-activate-webvr.html</guid>
+	<link>http://SanyamKhurana.com/blog/niec-mozilla-activate-webvr.html</link>
+	<description>On Saturday, January 28, 2017, we had an event planned at Northern India Engineering College on Activate Mozilla Campaign. Our aim was to cover WebVR track under Build the Web activity. The event was scheduled from 12:00 PM IST to ...</description>
+	<pubDate>Sun, 29 Jan 2017 06:38:00 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Michael Kohler - Mozilla Switzerland Community Meetup 2017</title>
+	<guid isPermaLink="false">https://michaelkohler.info/2017/01/28/mozilla-switzerland-community-meetup-2017/</guid>
+	<link>https://michaelkohler.info/2017/01/28/mozilla-switzerland-community-meetup-2017/</link>
+	<description>On the 28th of January we, the Mozilla Switzerland, community held another community meetup to organize ourselves for the next few months</description>
+	<pubDate>Sat, 28 Jan 2017 20:55:40 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Matjaz Horvat - Diff view for suggestions</title>
+	<guid isPermaLink="false">http://horv.at/blog/?p=1462</guid>
+	<link>http://horv.at/blog/diff-view-for-suggestions/</link>
+	<description>When choosing the right suggestion to approve, it’s sometimes hard to see how they differ among each other, especially if the difference is relatively small compared to the suggestion length. Which is why Pontoon now lets you see the diff ...</description>
+	<pubDate>Fri, 27 Jan 2017 22:12:54 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Sanyam Khurana - Representing Mozilla in FOSS UnConference</title>
+	<guid isPermaLink="false">tag:SanyamKhurana.com,2017-01-09:blog/mozilla-foss-unconference.html</guid>
+	<link>http://SanyamKhurana.com/blog/mozilla-foss-unconference.html</link>
+	<description>On December 17, 2016; we had FOSS un-conference where all Open Source groups gathered to discuss about the FOSS culture. We had people from PyDelhi, PyData Delhi, Mozilla Delhi (MozPacers), LinuxChix India, Sympy, etc. We had three talks scheduled: Netfilters ...</description>
+	<pubDate>Mon, 09 Jan 2017 06:23:00 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Khaleel Jageer - அடுத்து நாம் செய்யவேண்டியவை?</title>
+	<guid isPermaLink="false">http://jskhaleel.wordpress.com/?p=197</guid>
+	<link>https://jskhaleel.wordpress.com/2016/12/15/%e0%ae%85%e0%ae%9f%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%81-%e0%ae%a8%e0%ae%be%e0%ae%ae%e0%af%8d-%e0%ae%9a%e0%af%86%e0%ae%af%e0%af%8d%e0%ae%af%e0%ae%b5%e0%af%87%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%bf/</link>
+	<description>மொசில்லாவின் பலதரப்பட்ட திட்டங்களில் தமிழகத்தை சேர்ந்த பலரும் பங்களித்து வரும் நிலையில், மொழிபெயர்ப்பில் வெகு சிலரே பங்களிப்பாளர்களாக இருந்து வருகின்றனர். இதில் வருத்தப்பட வேண்டிய அவசியம் இல்லை. காரணம் தாய் மொழியை விடுத்து பிறமொழியை கற்றால் தான் சமூகத்தில் வாழமுடியும் என்று நமது பொதுபுத்தியில் விதைக்கப்பட்டுள்ளது. இதுவே நாம் வாழ்ந்து கொண்டிருக்கும் ஒட்டுமொத்த சமூகத்தின் சிந்தனையும் ...</description>
+	<pubDate>Thu, 15 Dec 2016 18:07:05 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Nino Vranesic - Let's wrap up 2016 and get ready for 2017</title>
+	<guid isPermaLink="false">http://blog.elnino.si/post/154474435467</guid>
+	<link>http://blog.elnino.si/post/154474435467</link>
+	<description>Another year is slowly coming to an end. This is a regular type of post which I post at the end of...</description>
+	<pubDate>Wed, 14 Dec 2016 19:39:09 +0000</pubDate>
 	
 </item>
 
