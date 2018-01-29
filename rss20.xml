@@ -11,6 +11,15 @@
 
 <item>
 	<title>Sanyam Khurana - Web Extensions, Womoz &amp; Privacy</title>
+	<guid isPermaLink="false">tag:SanyamKhurana.com,2018-01-23:blog/web-extensions-womoz-privacy.html</guid>
+	<link>http://SanyamKhurana.com/blog/web-extensions-womoz-privacy.html</link>
+	<description>A Saturday well spent teaching students about Open Source, Add-ons and Privacy. We had an activity at Indira Gandhi Delhi Technical University for Women (IGDTUW) for Addons, WoMoz and Privacy. The session started with Trishul giving a talk on getting ...</description>
+	<pubDate>Tue, 23 Jan 2018 14:45:00 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Sanyam Khurana - Web Extensions, Womoz &amp; Privacy</title>
 	<guid isPermaLink="false">tag:SanyamKhurana.com,2018-01-23:blog/mozcoffe-2017-end.html</guid>
 	<link>http://SanyamKhurana.com/blog/mozcoffe-2017-end.html</link>
 	<description>A Saturday well spent teaching students about Open Source, Add-ons and Privacy. We had an activity at Indira Gandhi Delhi Technical University for Women (IGDTUW) for Addons, WoMoz and Privacy. The session started with Trishul giving a talk on getting ...</description>
@@ -537,15 +546,6 @@
 	<link>https://michaelkohler.info/2017/01/28/mozilla-switzerland-community-meetup-2017/</link>
 	<description>On the 28th of January we, the Mozilla Switzerland, community held another community meetup to organize ourselves for the next few months</description>
 	<pubDate>Sat, 28 Jan 2017 20:55:40 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Matjaz Horvat - Diff view for suggestions</title>
-	<guid isPermaLink="false">http://horv.at/blog/?p=1462</guid>
-	<link>http://horv.at/blog/diff-view-for-suggestions/</link>
-	<description>When choosing the right suggestion to approve, it’s sometimes hard to see how they differ among each other, especially if the difference is relatively small compared to the suggestion length. Which is why Pontoon now lets you see the diff ...</description>
-	<pubDate>Fri, 27 Jan 2017 22:12:54 +0000</pubDate>
 	
 </item>
 

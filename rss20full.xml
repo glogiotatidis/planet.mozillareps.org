@@ -11,6 +11,37 @@
 
 <item>
   <title>Sanyam Khurana - Web Extensions, Womoz &amp; Privacy</title>
+  <guid isPermaLink="false">tag:SanyamKhurana.com,2018-01-23:blog/web-extensions-womoz-privacy.html</guid>
+  <link>http://SanyamKhurana.com/blog/web-extensions-womoz-privacy.html</link>
+  <description>
+    <![CDATA[<p>A Saturday well spent teaching students about Open Source, Add-ons and Privacy.</p>
+<p>We had an activity at Indira Gandhi Delhi Technical University for Women (IGDTUW)
+for Addons, WoMoz and Privacy.</p>
+<p>The session started with Trishul giving a talk on getting started with Add-ons.
+He explained about Web Extensions and how they are useful. He also depicted some
+of the extensions built by the community. He explained the use of <tt class="docutils literal">manifest</tt>
+file and then students started making simple add-ons on their own. The
+<a class="reference external" href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension">borderify</a>
+Web Extension was chosen to teach students. Me, Trishul and Shivam helped them
+whenever they were stuck.</p>
+<img alt="Web Extension session" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons.jpg" />
+<p>The next session was took by Faye on Women in Mozilla and how we can improve the
+no of women contributors in the community.</p>
+<img alt="Faye engaging participants" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-faye.jpg" />
+<p>The third session was took by me where I discussed about <cite>What is FOSS</cite> and why
+people should contribute to FOSS. We then discussed on various pathways one can
+start contributing. We also discussed on finding bugs through BugZilla and Bugsahoy
+for Mozilla.</p>
+<p>Then Shashikanth discussed about importance of Privacy issues.</p>
+<p>We ended the event with a capture of all enthusiastic faces in the meetup:</p>
+<img alt="Group photo after Mozilla Web Extension session" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-group.jpg" />]]>
+  </description>
+  <pubDate>Tue, 23 Jan 2018 14:45:00 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Sanyam Khurana - Web Extensions, Womoz &amp; Privacy</title>
   <guid isPermaLink="false">tag:SanyamKhurana.com,2018-01-23:blog/mozcoffe-2017-end.html</guid>
   <link>http://SanyamKhurana.com/blog/mozcoffe-2017-end.html</link>
   <description>
@@ -2284,20 +2315,6 @@ As part of the Open Source Design collective, I have been helping out with the o
     <![CDATA[<p>On the 28th of January we, the Mozilla Switzerland, community held another community meetup to organize ourselves for the next few months</p>]]>
   </description>
   <pubDate>Sat, 28 Jan 2017 20:55:40 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Matjaz Horvat - Diff view for suggestions</title>
-  <guid isPermaLink="false">http://horv.at/blog/?p=1462</guid>
-  <link>http://horv.at/blog/diff-view-for-suggestions/</link>
-  <description>
-    <![CDATA[<p>When choosing the right suggestion to approve, it’s sometimes hard to see how they differ among each other, especially if the difference is relatively small compared to the suggestion length.</p>
-<p>Which is why <a href="https://pontoon.mozilla.org/">Pontoon</a> now lets you see the diff against the translation in the editing field. You can reveal it by clicking on the “Show diff” button.</p>
-<p><img alt="" class="alignnone size-full wp-image-1463" src="http://horv.at/blog/wp-content/uploads/2017/01/diff.png" title="Suggestions diff" /></p>
-<p>Thanks to Tomer for the <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1329003">feature request</a>, Victor for <a href="https://github.com/mozilla/pontoon/commit/7f284b0d12a14c2eea93821b6cc4ec347b38a7d0">diff algorithm improvements</a> and everybody who participated in the <a href="https://github.com/mozilla/pontoon/pull/532">UX discussion</a>.</p>]]>
-  </description>
-  <pubDate>Fri, 27 Jan 2017 22:12:54 +0000</pubDate>
   
 </item>
 
