@@ -28,15 +28,6 @@
 </item>
 
 <item>
-	<title>Christophe Villeneuve - Nous serons au Fosdem 2018 début février</title>
-	<guid isPermaLink="false">urn:md5:b2a785deb7bedd03b697187dd217859e</guid>
-	<link>https://blog.mozfr.org/post/2018/01/nous-serons-au-fosdem-2018-debut-fevrier</link>
-	<description>Le premier rassemblement de l’année, le Fosdem, rassemblera des milliers de développeurs et de développeuses, venus de toute l’Europe et du monde entier, autour de l’open source et du Libre. (Re)lisez nos impressions sur l’édition précédente : Un super Fosdem ...</description>
-	<pubDate>Mon, 29 Jan 2018 21:31:16 +0000</pubDate>
-	
-</item>
-
-<item>
 	<title>Sanyam Khurana - Web Extensions, Womoz &amp; Privacy</title>
 	<guid isPermaLink="false">tag:SanyamKhurana.com,2018-01-23:blog/web-extensions-womoz-privacy.html</guid>
 	<link>http://SanyamKhurana.com/blog/web-extensions-womoz-privacy.html</link>
@@ -73,38 +64,11 @@
 </item>
 
 <item>
-	<title>Christophe Villeneuve - Comm Mozilla fr : le bilan 2017 Ⅰ</title>
-	<guid isPermaLink="false">urn:md5:989461183f766655cf53c9ede1493066</guid>
-	<link>https://blog.mozfr.org/post/2018/01/Comm-Mozilla-fr-bilan-2017-1re-partie</link>
-	<description>Poster pour Firefox Quantum lors de son développement (Sean Martell)L’actualité du projet Mozilla a encore été chargée en 2017. La communauté Mozilla francophone a été bien occupée elle aussi. Elle a notamment produit un nombre impressionnant de traductions de qualité ...</description>
-	<pubDate>Fri, 12 Jan 2018 13:51:16 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Christophe Villeneuve - Comm Mozilla fr : le bilan 2017  Ⅱ</title>
-	<guid isPermaLink="false">urn:md5:80c0a80b6ced9446fbb22df34b33c87d</guid>
-	<link>https://blog.mozfr.org/post/2018/01/Comm-Mozilla-fr-bilan-2017-2e-partie</link>
-	<description>Dessin de Lin Clark sous licence CC By-SA 3.0+ L’actualité du projet Mozilla a encore été chargée en 2017. La communauté Mozilla francophone a été bien occupée elle aussi. Elle a notamment produit un nombre impressionnant de traductions de qualité ...</description>
-	<pubDate>Thu, 11 Jan 2018 19:37:13 +0000</pubDate>
-	
-</item>
-
-<item>
 	<title>Official Reps Blog - Reps Council at Austin</title>
 	<guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=522</guid>
 	<link>https://blog.mozilla.org/mozillareps/2018/01/11/reps-council-at-austin/</link>
 	<description>TL;DR The All Hands is a special time of the year where Mozilla employees along with core volunteers gather for a week of many meetings and brainstorming. The All Hands Wiki page has more information about the general setting. During ...</description>
 	<pubDate>Thu, 11 Jan 2018 13:41:51 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Christophe Villeneuve - Meilleurs vœux pour 2018</title>
-	<guid isPermaLink="false">urn:md5:fa68b2a4dc60139bf306872b14ed2bd3</guid>
-	<link>https://blog.mozfr.org/post/2018/01/meilleurs-voeux-2018</link>
-	<description>La communauté Mozilla francophone vous souhaite une excellente année 2018 : tous nos vœux de bonheur et de santé ! Nous vous souhaitons un Web ouvert pour vos projets passionnants dans le Libre et ailleurs, ainsi que la réussite dans ...</description>
-	<pubDate>Sun, 07 Jan 2018 07:51:37 +0000</pubDate>
 	
 </item>
 
@@ -546,6 +510,42 @@
 	<link>http://abhiramrk.com/mozilla-at-4ccon/</link>
 	<description>I’m writing a blog post after a long, long time and the reason why I’ve been dormant is because I’ve not done anything of significance for the past 6 months. As I’m writing this, I’m also watching the US Open ...</description>
 	<pubDate>Sun, 19 Feb 2017 17:15:41 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Elio Qoshi - FOSDEM 2017 in Brussels, Belgium – Report</title>
+	<guid isPermaLink="false">https://elioqoshi.me/?p=1646</guid>
+	<link>https://elioqoshi.me/2017/02/fosdem-2017-report/</link>
+	<description>It feels like yesterday when I had my first FOSDEM, Yet more than 3 years passed and my 4th edition of FOSDEM is behind me as well. Throughout all 4 years I have been part of the Mozilla presence, regardless ...</description>
+	<pubDate>Tue, 14 Feb 2017 14:08:05 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Sanyam Khurana - NIEC Activate Mozilla with WebVR</title>
+	<guid isPermaLink="false">tag:SanyamKhurana.com,2017-01-29:blog/niec-mozilla-activate-webvr.html</guid>
+	<link>http://SanyamKhurana.com/blog/niec-mozilla-activate-webvr.html</link>
+	<description>On Saturday, January 28, 2017, we had an event planned at Northern India Engineering College on Activate Mozilla Campaign. Our aim was to cover WebVR track under Build the Web activity. The event was scheduled from 12:00 PM IST to ...</description>
+	<pubDate>Sun, 29 Jan 2017 06:38:00 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Michael Kohler - Mozilla Switzerland Community Meetup 2017</title>
+	<guid isPermaLink="false">https://michaelkohler.info/2017/01/28/mozilla-switzerland-community-meetup-2017/</guid>
+	<link>https://michaelkohler.info/2017/01/28/mozilla-switzerland-community-meetup-2017/</link>
+	<description>On the 28th of January we, the Mozilla Switzerland, community held another community meetup to organize ourselves for the next few months</description>
+	<pubDate>Sat, 28 Jan 2017 20:55:40 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Matjaz Horvat - Diff view for suggestions</title>
+	<guid isPermaLink="false">http://horv.at/blog/?p=1462</guid>
+	<link>http://horv.at/blog/diff-view-for-suggestions/</link>
+	<description>When choosing the right suggestion to approve, it’s sometimes hard to see how they differ among each other, especially if the difference is relatively small compared to the suggestion length. Which is why Pontoon now lets you see the diff ...</description>
+	<pubDate>Fri, 27 Jan 2017 22:12:54 +0000</pubDate>
 	
 </item>
 

@@ -59,169 +59,6 @@
 </item>
 
 <item>
-  <title>Christophe Villeneuve - Nous serons au Fosdem 2018 début février</title>
-  <guid isPermaLink="false">urn:md5:b2a785deb7bedd03b697187dd217859e</guid>
-  <link>https://blog.mozfr.org/post/2018/01/nous-serons-au-fosdem-2018-debut-fevrier</link>
-  <description>
-    <![CDATA[<p><img alt="Fosdem peluche mozilla 2016" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/fosdem/.fosdem2016-pelluche_s.jpg" style="float: right; margin: 0 0 1em 1em;" /> Le premier rassemblement de l’année, le <a href="https://fosdem.org/2018" hreflang="en" title="Fosdem 2018"><abbr title="Free and Open Source Software Developers' European Meeting">Fosdem</abbr></a>, rassemblera des milliers de développeurs et de développeuses, venus de toute l’Europe et du monde entier, autour de l’<em>open source</em> et du Libre.</p>
-
-<p style="margin-left: 1em; padding-left: 0.5em;">(Re)lisez nos impressions sur l’édition précédente : <a href="https://blog.mozfr.org/post/2018/01/Un super Fosdem 2017 pour Mozilla|https://blog.mozfr.org/post/2017/02/super-Fosdem-2017-pour-Mozilla" title="Un super Fosdem 2017 pour Mozilla">Un super Fosdem 2017 pour Mozilla</a></p>
-
-<p>Nous vous donnons rendez-vous les <strong>3 et 4 février 2018 à Bruxelles</strong> en Belgique.</p>    <h3>Ce qui vous attend</h3>
-
-<p>Du côté de Mozilla, vous nous retrouverez, comme l’an passé, dans une grande salle. Elle est consacrée aux dev qui s’intéressent aux projets de la fondation. Ce lieu s’appelle la « DevRoom » et nous est réservée toute la journée du samedi. Il vous permettra d’assister à des sessions et des conférences. Ainsi, si vous êtes « hacker », passionné de Web ou soucieux d’avoir le contrôle de vos données, vous serez intéressé par la diversité des sujets proposés.<br />
- </p>
-
-<p></p>
-
-<p><em>Une façon originale de dessiner sur ordinateur (22 s) <a href="https://www.youtube.com/watch?v=tcqvEnNgP1g" hreflang="fr" title="(1) Une façon originale de dessiner sur ordinateur (ajoutée le 27 janv. 2018) sur la chaîne YouTube de Mozilla francophone">sur YouTube</a></em></p>
-
-<h4>Le programme</h4>
-
-<p><img alt="Mozilla devroom au Fosdem 2017" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/fosdem/.fosdem2017-devroom_m.jpg" style="float: right; margin: 0 0 1em 1em; width: 400px;" /></p>
-
-<ul>
-	<li>10h30 – Gerv Markham</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_state_moss/" hreflang="en" title="Mozilla Open Source Support (MOSS)">Mozilla Open Source Support (MOSS)</a> – Comment Mozilla aide les projets <em>open source</em> comme le vôtre</p>
-
-<ul>
-	<li>11h00 – Gloria Dwomoh</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_creating_inclusive_teams_tech/" hreflang="en" title="Créer des équipes inclusives dans la technologie">Créer des équipes inclusives dans la technologie</a> – Des compétences qui pourraient transformer vos équipes</p>
-
-<ul>
-	<li>11h30 – Daniele Scasciafratte</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_webextensions_api_status_fx57/" hreflang="en" title="État de l'API WebExtensions après Firefox 57">État de l’API WebExtensions après Firefox 57</a></p>
-
-<ul>
-	<li>12h00 – Julien Wajsberg, Nicolas Chevobbe</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_tour_firefox_developer_tools/" hreflang="en" title="Une visite guidée avec les outils de développement de Firefox">Une visite guidée avec les outils de développement de Firefox</a></p>
-
-<ul>
-	<li>13h00 – Amit Zur</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_tomorrows_js_debugger/" hreflang="en" title=" Débogueur JavaScript de demain – Comment façonner votre propre débogueur JS en 2018">Débogueur JavaScript de demain – Comment façonner votre propre débogueur JS en 2018</a></p>
-
-<ul>
-	<li>13h30 – Jean-Yves Perrier</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_story_firefox_quantum/" hreflang="en" title="Faire un navigateur rapide">Faire un navigateur rapide</a> – L’histoire de Firefox Quantum</p>
-
-<ul>
-	<li>14h00 – Sylvestre Ledru</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_how_ship_quality_software/" hreflang="en" title="Firefox: Comment expédier des logiciels de qualité">Firefox : Comment expédier des logiciels de qualité</a> – 6 000 nouveaux correctifs, une version toutes les 6 semaines, comment Mozilla fait-il ?</p>
-
-<ul>
-	<li>14h30 – Florian Quèze</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_photon_performance/" hreflang="en" title="Performances Photon Comment nous avons rendu Firefox plus rapide">Performances Photon – Comment nous avons rendu Firefox plus rapide</a></p>
-
-<ul>
-	<li>15h00 – Mitchell Baker</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_future_internet/" hreflang="en" title="Le futur de l'internet d'un point de vue Mozilla">Le futur de l’internet d’un point de vue Mozilla</a> - présenté par la présidente de Mozilla</p>
-
-<ul>
-	<li>15h30 – David Teller</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_web_faster_js_binary_ast/" hreflang="en" title="Rendre le Web plus rapide avec JavaScript Binary AST">Rendre le Web plus rapide avec JavaScript Binary AST</a></p>
-
-<ul>
-	<li>16h00 – Florian Scholz</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_mdn_browser_compat_data_project/" hreflang="en" title="Le projet de données Compat du navigateur MDN">Le projet de données Compat du navigateur MDN</a></p>
-
-<ul>
-	<li>16h30 – Fabien Benetou (Utopiah)</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_beyond_screen/" hreflang="en" title="Au delà de l'écran">Au-delà de l’écran</a> – WebXR : quand un contenu immersif entre sur le Web</p>
-
-<ul>
-	<li>17h00 – Tilman Kamp</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_deepspeech_common_voice_projects/" hreflang="en" title="Projets DeepSpeech et Common Voice de Mozilla">Projets DeepSpeech et Common Voice de Mozilla</a> – Reconnaissance vocale ouverte et hors ligne pour tous</p>
-
-<ul>
-	<li>17h30 – Larissa Shapiro</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_moving_policy_to_action/" hreflang="en" title="Passer de la politique à l'action">Passer de la politique à l’action</a> – Leçons tirées de l’apprentissage de la vie par nos directives relatives à la participation communautaire de Mozilla</p>
-
-<ul>
-	<li>18h00 – Giannis Konstantinidis, Gerv Markham</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_eu_copyright_reform_end_floss/" hreflang="en" title="La proposition actuelle de réforme du droit d'auteur de l'UE : la fin des FLOSS en Europe ?">La proposition actuelle de réforme du droit d’auteur de l’UE : la fin des FLOSS en Europe ?</a></p>
-
-<ul>
-	<li>18h30 – Don Marti</li>
-</ul>
-
-<p><a href="https://fosdem.org/2018/schedule/event/mozilla_bugmark/" hreflang="en" title="Bugmarka">Bugmarka</a> – marché à terme pour les bugs logiciels et les tâches, sur la blockchain.</p>
-
-<p>Vous pouvez retrouver l’ensemble du programme de cette journée de conférences dans l’<a href="https://fosdem.org/2018/schedule/track/mozilla/" hreflang="en" title="FOSDEM 2018 – Mozilla devroom">agenda détaillé de Mozilla pour le FOSDEM</a>.</p>
-
-<h4>Le stand</h4>
-
-<p><img alt="Mozilla Stand 2017 au Fosdem 2017" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/fosdem/.fosdem2017-stand_m.jpg" style="display: table; margin: 0 auto;" /></p>
-
-<p>Pendant ces deux journées, vous pourrez venir nous voir sur notre stand pour découvrir nos nouveautés, comme la version de Firefox 58 (fraîchement sortie), mais aussi les avancées de la réalité virtuelle (VR), des extensions, etc. sans compter de nombreuses surprises.<br />
- </p>
-
-<p></p>
-
-<p><em>Espace détente sur le stand Mozilla (1 min 24) <a href="https://www.youtube.com/watch?v=3D7yinzWLqo" hreflang="fr" title="Espace détente sur le stand Mozilla (ajoutée le 27 janv. 2018) sur la chaîne YouTube de Mozilla francophone">sur YouTube</a></em></p>
-
-<p>Ce sera l’occasion de rencontrer les Mozilliens présents dont de nombreux francophones.</p>
-
-<h3>Les informations utiles</h3>
-
-<p><img alt="Fosdem 2018" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/fosdem/fosdem2018-logo.png" style="float: left; margin: 0 1em 1em 0;" /></p>
-
-<p><strong>FOSDEM 2018</strong> <strong>3 et 4 février 2018 de 9 h à 19 h</strong><br />
-Université libre de Bruxelles (ULB)<br />
-Campus du Solbosch<br />
-Av. F. D. Roosevelt 50<br />
-1050 Bruxelles<br />
-Belgique<br />
-<a href="http://www.openstreetmap.org/export/embed.html?bbox=4.376839399337769%2C50.811107639525446%2C4.3850576877594%2C50.81530385432095&amp;layer=mapnik">Voir la carte libre</a></p>
-
-<p><br />
-<br />
- </p>
-
-<p>À très vite…</p>
-
-<address><br />
-<a href="https://twitter.com/hellosct1" hreflang="fr" title="Christophe Villeneuve (@hellosct1) sur Twitter">@hellosct1</a></address>
-
-<p><br />
-<em>Notre précédent événement :</em> <a href="https://blog.mozfr.org/post/2018/01/TupperRust-Lyon-22-janvier" hreflang="fr" title="TupperRust à Lyon le 22 janvier">TupperRust à Lyon le 22 janvier</a></p>
-
-<p><em>Crédit photos :</em> <a href="https://www.flickr.com/photos/26276571@N03/albums/72157663503118959" hreflang="fr" title="Album Christophe Villeneuve">Hellosct1</a>. Tous droits réservés.</p>]]>
-  </description>
-  <pubDate>Mon, 29 Jan 2018 21:31:16 +0000</pubDate>
-  
-</item>
-
-<item>
   <title>Sanyam Khurana - Web Extensions, Womoz &amp; Privacy</title>
   <guid isPermaLink="false">tag:SanyamKhurana.com,2018-01-23:blog/web-extensions-womoz-privacy.html</guid>
   <link>http://SanyamKhurana.com/blog/web-extensions-womoz-privacy.html</link>
@@ -347,269 +184,6 @@ learn about these things. A Saturday well spent, spreading the love of Open Sour
 </item>
 
 <item>
-  <title>Christophe Villeneuve - Comm Mozilla fr : le bilan 2017 Ⅰ</title>
-  <guid isPermaLink="false">urn:md5:989461183f766655cf53c9ede1493066</guid>
-  <link>https://blog.mozfr.org/post/2018/01/Comm-Mozilla-fr-bilan-2017-1re-partie</link>
-  <description>
-    <![CDATA[<p></p><div style="float: right; width: 240px; margin: 0 0 1em 1em;"><a href="https://blog.mozfr.org/dotclear/public/firefox/57/succes/RobotPoster2.jpg"><img alt="Poster Robot" src="https://blog.mozfr.org/dotclear/public/firefox/57/succes/.RobotPoster2_m.jpg" style="float: right; margin: 0 0 1em 1em;" /></a><em style="display: block; text-align: center; font-size: 0.9em;">Poster pour Firefox Quantum lors de son développement (Sean Martell)</em></div><strong>L’actualité du projet Mozilla a encore été chargée en 2017. La communauté Mozilla francophone a été bien occupée elle aussi. Elle a notamment produit un nombre impressionnant de traductions de qualité et les Mozilliens francophones ont participé à de nombreux événements dans toute la France et au-delà. <em>Merci à tous !</em></strong><p></p>
-
-<p>Le bilan est si long qu’on a dû le diviser [<a href="https://blog.mozfr.org/post/2018/01/Comm-Mozilla-fr-bilan-2017-2e-partie" hreflang="fr" title="Comm Mozilla fr : le bilan 2017 Ⅱ (11 janv. 2018) Communauté Mozilla francophone">2ᵉ partie</a>]. Ce billet ouvre une fenêtre sur les contributions de la communauté Mozilla francophone qui dépassent la communication stricto sensu.</p>
-
-<p>En 2017, <strong>155 articles</strong> ont été publiés sur les blogs de la communauté Mozilla francophone, soit près de 13 articles par mois.</p>
-
-<h3>Beaucoup de nouvelles versions</h3>
-
-<p>L’année fut riche en nouveautés avec un point d’orgue en fin d’année avec la sortie de <a href="https://www.mozilla.org/firefox/" hreflang="fr" title="Le nouveau navigateur rapide, pour Mac, PC et Linux – Mozilla Firefox">Firefox Quantum</a>. Auparavant, nous vous avions rapporté la sortie et les apports de 6 versions majeures de Firefox (<a href="https://blog.mozfr.org/post/2017/01/Mozilla-Firefox-51" hreflang="fr" title="Mozilla Firefox 51 (27 janv. 2017) Communauté Mozilla francophone">51</a>, <a href="https://blog.mozfr.org/post/2017/03/Mozilla-Firefox-52" hreflang="fr" title="Mozilla Firefox 52 (7 mars 2017) Communauté Mozilla francophone">53</a>, <a href="https://blog.mozfr.org/post/2017/04/Mozilla-Firefox-53" hreflang="fr" title="Mozilla Firefox 53 (20 avr. 2017) Communauté Mozilla francophone">53</a>, <a href="https://blog.mozfr.org/post/2017/06/Mozilla-Firefox-54-plus-rapide-stable-reactif" hreflang="fr" title="Mozilla Firefox 54 : plus rapide, plus stable et plus réactif (17 juin 2017) Communauté Mozilla francophone">54</a>, <a href="https://blog.mozfr.org/post/2017/08/Mozilla-Firefox-55-realite-virtuelle-vitesse" hreflang="fr" title="Mozilla Firefox 55 : réalité virtuelle et vitesse (24 août 2017) Communauté Mozilla francophone">55</a> et <a href="https://blog.mozfr.org/post/2017/10/Mozilla-Firefox-56-captures-Envoyer-les-onglets" hreflang="fr" title="Mozilla Firefox 56 : captures, Envoyer les onglets… (1er oct. 2017) Communauté Mozilla francophone">56</a>), sans oublier une <a href="https://blog.mozfr.org/post/2017/09/Firefox-iOS-comprend-protection-contre-pistage" hreflang="fr" title="Firefox pour iOS comprend la protection contre le pistage (24 sept. 2017) Communauté Mozilla francophone">version de Firefox pour iOS</a> avec l’arrivée de la protection contre le pistage.</p>    <p style="clear: right;"><img alt="Firefox Quantum 57 : Firefox Screenshots" src="https://blog.mozfr.org/dotclear/public/firefox/56/firefox_quatum_57_firefox_screenshots.gif" style="display: table; margin: 0 auto; width: 520px;" /> <em style="display: block; text-align: center;">Firefox Screenshots en test dans Firefox Quantum 57</em></p>
-
-<p><br />
-Un autre logiciel de Mozilla a fait l’actualité cette année. Il s’agit de l’application <a href="https://www.mozilla.org/fr/firefox/mobile/#focus" hreflang="fr" title="Navigateurs mobiles pour iOS et Android – Firefox Focus – Mozilla">Firefox Focus</a> pour Android, un navigateur simple <strong>axé vie privée</strong> plébiscité par les mobinautes. Nous avons couvert <a href="https://blog.mozfr.org/post/2017/06/Firefox-Focus-debarque-sur-Android-bloque-publicites-intempestives-protege-votre-vie-privee" hreflang="fr" title="Firefox Focus débarque sur Android, bloque les publicités intempestives et protège votre vie privée (20 juin 2017) Communauté Mozilla francophone">sa sortie en juin</a> et <a href="https://blog.mozfr.org/post/2017/09/Firefox-Focus-pour-Android-onglets" hreflang="fr" title="Firefox Focus pour Android se met aux onglets (23 sept. 2017) Communauté Mozilla francophone">l’arrivée des onglets en septembre</a>.</p>
-
-<p style="text-align: center;"><a href="https://blog.mozfr.org/dotclear/public/firefox/focus/android2/firefox_focus_android_2.0_onglets_tablette.png"><img alt="Firefox Focus pour Android 2.0 : menu des onglets sur tablette" src="https://blog.mozfr.org/dotclear/public/firefox/focus/android2/.firefox_focus_android_2.0_onglets_tablette_m.png" /></a> <a href="https://blog.mozfr.org/dotclear/public/firefox/focus/android2/firefox_focus_android_2.0_onglets.png"><img alt="Firefox Focus pour Android 2.0 : menu des onglets sur smartphone" src="https://blog.mozfr.org/dotclear/public/firefox/focus/android2/.firefox_focus_android_2.0_onglets_m.png" style="height: 280px;" /></a><em style="display: block; text-align: center;">Arrivée des onglets dans Firefox Focus pour Android 2.0 en septembre</em></p>
-
-<p>Nous n’avons pas oublié <a href="https://www.thunderbird.net/fr/" hreflang="fr" title="Thunderbird – Un logiciel pour rendre votre messagerie plus facile – Mozilla">Thunderbird</a>, le logiciel de courriel et plus de Mozilla. En plus de sa <a href="https://blog.mozfr.org/post/2017/05/Thunderbird-52-version-majeure-annuelle" hreflang="fr" title="Thunderbird 52, version majeure annuelle (8 mai 2017) Communauté Mozilla francophone">version annuelle</a>, nous avons rapporté l’avancée de sa séparation opérationnelle et en infrastructure de Firefox, mais toujours au sein de la fondation Mozilla en matière juridique et fiscale. Thunderbird a ainsi présenté en décembre <a href="https://blog.mozfr.org/post/2017/12/Thunderbird-nouvelles-versions-equipe" hreflang="fr" title="Thunderbird : nouvelles versions et nouvelle équipe (22 déc. 2017) Ryan Sipes traduit par la communauté Mozilla francophone">sa nouvelle équipe d’employés et les nouvelles versions de Thunderbird</a>.</p>
-
-<p><a href="https://blog.mozfr.org/dotclear/public/Thunderbird/photon/TB59-Win10.png"><img alt="Rafraîchissement du thème : Thunder 57 “Photon”" src="https://blog.mozfr.org/dotclear/public/Thunderbird/photon/TB59-Win10-600x405.png" style="display: table; margin: 0 auto;" /></a> <em style="display: block; text-align: center;">Rafraîchissement du thème : Thunder 57 “Photon”</em></p>
-
-<p>Ce n’est pas tout côté logiciel. À trois reprises, nous vous avons donné des nouvelles des <a href="https://blog.mozfr.org/tag/Test%20Pilot" hreflang="fr" title="Mot-clé – Test Pilot – Communauté Mozilla francophone">expériences <em>Test Pilot</em></a>, un nouveau moyen de tester des fonctionnalités éventuellement intégrées à Firefox ou fournies comme extension ensuite. C’est aussi un moyen de mener des études en situation réelle auprès des utilisateurs de Firefox.</p>
-
-<p><a href="https://blog.mozfr.org/dotclear/public/firefox/testpilot/containers/containers_3_comptes_twitter.png" title="Containers : 3 comptes Twitter simultanés"><img alt="Containers : 3 comptes Twitter simultanés" src="https://blog.mozfr.org/dotclear/public/firefox/testpilot/containers/.containers_3_comptes_twitter_m.png" style="display: table; margin: 0 auto;" /></a><em style="display: block; text-align: center;">L’expérience Test Pilot <em style="font-style: normal;">Containers</em> dans Nightly<br />
-comme onglets contextuels et publié comme <a href="https://addons.mozilla.org/fr/firefox/addon/multi-account-containers/" hreflang="fr" title="Firefox Multi-Account Containers – Module pour Firefox de Mozilla">extension pour Firefox</a></em></p>
-
-<p>Nous avons écrit sur des fonctionnalités de Firefox dont 4 billets d’une nouvelle série intitulée « la face cachée de Firefox pour Android ».</p>
-
-<p> </p>
-
-<div style="float: right; width: 300px; margin: 0 0 1em 1em;"><a href="https://blog.mozfr.org/dotclear/public/mozfr/comm/grammalecte_98pc-32h.jpg"><img alt="Image de notre campagne sur les réseaux sociaux en faveur de la campagne de financement participatif pour Grammalecte" src="https://blog.mozfr.org/dotclear/public/mozfr/comm/grammalecte_98pc-32h.jpg" style="width: 300px;" /></a><em style="display: block; text-align: center;">Image de notre campagne sur les réseaux sociaux en faveur du financement participatif de Grammalecte</em></div>
-
-<p>Les <a href="https://blog.mozfr.org/category/Firefox/Mes-extensions" hreflang="fr" title="Mes extensions – Communauté Mozilla francophone">extensions</a> permettent aussi d’ajouter des fonctionnalités. Nous vous en avons présentées une poignée en 2017. Une mention spéciale va à <a href="https://addons.mozilla.org/fr/firefox/addon/grammalecte-fr/" hreflang="fr" title="Correcteur grammatical dédié à la langue française">Grammalecte</a>, l’indispensable correcteur grammatical et orthographique, dont nous avons appuyé la <a href="https://blog.mozfr.org/post/2017/07/Grammalecte-faisons-vivre-super-extension-Firefox" hreflang="fr" title="Grammalecte², faisons vivre cette super extension Firefox (4 juil. 2017) Communauté Mozilla francophone">seconde campagne de financement participatif</a>.</p>
-
-<p>Voyez nos meilleures traductions pour des heures de lecture passionnantes sur les projets, avancements, réalisations ou prises de position de Mozilla et de sa communauté en 2017. <em>Teaser</em> : ce sera <a href="https://blog.mozfr.org/post/2018/01/Comm-Mozilla-fr-bilan-2017-2e-partie" hreflang="fr" title="Comm Mozilla fr : le bilan 2017 Ⅱ (11 janv. 2018) Communauté Mozilla francophone">demain</a> !</p>
-
-<p>À l’occasion de la montée des demandes d’assistance suite à la sortie de Firefox Quantum, nous avons <a href="https://blog.mozfr.org/post/2017/12/probleme-avec-Firefox-assistance-Mozilla" hreflang="fr" title="J'ai un problème avec Firefox ! et comment y remédier (16 déc. 2017) Communauté Mozilla francophone">résumé les possibilités d’aide offertes par la communauté</a>.</p>
-
-<p>Il s’est bien sûr passé beaucoup plus de choses dans le projet Mozilla et nous vous invitions à suivre nos réseaux sociaux pour davantage de nouvelles :</p>
-
-<div style="margin-left: 2em;"><a href="https://www.facebook.com/frmozilla/" title="Page Facebook Mozilla francophone"><img alt="Facebook" src="https://blog.mozfr.org/dotclear/public/icone/facebook_white_24-03.png" /></a> <a href="https://twitter.com/mozilla_fr" title="Twitter Mozilla francophone (@mozilla_fr)"><img alt="Twitter" src="https://blog.mozfr.org/dotclear/public/icone/twitter_white_24-03.png" /></a> <a href="https://mamot.fr/@Mozilla" title="Compte Mastodon Mozilla francophone (@Mozilla@mamot.fr)"><img alt="Mastodon" src="https://blog.mozfr.org/dotclear/public/icone/mammouth_24x24.png" /></a> </div>
-
-<p>Le compte Twitter <a href="https://twitter.com/MozillaZineFr" title="Twitter MozillaZine-fr (@mozilla_fr)">@MozillaZineFr</a> vous informe de <strong>l’actualité du projet Mozilla</strong> en français en partie reprise sur notre compte Mastodon.</p>
-
-<h3>Opérations spéciales</h3>
-
-<p><a href="https://blog.mozfr.org/dotclear/public/Firefox_OS/retro/2002_phoenix.png"><img alt="Phoenix en 2002" src="https://blog.mozfr.org/dotclear/public/Firefox_OS/retro/.2002_phoenix_s.png" style="float: right; margin: 0 0 1em 1em;" /></a>Nous avons continué nos articles de vulgarisation et de remise en perspective. Ainsi, nous avons publié 9 articles de <strong><em>Coup d’œil dans le rétro</em></strong> et communiqué sur toute <a href="https://blog.mozfr.org/tag/r%C3%A9tro" hreflang="fr" title="Mot-clé – rétro – Communauté Mozilla francophone">la série</a>.</p>
-
-<p>En juin, nous avions publié les 33 articles du <strong>mois Mots-zilla</strong>. Ces <a href="https://blog.mozfr.org/post/2017/06/Tous-les-mots-du-mois-Mots-zilla" hreflang="fr" title="Le mois Mots-zilla">30 mots</a> ont été l’occasion de présenter le <strong>projet Mozilla</strong>, sa <strong>diversité</strong> et les <strong>valeurs</strong> que nous défendons. Retrouvez-les, ils n’ont pas vieilli.</p>
-
-<p>En fin d’année, nous avons proposé et demandé à la communauté de nommer les <strong>projets et associations à soutenir</strong>. Nous avons ainsi pu, avec les membres de la communauté impliqués, publier des billets et lancer des appels sur les réseaux sociaux pour :</p>
-
-<ul>
-	<li><a href="https://blog.mozfr.org/post/2017/11/Tails-a-besoin-de-vous" hreflang="fr" title="Tails a besoin de vous ! (16 nov. 2017) Communauté Mozilla francophone">Tails</a></li>
-	<li><a href="https://blog.mozfr.org/post/2017/11/Mozilla-a-besoin-de-vos-dons" hreflang="fr" title="Mozilla a besoin de vos dons (29 nov. 2017) Communauté Mozilla francophone">Mozilla</a></li>
-	<li><a href="https://blog.mozfr.org/post/2017/12/Aidons-La-Quadrature-du-Net-a-proteger-nos-libertes" hreflang="fr" title="On a besoin de vous ! Aidons La Quadrature du Net à protéger nos libertés (7 déc. 2017 màj) Communauté Mozilla francophone">La Quadrature du Net</a></li>
-	<li><a href="https://blog.mozfr.org/post/2017/12/Mozilla-a-toujours-besoin-de-vos-dons" hreflang="fr" title="Mozilla a toujours besoin de vos dons (29 déc. 2017) Communauté Mozilla francophone">Mozilla</a></li>
-</ul>
-
-<p>D’autres ont été proposés et pourront faire l’objet d’appels en 2018.</p>
-
-<h3>Des événements partout en France et +</h3>
-
-<p>En 2017, 37 articles relatifs à des <a href="https://blog.mozfr.org/category/%C3%89v%C3%A9nement" hreflang="fr" title="Événement – Communauté Mozilla francophone">événements</a> avec des Mozilliens ont été publiés. Pour ceux qui se plaignent qu’il n’y ait que des événements à Paris – où nous avons des locaux adaptés à les organiser – nous pouvons répondre qu’en 2017 nous avons parlé de participations de Mozilliens francophones à Bruxelles (3), Lyon (3), Paris (22), Rennes (2), Lille, Selles-sur-Cher (2), Londres, Saint-Étienne (2), Tain l’Hermitage (Drôme) et Toulouse.</p>
-
-<p>Si vous avez des événements dont nous pourrions parler en 2018, n’oubliez pas de nous contacter pour nous décrire leurs spécificités.</p>
-
-<p><a href="https://blog.mozfr.org/dotclear/public/mozfr/evenements/fosdem/fosdem2017_stand_mozilla_ready.jpg"><img alt="Fosdem 2017 Stand Mozilla" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/fosdem/.fosdem2017_stand_mozilla_ready_m.jpg" style="display: table; margin: 0 auto;" /></a><em style="display: block; text-align: center;">La belle équipe sur le stand Mozilla du FOSDEM 2017</em></p>
-
-<p>Nous avons publié 11 articles de retour sur un événement que vous (re)lirez avec bénéfice :</p>
-
-<ul>
-	<li><a href="https://blog.mozfr.org/post/2017/02/super-Fosdem-2017-pour-Mozilla" hreflang="fr" title="Un super Fosdem 2017 pour Mozilla (4 mars 2017) Communauté Mozilla francophone">Un super Fosdem 2017 pour Mozilla (Bruxelles)</a></li>
-	<li><a href="https://blog.mozfr.org/post/2017/01/Salle-comble-reforme-droit-auteur-21e-siecle" hreflang="fr" title="Salle comble pour la réforme du droit d'auteur pour le 21e siècle (11 janv. 2017) Communauté Mozilla francophone">Salle comble pour la réforme du droit d’auteur pour le 21ᵉ siècle (Mozilla Paris)</a></li>
-	<li><a href="https://blog.mozfr.org/post/2017/04/Mozilla-Journees-logiciel-libre-Lyon" hreflang="fr" title="Mozilla était aux Journées du logiciel libre de Lyon (16 avr. 2017) Communauté Mozilla francophone">Mozilla était aux Journées du logiciel libre de Lyon</a></li>
-	<li><a href="https://blog.mozfr.org/post/2017/04/De-nouveaux-contributeurs-grace-au-Locasprint-5" hreflang="fr" title="De nouveaux contributeurs grâce au Locasprint 5 (22 avr. 2017) Communauté Mozilla francophone">De nouveaux contributeurs grâce au Locasprint 5 (Mozilla Paris)</a></li>
-	<li><a href="https://blog.mozfr.org/post/2017/07/geek-faeries-nous-y-etions" hreflang="fr" title="Geek Faëries, nous y étions (25 juil. 2017) Communauté Mozilla francophone">Geek Faëries, nous y étions (Selles-sur-Cher)</a></li>
-	<li><a href="https://blog.mozfr.org/post/2017/08/Mozilla-developper-Roadshow-ce-qui-arrive" hreflang="fr" title="Mozilla Roadshow : ce qui arrive (20 août 2017) Communauté Mozilla francophone">Mozilla Roadshow : ce qui arrive (Mozilla Paris)</a></li>
-	<li><a href="https://blog.mozfr.org/post/2017/08/rmll-2017-notre-presence" hreflang="fr" title="RMLL 2017, notre présence (22 août 2017) Communauté Mozilla francophone">RMLL 2017, notre présence (Saint-Étienne)</a></li>
-	<li><a href="https://blog.mozfr.org/post/2017/10/Google-Microsoft-Mozilla-ensemble-pour-parler-Cross-Browser" hreflang="fr" title="Google, Microsoft et Mozilla ensemble pour parler Cross Browser (15 oct. 2017) Communauté Mozilla francophone">Google, Microsoft et Mozilla ensemble pour parler Cross Browser (Mozilla Paris)</a></li>
-	<li><a href="https://blog.mozfr.org/post/2017/10/Rien-a-cacher-vraiment-nothing-to-hide" hreflang="fr" title="Rien à cacher, vraiment ? (20 oct. 2017) Communauté Mozilla francophone">Rien à cacher, vraiment ? (Mozilla Paris)</a></li>
-	<li><a href="https://blog.mozfr.org/post/2017/10/Nouveautes-Firefox-patrimoine-Mozilla-Paris" hreflang="fr" title="Nouveautés Firefox et patrimoine à Mozilla Paris (21 oct. 2017) Communauté Mozilla francophone">Nouveautés Firefox et patrimoine à Mozilla Paris</a></li>
-	<li><a href="https://blog.mozfr.org/post/2017/12/retour-meetup-hackathon-WebExtensions" hreflang="fr" title="Retour sur le meetup-hackathon WebExtensions (1er déc. 2017) Communauté Mozilla francophone">Retour sur le meetup-hackathon WebExtensions (Mozilla Paris)</a></li>
-</ul>
-
-<p><br />
-Nous vous donnons rendez-vous <strong>demain</strong> pour <a href="https://blog.mozfr.org/post/2018/01/Comm-Mozilla-fr-bilan-2017-2e-partie" hreflang="fr" title="Comm Mozilla fr : le bilan 2017 Ⅱ (11 janv. 2018) Communauté Mozilla francophone">la seconde partie</a> de notre bilan 2017.</p>
-
-<address><br />
-<a href="https://twitter.com/hellosct1" hreflang="fr" title="Christophe Villeneuve (@hellosct1) sur Twitter">@hellosct1</a> et <a href="https://twitter.com/Mozinet" hreflang="fr" title="Mozinet (@Mozinet) sur Twitter">Mozinet</a></address>]]>
-  </description>
-  <pubDate>Fri, 12 Jan 2018 13:51:16 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Christophe Villeneuve - Comm Mozilla fr : le bilan 2017  Ⅱ</title>
-  <guid isPermaLink="false">urn:md5:80c0a80b6ced9446fbb22df34b33c87d</guid>
-  <link>https://blog.mozfr.org/post/2018/01/Comm-Mozilla-fr-bilan-2017-2e-partie</link>
-  <description>
-    <![CDATA[<p></p><div style="float: right; width: 312px; margin: 0 0 1em 1em;"><a href="https://blog.mozfr.org/dotclear/public/firefox/quantum/webrender/23.png"><img alt="Cœurs de processeur principal travaillant indépendamment, cœurs de processeurs graphiques travaillant ensemble" src="https://blog.mozfr.org/dotclear/public/firefox/quantum/webrender/23-500x227.png" style="width: 300px;" /></a><em style="display: block; text-align: center; font-size: 0.9em;"><a href="https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/" hreflang="en" title="The whole web at maximum FPS: How WebRender gets rid of jank – Mozilla Hacks">Dessin de Lin Clark</a> sous licence <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr" hreflang="fr" title="Creative Commons – Attribution – partage dans les mêmes conditions 3.0 non transposé – CC BY-SA 3.0">CC By-SA 3.0+</a></em></div> <strong>L’actualité du projet Mozilla a encore été chargée en 2017. La communauté Mozilla francophone a été bien occupée elle aussi. Elle a notamment produit un nombre impressionnant de traductions de qualité et les Mozilliens francophones ont participé à de nombreux événements dans toute la France et au-delà. <em>Merci à tous !</em></strong><p></p>
-
-<p>Le bilan est si long qu’on a dû le diviser. Ce billet ouvre une fenêtre sur les contributions de la communauté Mozilla francophone qui dépassent la communication stricto sensu.</p>
-
-<p>Comme nous vous <a href="https://blog.mozfr.org/post/2018/01/Comm-Mozilla-fr-bilan-2017-1re-partie" hreflang="fr" title="Comm Mozilla fr : le bilan 2017 Ⅰ(10 janv. 2018) Communauté Mozilla francophone">l’annoncions hier</a>, nous vous proposons de découvrir la suite et la fin de notre bilan 2017.</p>
-
-<h3>Traductions</h3>
-
-<p>La communauté Mozilla francophone s’est mobilisée en 2017 pour vous proposer des traductions de qualité pour des contenus riches, souvent complets et parfois très bien illustrés.</p>    <h4><img alt="Mozilla" src="https://blog.mozfr.org/dotclear/public/politique/droit-auteur/Mozilla-12jan-rec.jpg" style="float: right; margin: 0 0 1em 1em; width: 300px;" />Mozilla et la vie publique</h4>
-
-<p>Sur notre blog où nous publions les textes de prise de position et d’explication des enjeux juridiques que publie Mozilla et que nous sélectionnons. Nous vous avons proposé 6 traductions :</p>
-
-<ul>
-<li><a href="https://notreinternet.mozfr.org/post/2017/01/Mozilla-appelle-a-un-internet-des-objets-responsable" hreflang="fr" title="Vivre dans l'ordinateur : Mozilla appelle à un internet des objets responsable (8 janv. 2017) Mark Surman traduit par la communauté Mozilla francophone pour Mozilla et la vie publique">Vivre dans l’ordinateur : Mozilla appelle à un internet des objets responsable</a></li>
-<li><a href="https://notreinternet.mozfr.org/post/2017/02/Nous-sommes-tous-createurs-desormais" hreflang="fr" title="Nous sommes tous créateurs désormais (23 févr. 2017) Gervase Markham traduit par la communauté Mozilla francophone pour Mozilla et la vie publique">Nous sommes tous créateurs désormais</a></li>
-<li><a href="https://notreinternet.mozfr.org/post/2017/02/Mozilla-face-proposition-commission-droit-auteur-marche-unique-numerique" hreflang="fr" title="Mozilla face à la proposition de la Commission sur le droit d’auteur dans le marché unique numérique (27 févr. 2017) Raegan MacDonald, Mozilla et la vie publique">Mozilla face à la proposition de la Commission sur le droit d’auteur dans le marché unique numérique</a></li>
-<li><a href="https://notreinternet.mozfr.org/post/2017/05/WannaCry-un-cri-pour-une-reforme-de-traitement-equitable-des-vulnerabilites" hreflang="fr" title="WannaCry, Mozilla toujours pour une réforme du partage des failles connues du gouvernement US (16 mai 2017) Denelle Dixon-Thayer traduite par la communauté Mozilla francophone pour Mozilla et la vie publique">WannaCry, Mozilla toujours pour une réforme du partage des failles connues du gouvernement US</a></li>
-<li><a href="https://notreinternet.mozfr.org/post/2017/05/Mozilla-veut-reforme-europeenne-vie-privee-bien-faite" hreflang="fr" title="Mozilla veut une réforme européenne de la vie privée en ligne bien faite (20 mai 2017) Raegan MacDonald publie le billet de Sherrie Quinn (en stage) traduite par la communauté Mozilla francophone pour Mozilla et la vie publique">Mozilla veut une réforme européenne de la vie privée en ligne bien faite</a></li>
-<li><a href="https://notreinternet.mozfr.org/post/2017/07/Mozilla-affirme-sa-position-Parlement-europeen-vie-privee-communications-electroniques" hreflang="fr" title="Mozilla affirme sa position au Parlement européen sur la vie privée et les communications électroniques (6 juil. 2017) Raegan MacDonald traduite par la communauté Mozilla francophone pour Mozilla et la vie publique">Mozilla affirme sa position au Parlement européen sur la vie privée et les communications électroniques</a></li>
-</ul>
-
-<p>Selon le <a href="https://blog.mozfr.org/post/2017/05/Connaissez-vous-vraiment-mode-lecture-Firefox" hreflang="fr" title="Connaissez-vous vraiment le mode lecture de Firefox ? (19 mai 2017) Communauté Mozilla francophone">mode lecture de Firefox</a>, vous avez entre 38 à 49 minutes de lecture <img alt=":-)" class="smiley" src="https://blog.mozfr.org/dotclear/themes/default/smilies/smile.png" /></p>
-
-<h4>Bidouilleux d’Web</h4>
-
-<p><a href="https://blog.mozfr.org/dotclear/public/mozfr/comm/mdn-web-docs.png"><img alt="page MDN Web Docs" src="https://blog.mozfr.org/dotclear/public/mozfr/comm/.mdn-web-docs_m.png" style="float: right; margin: 0 0 1em 1em; width: 300px;" /></a> Notre <a href="https://tech.mozfr.org/" hreflang="fr" title="Bidouilleux d'Web">blog technique</a> a publié 7 traductions en 2017. Remercions <em>Sphinx</em> qui conduit de mains de maître notre effort pour la documentation technique francophone sur ce blog et sur <a href="https://developer.mozilla.org/fr/">MDN web docs</a> (de son nouveau nom).</p>
-
-<p>En plus de ce message de fin janvier 2017 où l’on apprenait que <a href="https://tech.mozfr.org/post/2017/01/31/Les-sections-HTML--CSS-et-JavaScript-de-MDN-sont-disponibles-en-francais" hreflang="fr" title="Les sections HTML, CSS et JavaScript de MDN sont disponibles en français (31 janv. 2017) Bidouilleux d'Web">les sections HTML, CSS et JavaScript de MDN étaient disponibles en français</a>  (1 749 pages), le blog a proposé l’année dernière :</p>
-<ul>
-<li><a href="https://tech.mozfr.org/post/2017/01/14/Dans-les-entrailles-de-Git" hreflang="fr" title="Dans les entrailles de Git (14 janv. 2017) Mary Rose Cook traduite, Bidouilleux d'Web">Dans les entrailles de Git</a></li>
-<li><a href="https://tech.mozfr.org/post/2017/08/21/IntersectionObserver-arrive-dans-Firefox" hreflang="fr" title="IntersectionObserver arrive dans Firefox (21 août 2017) Dan Callahan traduit, Bidouilleux d'Web">IntersectionObserver arrive dans Firefox</a></li>
-</ul>
-
-<h5>WebAssembly</h5>
-
-<p>Bidouilleux d’Web a aussi publié début mars la série d’articles de Lin Clark, illustrés de sa main, sur <a href="https://hacks.mozilla.org/" hreflang="en" title="Mozilla Hacks – the Web developer blog"><em>Mozilla Hacks</em></a> :</p>
-
-<p><img alt="La place de WebAssembly par rapport à cette représentation intermédiaire" src="https://blog.mozfr.org/dotclear/public/bidouilleux/WASM/04-02-langs08.png" style="width: 400px; display: table; margin: 0 auto;" /><em style="display: block; text-align: center; font-size: 0.9em;">La place de WebAssembly par rapport<br />
-à cette représentation intermédiaire<br />
-(<a href="https://hacks.mozilla.org/2017/02/creating-and-working-with-webassembly-modules/" hreflang="en" title="Creating and working with WebAssembly modules – Mozilla Hacks">dessin de Lin Clark</a> sous licence <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr" hreflang="fr" title="Creative Commons – Attribution – partage dans les mêmes conditions 3.0 non transposé – CC BY-SA 3.0">CC By-SA 3.0+</a>)</em></p>
-<ol>
-<li><a href="https://tech.mozfr.org/post/2017/03/08/Une-introduction-cartoonesque-a-WebAssembly" hreflang="fr" title="Une introduction cartoonesque à WebAssembly – Bidouilleux d'Web">Une introduction cartoonesque à WebAssembly</a></li>
-<li><a href="https://tech.mozfr.org/post/2017/03/08/Un-petit-cours-accelere-de-compilation-a-la-volee-%28JIT%29" hreflang="fr" title="Un petit cours accéléré de compilation à la volée (JIT) – Bidouilleux d'Web">Un petit cours accéléré de compilation à la volée (JIT)</a></li>
-<li><a href="https://tech.mozfr.org/post/2017/03/08/Creer-et-manipuler-des-modules-WebAssembly" hreflang="fr" title="Créer et manipuler des modules WebAssembly – Bidouilleux d'Web">Créer et manipuler des modules WebAssembly</a></li>
-<li><a href="https://tech.mozfr.org/post/2017/03/08/D-ou-vient-la-rapidite-de-WebAssembly" hreflang="fr" title="D'où vient la rapidité de WebAssembly ? – Bidouilleux d'Web">D’où vient la rapidité de WebAssembly ?</a></li>
-<li><a href="https://tech.mozfr.org/post/2017/03/08/WebAssembly-aujourd-hui-et-demain" hreflang="fr" title="WebAssembly aujourd'hui et demain – Bidouilleux d'Web">WebAssembly aujourd’hui et demain</a></li>
-</ol>
-
-<h4>Blog principal</h4>
-
-<p>La communauté Mozilla francophone s’est mobilisée pour vous proposer <strong>23 traductions</strong> importantes sur son blog principal. <strong>Merci à toutes les personnes</strong> ayant participé à traduire et/ou relire ces textes dont voici les principaux qui pourraient toujours vous intéresser :</p>
-
-<p><a href="https://blog.mozfr.org/dotclear/public/mozilla/logo/Mozilla-12jan-1500px_color.jpg"><img alt="Logo de Mozilla en différentes couleurs" src="https://blog.mozfr.org/dotclear/public/mozilla/logo/.Mozilla-12jan-1500px_color_m.jpg" style="display: table; margin: 0 auto;" /></a><em style="display: block; text-align: center; font-size: 0.9em;">Nouveau logo de Mozilla présenté cette année</em></p>
-
-<ul>
-<li><a href="https://blog.mozfr.org/post/2017/01/Navigateur-Tor-Mozilla-Firefox-en-symbiose" hreflang="fr" title="Le navigateur Tor et Mozilla Firefox en symbiose (4 janv. 2017) Ethan Tseng et Richard Barnes traduits par la communauté Mozilla francophone">Le navigateur Tor et Mozilla Firefox en symbiose</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/01/Remplacer-moteur-avion-en-plein-vol" hreflang="fr" title="Remplacer le moteur de l'avion en plein vol (6 janv. 2017) Jen Simmons traduite par la communauté Mozilla francophone">Remplacer le moteur de l’avion en plein vol</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/01/arrivee-Mozilla-nouveau-logo" hreflang="fr" title="Moz://a : le nouveau logo est là (18 janv. 2017) Communauté Mozilla francophone">Moz://a : le nouveau logo est là</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/01/La-confidentialite-ca-vous-parle-Aujourd-hui-et-tous-les-autres-jours-protegeons-notre-vie-privee" hreflang="fr" title="La confidentialité, ça vous parle ? Aujourd'hui et tous les autres jours, protégeons notre vie privée (28 janv. 2017) Denelle Dixon-Thayer par la communauté Mozilla francophone">La confidentialité, ça vous parle ? Aujourd’hui et tous les autres jours, protégeons notre vie privée</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/02/Mozilla-se-met-Pocket-dans-la-poche" hreflang="fr" title="Mozilla se met Pocket dans la poche (28 févr. 2017) Denelle Dixon-Thayer par la communauté Mozilla francophone">Mozilla se met Pocket dans la poche</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/03/epopee-Firefox-OS" hreflang="fr" title="L'épopée de Firefox OS (3 mars 2017) Ben Francis traduit par la communauté Mozilla francophone (25 mars 2017)">L’épopée de Firefox OS</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/04/Aurora-s-eteindra-aube" hreflang="fr" title="Aurora s'éteindra à l'aube (18 avr. 2017) Communauté Mozilla francophone">Aurora s’éteindra à l’aube</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/07/Firefox-Web-fin-Flash" hreflang="fr" title="Firefox, le Web et la fin de Flash (26 juil. 2017) Benjamin Smedberg traduit par la communauté Mozilla francophone">Firefox, le Web et la fin de Flash</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/07/Haussons-la-voix-tous-ensemble-pour-le-Web-Common-Voice" hreflang="fr" title="Haussons la voix tous ensemble pour le Web – Common Voice (25 juil. 2017) Daniel Kessler traduit par la communauté Mozilla francophone">Haussons la voix tous ensemble pour le Web – Common Voice</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/07/Mozilla-ouvre-la-voix-reconnaissance-vocale" hreflang="fr" title="Mozilla ouvre la voix (31 juil. 2017) Kelly Davis traduit par la communauté Mozilla francophone">Mozilla ouvre la voix</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/09/Rendre-protection-vie-privee-plus-transparente" hreflang="fr" title="Rendre la protection de la vie privée plus transparente (12 sept. 2017) Marshall Erwin, Urmika Devi Shah et Michael Verdi traduits par la communauté Mozilla francophone">Rendre la protection de la vie privée plus transparente</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/09/Vos-donnees-notre-travail" hreflang="fr" title="Vos données, notre travail (15 sept. 2017) Rebecca Weiss traduite par la communauté Mozilla francophone">Vos données, notre travail</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/12/Firefox-Quantum-premiers-chiffres-encourageants" hreflang="fr" title="Firefox Quantum : des premiers chiffres encourageants (14 déc. 2017) traduit par la communauté Mozilla francophone">Firefox Quantum : des premiers chiffres encourageants</a></li>
-</ul>
-
-<h4>Link Clark</h4>
-
-<p></p><div style="float: right; width: 300px; margin: 0 0 1em 1em;"><a href="https://blog.mozfr.org/dotclear/public/firefox/quantum/stylo/01.png"><img alt="Dessin de Lin Clark" src="https://blog.mozfr.org/dotclear/public/firefox/quantum/stylo/.01-500x317_m.png" /></a><em style="display: block; text-align: center; font-size: 0.9em;"><a href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/" hreflang="en" title="Inside a super fast CSS engine: Quantum CSS (aka Stylo) – Mozilla Hacks">Dessin de Lin Clark</a> sous<br />
-licence <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr" hreflang="fr" title="Creative Commons – Attribution – partage dans les mêmes conditions 3.0 non transposé – CC BY-SA 3.0">CC By-SA 3.0+</a></em></div> Nous avons aussi publié trois longues, mais néanmoins très intéressantes, traductions d’articles de Lin Clark illustrés de sa main :<p></p>
-<ol>
-<li><a href="https://blog.mozfr.org/post/2017/09/Au-coeur-moteur-CSS-super-rapide-Quantum-CSS-stylo" hreflang="fr" title="Au cœur d'un moteur CSS super rapide : Quantum CSS (22 août 2017) Lin Clark traduite par la communauté Mozilla francophone (2 sept. 2017)">Au cœur d’un moteur CSS super rapide : Quantum CSS</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/12/Firefox-comment-WebRender-va-rendre-affichage-plus-fluide" hreflang="fr" title="Firefox : comment WebRender va rendre l'affichage plus fluide (10 oct. 2017) Lin Clark traduite par la communauté Mozilla francophone (19 déc. 2017)">Firefox : comment WebRender va rendre l’affichage plus fluide</a></li>
-<li><a href="https://blog.mozfr.org/post/2017/12/Entrez-ere-Quantum-comment-Firefox-est-redevenu-rapide" hreflang="fr" title="Entrez dans l'ère Quantum – comment Firefox est redevenu rapide et comment il va devenir plus rapide encore (13 nov. 2017) Lin Clark traduite par la communauté Mozilla francophone (11 déc. 2017)">Entrez dans l’ère Quantum – comment Firefox est redevenu rapide et comment il va devenir plus rapide encore</a></li>
-</ol>
-
-<h3 style="clear: right;">Réseaux sociaux</h3>
-
-<p><a href="https://blog.mozfr.org/dotclear/public/mozfr/comm/reseaux-sociaux.png"><img alt="Reseaux sociaux Mozilla Francophone" src="https://blog.mozfr.org/dotclear/public/mozfr/comm/.reseaux-sociaux_s.png" style="float: right; margin: 0 0 1em 1em;" /></a> Du côté des réseaux sociaux, en plus de <a href="https://twitter.com/mozilla_fr" hreflang="fr" title="Twitter Mozilla francophone (@Mozilla_fr)">Twitter</a>, de <a href="https://www.facebook.com/frmozilla/" hreflang="fr" title="Facebook Mozilla francophone">Facebook</a> et de <a href="https://www.youtube.com/channel/UCyieisb28vyXaltYRFsHDaQ" hreflang="fr" title="Youtube Mozilla francophone">YouTube</a>, nous publions régulièrement les messages aussi sur le réseau social décentralisé  <a href="https://mamot.fr/@Mozilla" hreflang="fr" title="Mastodon Mozilla francophone (@Mozilla@mamot.fr)">Mastodon</a> (avec des nouvelles d’actualité en plus par rapport à Twitter).</p>
-
-<p>Nous gérons aussi le compte Twitter de <a href="https://twitter.com/firefox_fr" hreflang="fr" title="Twitter firefox_fr">@firefox_fr</a> créé il y a quelques années par Mozilla. Nous essayons de répondre au mieux (vous pouvez nous aider à être plus réactifs).</p>
-
-<p>Ainsi, notre tweet sur le compte Mozilla_fr avec la meilleure portée a été celui de l’article <a href="https://blog.mozfr.org/post/2017/06/tor-browser-le-mois-mots-zilla" hreflang="fr" title="Tor Browser – le mois Mots-zilla (15 juin 2017) Communauté Mozilla francophone">Tor Browser – le mois Mots-zilla</a> avec 52 981 impressions.</p>
-
-<p>Le tweet sur le compte Firefox_fr avec la meilleure portée a été celui de l’article <a href="https://blog.mozilla.org/press-fr/2017/11/14/mozilla-devoile-le-nouveau-firefox-quantum/" hreflang="fr" title="Mozilla dévoile le nouveau Firefox Quantum">Mozilla dévoile le nouveau Firefox Quantum</a> avec 26 271 impressions.</p>
-
-<p>Du côté de notre compte Facebook, la meilleure portée a été pour l’article
-<a href="https://blog.mozfr.org/post/2017/07/geek-faeries-nous-y-etions" hreflang="fr" title="Geek Faëries, nous y étions">Geek Faëries, nous y étions</a> avec 2 103 impressions.</p>
-
-<table border="1" style="width: 100%; margin-top: 1em;">
-    <thead>
-        <tr>
-            <th> </th>
-            <th>Messages</th>
-            <th>Moyenne <br />mensuelle</th>
-            <th>Abonnés</th>
-<th>Durée</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <th>Facebook</th>
-            <td>214 statuts</td>
-            <td>18</td>
-            <td>294 abonnés</td>
-<th>12 mois</th>
-        </tr>
-        <tr>
-            <th>Twitter Mozilla_fr</th>
-            <td>769 tweets</td>
-            <td>65</td>
-            <td>3 000 abonnés</td>
-<th>12 mois</th>
-        </tr>
-        <tr>
-            <th>Twitter Firefox_fr</th>
-            <td>233 tweets</td>
-            <td>26</td>
-            <td>6 329 abonnés</td>
-<th>9 mois</th>
-        </tr>
-        <tr>
-            <th>Mastodon</th>
-            <td>871 statuts</td>
-            <td>109 </td>
-            <td>930 abonnés</td>
-<th>8 mois</th>
-        </tr>
-        <tr>
-            <th>YouTube</th>
-            <td>8 vidéos</td>
-            <td></td>
-            <td>56 abonnés</td>
-<th>12 mois</th>
-        </tr>
-    </tbody>
-</table>
-
-
-
-<p>Notez que nous venons de passer la barre des 3 000 abonnés sur le compte Twitter communautaire.</p>
-
-
-<p>Le groupe comm se <a href="https://github.com/mozfr/besogne/wiki/Communication" hreflang="fr" title="Communication – mozfr/besogne Wiki">réunit toutes les semaines</a> en audioconférence depuis de nombreuses années. Autour d’un petit noyau de bénévoles assidus, y participent de temps en temps d’autres Mozilliens selon leurs disponibilités.</p>
-
-
-<p>Mais, il existe de nombreuses activités et opportunités de contribution au sein de la communauté Mozilla francophone. Vous pouvez les découvrir à partir de notre page <a href="https://mozfr.org/participer" hreflang="fr" title="Mozilla Francophone – Participer">Particper</a>. Alors, n’attendez pas pour nous rejoindre.</p>
-
-<address><br />
-<a href="https://twitter.com/hellosct1" hreflang="fr" title="Christophe Villeneuve (@hellosct1) sur Twitter">@hellosct1</a> et <a href="https://twitter.com/Mozinet" hreflang="fr" title="Mozinet (@Mozinet) sur Twitter">Mozinet</a>
-</address>]]>
-  </description>
-  <pubDate>Thu, 11 Jan 2018 19:37:13 +0000</pubDate>
-  
-</item>
-
-<item>
   <title>Official Reps Blog - Reps Council at Austin</title>
   <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=522</guid>
   <link>https://blog.mozilla.org/mozillareps/2018/01/11/reps-council-at-austin/</link>
@@ -639,61 +213,6 @@ licence <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr" hreflan
 <p>One of the most curious and interesting, for the purpose of openness, thing is the ability to access  official Mozilla Slack channels for all the mozillians with NDA to. This support enables the volunteers to be able to communicate directly with the employees. And Yes, as Reps you have already signed the NDA so you can access without problems the various channels!</p>]]>
   </description>
   <pubDate>Thu, 11 Jan 2018 13:41:51 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Christophe Villeneuve - Meilleurs vœux pour 2018</title>
-  <guid isPermaLink="false">urn:md5:fa68b2a4dc60139bf306872b14ed2bd3</guid>
-  <link>https://blog.mozfr.org/post/2018/01/meilleurs-voeux-2018</link>
-  <description>
-    <![CDATA[<p><a href="https://blog.mozfr.org/dotclear/public/mozfr/voeux/2018.jpg"><img alt="voeux 2018" src="https://blog.mozfr.org/dotclear/public/mozfr/voeux/.2018_m.jpg" style="float: right; margin: 0 0 1em 1em;" /></a> La communauté Mozilla francophone vous souhaite une excellente année 2018 : <em>tous nos vœux de bonheur et de santé !</em></p>
-
-
-<p>Nous vous souhaitons un Web ouvert pour vos projets passionnants dans le Libre et ailleurs, ainsi que la réussite dans toutes vos entreprises.</p>    <p>Ensemble, continuons en 2018 à défendre le Web ouvert en utilisant et faisant connaître et adopter autour de nous  :</p>
-<ul>
-<li>Firefox, le navigateur indispensable pour :
-<ul>
-<li><a href="https://www.mozilla.org/fr/firefox/new/" hreflang="fr" title="Télécharger Firefox — Navigateur web gratuit">Linux, macOS et Windows</a></li>
-<li><a href="https://www.mozilla.org/fr/firefox/mobile/" hreflang="fr" title="Firefox pour Android — le navigateur pour mobile — encore plus de moyens de l’adapter à votre gré et de protéger votre vie privée — Mozilla">Android et iOS</a></li>
-<li><a href="https://www.mozilla.org/fr/firefox/developer/" hreflang="fr" title="Firefox Developer Edition">Développeurs</a></li>
-</ul></li>
-<li><a href="https://www.mozilla.org/fr/firefox/mobile/#focus" hreflang="fr" title="Navigateurs mobiles pour iOS et Android – Firefox Focus">Focus</a> sur <a href="https://play.google.com/store/apps/details?id=org.mozilla.focus" hreflang="fr" title="Firefox Focus sur Android">Play Store</a> et <a href="https://itunes.apple.com/fr/app/apple-store/id989804926" hreflang="fr" title="Firefox Focus pour iOS">App Store</a> : le navigateur mobile axé pleinement <strong>vie privée</strong> de Mozilla</li>
-<li><a href="https://nightly.mozfr.org/" hreflang="fr" title="Firefox Nightly">Firefox Nightly</a> : la version développeur du navigateur pour bénéficier des évolutions avant tout le monde et participer à leur création</li>
-<li><a href="https://developer.mozilla.org/fr/" hreflang="fr" title="Mozilla Developer Network en français">MDN web docs</a> : la documentation française pour tous les développeurs</li>
-<li><a href="https://www.mozilla.org/fr/thunderbird/" hreflang="fr" title="Mozilla Thunderbird">Thunderbird</a> : le logiciel de messagerie</li>
-<li>… et bien entendu <a href="https://www.mozilla.org/fr/" hreflang="fr" title="Internet est un bien commun, nous le défendons – Mozilla">mozilla.org</a>, le hub du projet Mozilla.</li>
-</ul>
-
-
-<p>Annoncés fin 2016, concrétisés en 2017, les changements stratégiques prendront une autre ampleur en 2018.</p>
-
-
-<p>2018 sera aussi l’année des 20 ans du projet Mozilla. Nous en reparlerons en mars.</p>
-
-
-<p>La communauté Mozilla francophone vivra cette année à vos côtés et vous pourrez nous rencontrer en personne dans tous les événements en préparation pour cette année.</p>
-
-
-<p><em>Rejoignez-nous, c’est plein de gens sympa !</em></p>
-
-
-<p>Librement-vôtre à toutes et à tous,</p>
-
-
-<p><br />
--- Mozilla fr</p>
-
-<address><br />
-<a href="https://twitter.com/hellosct1" hreflang="fr" title="Christophe Villeneuve (@hellosct1) sur Twitter">@hellosct1</a> et <a href="https://twitter.com/Mozinet" hreflang="fr" title="Mozinet (@Mozinet) sur Twitter">@Mozinet</a>
-</address>
-
-
-
-<p><br />
-<em>Crédit illustration</em> : <a href="https://pixabay.com/fr/%C3%A9motions-jour-de-l-an-2975395/" hreflang="fr" title="Illustration gratuite : Émotions, Jour De L'An - Image gratuite sur Pixabay - 2975395">Gellinger via Pixabay</a>. <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr" hreflang="fr" title="Creative Commons – CC0 1.0 universel : Transfert dans le domaine public">CC0</a>.</p>]]>
-  </description>
-  <pubDate>Sun, 07 Jan 2018 07:51:37 +0000</pubDate>
   
 </item>
 
@@ -2435,6 +1954,113 @@ information has become the...]]>
 <a class="likepost json-call 1-310-posts" href="http://abhiramrk.com/feed/?fn=like&amp;following=1-310-posts">Like</a><p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fabhiramrk.com%2Fmozilla-at-4ccon%2F&amp;linkname=Mozilla%20at%204CCON" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fabhiramrk.com%2Fmozilla-at-4ccon%2F&amp;linkname=Mozilla%20at%204CCON" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fabhiramrk.com%2Fmozilla-at-4ccon%2F&amp;linkname=Mozilla%20at%204CCON" rel="nofollow noopener" target="_blank" title="Google+"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=http%3A%2F%2Fabhiramrk.com%2Fmozilla-at-4ccon%2F&amp;linkname=Mozilla%20at%204CCON" rel="nofollow noopener" target="_blank" title="WhatsApp"></a><a class="a2a_button_diaspora" href="https://www.addtoany.com/add_to/diaspora?linkurl=http%3A%2F%2Fabhiramrk.com%2Fmozilla-at-4ccon%2F&amp;linkname=Mozilla%20at%204CCON" rel="nofollow noopener" target="_blank" title="Diaspora"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=http%3A%2F%2Fabhiramrk.com%2Fmozilla-at-4ccon%2F&amp;linkname=Mozilla%20at%204CCON" rel="nofollow noopener" target="_blank" title="WordPress"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fabhiramrk.com%2Fmozilla-at-4ccon%2F&amp;linkname=Mozilla%20at%204CCON" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_blogger_post" href="https://www.addtoany.com/add_to/blogger_post?linkurl=http%3A%2F%2Fabhiramrk.com%2Fmozilla-at-4ccon%2F&amp;linkname=Mozilla%20at%204CCON" rel="nofollow noopener" target="_blank" title="Blogger Post"></a><a class="a2a_button_hacker_news" href="https://www.addtoany.com/add_to/hacker_news?linkurl=http%3A%2F%2Fabhiramrk.com%2Fmozilla-at-4ccon%2F&amp;linkname=Mozilla%20at%204CCON" rel="nofollow noopener" target="_blank" title="Hacker News"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fabhiramrk.com%2Fmozilla-at-4ccon%2F&amp;title=Mozilla%20at%204CCON"></a></p>]]>
   </description>
   <pubDate>Sun, 19 Feb 2017 17:15:41 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Elio Qoshi - FOSDEM 2017 in Brussels, Belgium – Report</title>
+  <guid isPermaLink="false">https://elioqoshi.me/?p=1646</guid>
+  <link>https://elioqoshi.me/2017/02/fosdem-2017-report/</link>
+  <description>
+    <![CDATA[<p>It feels like yesterday when I had my first<a href="https://fosdem.org/2017/"> FOSDEM</a>, Yet more than 3 years passed and my 4th edition of FOSDEM is behind me as well. Throughout all 4 years I have been part of the Mozilla presence, regardless if as a Mozilla Rep, l10n contributor or Tech Speaker. I can only appreciate the great moments we shared with fellow attendees at FOSDEM. It has been a rollercoaster of emotions, sobriety, hangoverness and swag every year, and this year has been no different.</p>
+<div class="wp-caption aligncenter" id="attachment_1739"><img alt="Open Source Design Group Photo at FOSDEM 2017" class="wp-image-1739 size-full" src="https://i1.wp.com/elioqoshi.me/wp-content/uploads/2017/02/OpenSourceDesignFOSDEM2017GroupPhoto.jpg?resize=760%2C253&amp;ssl=1" /><p class="wp-caption-text">Open Source Design Group Photo at FOSDEM 2017</p></div>
+<p>Unlike the other years, 10 people from our local <a href="https://openlabs.cc">Open Labs Hackerspace</a> attended FOSDEM 2017. That’s 10 Albanians too much already.<br />
+As part of the Open Source Design collective, I have been helping out with the organization of the <a href="https://fosdem.org/2017/schedule/track/open_source_design/">Open Source Design (dev)room this year at FOSDEM</a>. I was happy to give a talk about<a href="https://blog.mozilla.org/opendesign"> Mozilla Open Design </a>and the new branding of Mozilla introduced just a few weeks ago.</p>
+<blockquote class="twitter-tweet tw-align-center">
+<p dir="ltr" lang="en">The lovely Tech Speakers present at <a href="https://twitter.com/hashtag/mozdem?src=hash">#mozdem</a>. We’re going to be around <a href="https://twitter.com/hashtag/fosdem?src=hash">#fosdem</a> tomorrow, ask us anything about <a href="https://twitter.com/mozilla">@mozilla</a> <a href="https://t.co/2Cpk3pjxiS">pic.twitter.com/2Cpk3pjxiS</a></p>
+<p>— Mozilla TechSpeakers (@mozTechSpeakers) <a href="https://twitter.com/mozTechSpeakers/status/827944927539625988">February 4, 2017</a></p></blockquote>
+<p></p>
+<p> </p>
+<blockquote class="twitter-tweet tw-align-center">
+<p dir="ltr" lang="en"><a href="https://twitter.com/elioqoshi">@elioqoshi</a> explaining the open process behind the new <a href="https://twitter.com/hashtag/Mozilla?src=hash">#Mozilla</a> visual identity in the open source design room. <a href="https://twitter.com/hashtag/Mozdem?src=hash">#Mozdem</a> <a href="https://twitter.com/hashtag/Fosdem?src=hash">#Fosdem</a> <a href="https://twitter.com/hashtag/fullHouse?src=hash">#fullHouse</a> <a href="https://t.co/Ub0N17JM8K">pic.twitter.com/Ub0N17JM8K</a></p>
+<p>— Redon Skikuli (@rskikuli) <a href="https://twitter.com/rskikuli/status/828168098494738432">February 5, 2017</a></p></blockquote>
+<p></p>
+<blockquote class="twitter-tweet tw-align-center">
+<p dir="ltr" lang="en">.<a href="https://twitter.com/KristiProgri">@KristiProgri</a> talking about <a href="https://twitter.com/hashtag/Diversity?src=hash">#Diversity</a> in <a href="https://twitter.com/hashtag/OpenSource?src=hash">#OpenSource</a> and her experiences at <a href="https://twitter.com/outreachy">@outreachy</a> at <a href="https://twitter.com/hashtag/FOSDEM?src=hash">#FOSDEM</a> <a href="https://twitter.com/hashtag/mozdem?src=hash">#mozdem</a> <a href="https://t.co/ETizeghS5a">pic.twitter.com/ETizeghS5a</a></p>
+<p>— Elio Qoshi (@elioqoshi) <a href="https://twitter.com/elioqoshi/status/827925831708241920">February 4, 2017</a></p></blockquote>
+<p></p>
+<p>In the past year, I have been trying to not break my routine too much while traveling. Conferences are great and inspiring but it can be pretty demanding to fully emerge yourself into the conference experience if you travel frequently. As a part-time introvert, I tend to relax in my hotel for quite a few hours, at least every 2 days, something which has worked for me quite well in the past. Not at FOSDEM however.</p>
+<blockquote class="twitter-tweet tw-align-center">
+<p dir="ltr" lang="en"><a href="https://twitter.com/hashtag/Mozdem?src=hash">#Mozdem</a> info booth team at <a href="https://twitter.com/hashtag/Fosdem?src=hash">#Fosdem</a>. Join us at building K <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" style="height: 1em;" /> <a href="https://t.co/A4i6cmeR9v">pic.twitter.com/A4i6cmeR9v</a></p>
+<p>— Redon Skikuli (@rskikuli) <a href="https://twitter.com/rskikuli/status/827809350085386241">February 4, 2017</a></p></blockquote>
+<p></p>
+<p>There are way too many people you want to catch up with and way too much going on as well. With FOSDEM fringe there is also a great number of events which happen before and after FOSDEM, due to so many different projects already having presence during that week, making it easier to meet in person. I failed to meet with several people I wanted to catch up with, but it’s kind of expected at such a large event as FOSDEM.</p>
+<p>During peak times, it was reported that 18000 devices were connected to the WiFi network. It’s a good estimate of the number of attendees at the event. Crazy indeed. The proportions of FOSDEM are immense.</p>
+<p><a href="http://baggerspion.net/2017/02/fosdem-2017/">There is a Survival Guide by Paul Adams I highly recommend however</a>. If you think of attending FOSDEM next year, be prepared. It’s pretty demanding physically and emotionally, especially if you can’t get used to the feeling of “missing out”. Let me clarify it for you here:</p>
+<blockquote><p><em>You will miss out a lot of things at FOSDEM. You can not do much about it. Embrace it and you will enjoy it even more.</em></p></blockquote>
+<p>What I really dislike at FOSDEM is the lack of any relaxing zones and the limited selection of (junk) food. It is very demanding for your mind and body to not have proper food, hydration and sleep. Be prepared for that. If you plan to attend FOSDEM, try to stay an additional night in Brussels (or depart late on Monday) because you need the energy to refuel. If you think you are thick-skinned however, you should be doing quite fine.</p>
+<div class="wp-caption aligncenter" id="attachment_1723"><img alt="FOSDEM post meeting with advocates from EU countries" class="wp-image-1723" src="https://i2.wp.com/elioqoshi.me/wp-content/uploads/2017/02/EUFreeSoftwareMeeting.jpg?resize=760%2C457&amp;ssl=1" /><p class="wp-caption-text">(from left to right) me, Stefan Krastev, Matija Šuklje, Redon Skikuli, Gijs Hillenius, Giannis Konstantinidis</p></div>
+<p>The day after FOSDEM, we met with some of the key players for Free and Open Source Software in the European Parliament &amp; Commision. We had a great time talking about our experience with our local public administrations and their status regarding Free Software. We are looking forward to continue this discussions at <a href="https://oscal.openlabs.cc">OSCAL’17</a> which happens in May.</p>
+<p>The post <a href="https://elioqoshi.me/2017/02/fosdem-2017-report/" rel="nofollow">FOSDEM 2017 in Brussels, Belgium – Report</a> appeared first on <a href="https://elioqoshi.me" rel="nofollow">Elio's Corner</a>.</p>]]>
+  </description>
+  <pubDate>Tue, 14 Feb 2017 14:08:05 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Sanyam Khurana - NIEC Activate Mozilla with WebVR</title>
+  <guid isPermaLink="false">tag:SanyamKhurana.com,2017-01-29:blog/niec-mozilla-activate-webvr.html</guid>
+  <link>http://SanyamKhurana.com/blog/niec-mozilla-activate-webvr.html</link>
+  <description>
+    <![CDATA[<p>On Saturday, January 28, 2017, we had an event planned at Northern India Engineering College on <tt class="docutils literal">Activate Mozilla Campaign</tt>. Our aim was to cover <cite>WebVR</cite> track under <tt class="docutils literal">Build the Web</tt> activity.</p>
+<p>The event was scheduled from 12:00 PM IST to 4:00 PM IST.</p>
+<p>I reached the venue at 10:40 AM and helped a bit with arrangements. Saturday was a day off for all college students, so honestly I didn't expect much audience.</p>
+<p>But, I was wrong. Students are more willing to learn and soon there were lot of students. In starting there were less people, but then we got a total audience of around 70+ which is huge considering that it was a holiday for them and they just came here to learn about FOSS.</p>
+<p>Unfortunately, out of the core-organizers, only Shivam was available. But we got support from other student volunteers to do various arrangements and co-ordinating all the sessions smoothly. I would take this opportunity to thank each one of them.</p>
+<p>Since, there were no other speakers, I had to take all the sessions. It began with an interactive session on what students understand by the term FOSS (Free &amp; Open Source Software). I told about how Free Software and Open Source Software are same yet different from each other.</p>
+<img alt="NIEC Activate Mozilla" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_1.jpg" />
+<p>After this we discussed about Mozilla and the Open Web. Since it was <tt class="docutils literal">Data Privacy Day</tt>, we also discussed about how important is privacy in the online world, yet most of us don't have proper information on it. We also discussed about <cite>Free Basics</cite> and how various organizations keep track of our online identities; and how Mozilla as an organization is doing in protecting the Free Web.</p>
+<p>Next session was on <cite>Introduction to Git &amp; Github</cite>. Although focus was on Activate Mozilla campaign, but I really wanted to teach about Version control to people considering that most people are Engineering students.</p>
+<img alt="Sanyam talking about Version Control using Git" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_2.jpg" />
+<img alt="Sanyam teaching about branching in version control systems" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_3.jpg" />
+<p>After this we had a small break to let people grab the knowledge they just had. I was surprised by the enthusiasm of these students. In the break time too, many of them surrounded me with various questions like how to contribute to FOSS, how to start et. all. So, yes, it wasn't a break for me ;)</p>
+<p>After this session, we jumped on to Activate Mozilla Campaign. We told about various tracks under Activate Mozilla Campaign. The session was kick started with an introduction to Virtual Reality. We discussed about Visual and Input Immersion and how it is changing the Web as we use it today.</p>
+<p>After this, we jumped on to learning A-Frame and making Virtual Reality scenes.</p>
+<img alt="Sanyam's talk on WebVR" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_4.jpg" />
+<img alt="Sanyam's talk on WebVR and A-Frame JS" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_5.jpg" />
+<img alt="NIEC Activate Mozilla" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_6.jpg" />
+<img alt="NIEC Activate Mozilla" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_7.jpg" />
+<p>Then we gave time to audience to try using A Frame to develop something. I will collect all those projects and post them here soon :)</p>
+<p>In the end we distributed swags to students.</p>
+<img alt="NIEC Activate Mozilla Swags" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_8.jpg" />
+<img alt="NIEC Activate Mozilla" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_9.jpg" />
+<p>After the event, we took feedback from people. Some of them are here:</p>
+<img alt="NIEC Activate Mozilla Feedback" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate-feedback-1.jpg" />
+<img alt="NIEC Activate Mozilla Feedback" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate-feedback-2.jpg" />
+<img alt="NIEC Activate Mozilla Feedback" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate-feedback-3.jpg" />
+<img alt="NIEC Activate Mozilla Feedback" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate-feedback-4.jpg" />
+<p>Out of these, I'm astonished to see, that 100% people want to learn more about it. One student wrote that he would really like if more simpler terms would be used. Surely, I would keep this in mind, and if someone told me this thing during the session, I would've helped them there itself. But I'd surely take care from next session.</p>
+<p>And there is some MozLove on twitter as well :)</p>
+<img alt="NIEC Activate Mozilla Feedback Twitter" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate-twitter-1.png" />
+<img alt="NIEC Activate Mozilla Feedback Twitter" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate-twitter-2.png" />
+<p>Now, I'm flooded with a lot of mails from students who're willing to contribute to FOSS and requesting for guidance. I have started replying to some, and will be replying to all of them soon.</p>]]>
+  </description>
+  <pubDate>Sun, 29 Jan 2017 06:38:00 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Michael Kohler - Mozilla Switzerland Community Meetup 2017</title>
+  <guid isPermaLink="false">https://michaelkohler.info/2017/01/28/mozilla-switzerland-community-meetup-2017/</guid>
+  <link>https://michaelkohler.info/2017/01/28/mozilla-switzerland-community-meetup-2017/</link>
+  <description>
+    <![CDATA[<p>On the 28th of January we, the Mozilla Switzerland, community held another community meetup to organize ourselves for the next few months</p>]]>
+  </description>
+  <pubDate>Sat, 28 Jan 2017 20:55:40 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Matjaz Horvat - Diff view for suggestions</title>
+  <guid isPermaLink="false">http://horv.at/blog/?p=1462</guid>
+  <link>http://horv.at/blog/diff-view-for-suggestions/</link>
+  <description>
+    <![CDATA[<p>When choosing the right suggestion to approve, it’s sometimes hard to see how they differ among each other, especially if the difference is relatively small compared to the suggestion length.</p>
+<p>Which is why <a href="https://pontoon.mozilla.org/">Pontoon</a> now lets you see the diff against the translation in the editing field. You can reveal it by clicking on the “Show diff” button.</p>
+<p><img alt="" class="alignnone size-full wp-image-1463" src="http://horv.at/blog/wp-content/uploads/2017/01/diff.png" title="Suggestions diff" /></p>
+<p>Thanks to Tomer for the <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1329003">feature request</a>, Victor for <a href="https://github.com/mozilla/pontoon/commit/7f284b0d12a14c2eea93821b6cc4ec347b38a7d0">diff algorithm improvements</a> and everybody who participated in the <a href="https://github.com/mozilla/pontoon/pull/532">UX discussion</a>.</p>]]>
+  </description>
+  <pubDate>Fri, 27 Jan 2017 22:12:54 +0000</pubDate>
   
 </item>
 
