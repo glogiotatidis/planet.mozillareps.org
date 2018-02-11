@@ -156,8 +156,8 @@ learn about these things. A Saturday well spent, spreading the love of Open Sour
 
 <item>
   <title>Michal Stanke - Mozilla.cz 2017 recap</title>
-  <guid isPermaLink="false">http://michal.stanke.cz/2018/01/14/mozilla-cz-2017-recap</guid>
-  <link>http://michal.stanke.cz/2018/01/14/mozilla-cz-2017-recap.html</link>
+  <guid isPermaLink="false">https://michal.stanke.cz/2018/01/14/mozilla-cz-2017-recap</guid>
+  <link>https://michal.stanke.cz/2018/01/14/mozilla-cz-2017-recap.html</link>
   <description>
     <![CDATA[<p>This week I have published a <a href="https://www.mozilla.cz/zpravicky/ohlednuti-za-rokem-2017/">recapitulation of the last year</a>, how we did in 2017 and how we would like to continue in 2018. It was rather a short article in Czech and I would like to elaborate more here for the global Mozilla community.</p>
 
@@ -465,14 +465,14 @@ Since I've previous experience with JS, it was pretty easy to pick that stuff up
 
 <item>
   <title>Michal Stanke - Pontoon Tools 3.0</title>
-  <guid isPermaLink="false">http://michal.stanke.cz/2017/11/12/pontoon-tools-3-0</guid>
-  <link>http://michal.stanke.cz/2017/11/12/pontoon-tools-3-0.html</link>
+  <guid isPermaLink="false">https://michal.stanke.cz/2017/11/12/pontoon-tools-3-0</guid>
+  <link>https://michal.stanke.cz/2017/11/12/pontoon-tools-3-0.html</link>
   <description>
     <![CDATA[<p>After 150 commits in total, Pontoon Tools got a third major release 3.0! From now on, post-installation/update tour will show you the most important features in Pontoon Tools. So this time for the last time probably (and shortly) what’s new in the new and still shiny Pontoon Tools 3.0.</p>
 
 <p>As noted, there is a new introduction tour listing all major features of Pontoon Tools. It will appear after first installation or major version update. You can guess where I took inspiration for its design. Please check it carefully, as there may be feature you were not aware of before. ;)</p>
 
-<p><a href="http://michal.stanke.cz/assets/img/pontoon-tools-intro.jpg" style="display: block; text-align: center;"><img alt="Pontoon Tools introduction tour" src="http://michal.stanke.cz/assets/img/pontoon-tools-intro.jpg" /></a></p>
+<p><a href="https://michal.stanke.cz/assets/img/pontoon-tools-intro.jpg" style="display: block; text-align: center;"><img alt="Pontoon Tools introduction tour" src="https://michal.stanke.cz/assets/img/pontoon-tools-intro.jpg" /></a></p>
 
 <p>Also a completely new feature arrived, which are system notifications. Pontoon Tools can now utilize the <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/user_interface/Notifications">notifications API</a> to inform you about new unread notifications in Pontoon. Because I understand not everyone must be happy with something popping up in the system, this feature is disabled by default and the introduction tour will allow you to enable it quickly.</p>
 
@@ -595,8 +595,8 @@ towards the Airport. It was time to go back home.</p>]]>
 
 <item>
   <title>Michal Stanke - The story of me@mozilla</title>
-  <guid isPermaLink="false">http://michal.stanke.cz/2017/10/20/the-story-of-me-at-mozilla</guid>
-  <link>http://michal.stanke.cz/2017/10/20/the-story-of-me-at-mozilla.html</link>
+  <guid isPermaLink="false">https://michal.stanke.cz/2017/10/20/the-story-of-me-at-mozilla</guid>
+  <link>https://michal.stanke.cz/2017/10/20/the-story-of-me-at-mozilla.html</link>
   <description>
     <![CDATA[<p>After our successful presence on the <a href="https://www.linuxdays.cz/2017/">LinuxDays</a> conference in Prague, I have been asked by a <a href="https://www.linuxexpres.cz/">Linux Expres</a> for an interview, how I get to the Mozilla community, what I do there, etc. <del>The article is not public yet</del> The article went out <a href="https://www.linuxexpres.cz/rozhovor/michal-stanke-ceska-komunita-by-mohla-prosazovat-mobilni">today</a>, but I have realized I never told this story to the Mozilla community itself. So take some popcorn and make yourself comfortable…</p>
 
@@ -920,8 +920,8 @@ Thank you, everyone, who joined our talk! <img alt="🙂" class="wp-smiley" src=
 
 <item>
   <title>Michal Stanke - Mozilla Latest Version - my first project dedicated to Mozilla</title>
-  <guid isPermaLink="false">http://michal.stanke.cz/2017/09/07/mozilla-latest-version-my-first-project-dedicated-to-mozilla</guid>
-  <link>http://michal.stanke.cz/2017/09/07/mozilla-latest-version-my-first-project-dedicated-to-mozilla.html</link>
+  <guid isPermaLink="false">https://michal.stanke.cz/2017/09/07/mozilla-latest-version-my-first-project-dedicated-to-mozilla</guid>
+  <link>https://michal.stanke.cz/2017/09/07/mozilla-latest-version-my-first-project-dedicated-to-mozilla.html</link>
   <description>
     <![CDATA[<p><a href="https://github.com/MozillaCZ/mozilla-latest-version">Mozilla Latest Version</a> (shortly <em>Mozlv</em>) was my first project I have written entirely because of Mozilla. It’s a WordPress plugin to get the latest version number of Firefox/Thunderbird/SeaMonkey and the corresponding links for download or release notes. Currently it loads data from ship-it (<a href="https://product-details.mozilla.org/">product-details.mozilla.org</a>), but it existed even before ship-it started to export this data to public. And at this moment, I am giving <em>Mozlv</em> some love again. ;)</p>
 
