@@ -10,6 +10,103 @@
 
 
 <item>
+  <title>Mehul Patel - Google DevFest Ahmedabad 2017</title>
+  <guid isPermaLink="false">http://www.rowdymehul.com/?p=1476</guid>
+  <link>http://www.rowdymehul.com/rust/google-devfest-ahmedabad-2017/</link>
+  <description>
+    <![CDATA[<p><strong>Google Developers Group (GDG)</strong> – is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion and GDG Ahmedabad is one of the most active &amp; passionate community.  The aim of GDG DevFest Ahmedabad is to bring the world-class experts in Mobile and Web technologies to Gujarat, India for 1 day of sessions, workshops and showcases.</p>
+<div class="wp-caption aligncenter" id="attachment_1480"><a href="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2018/02/Screenshot-2018-2-14-GDG-DevFest-Ahmedabad-20171.png"><img alt="" class="wp-image-1480 size-full" height="359" src="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2018/02/Screenshot-2018-2-14-GDG-DevFest-Ahmedabad-20171.png?resize=720%2C359" width="720" /></a><p class="wp-caption-text">Courtesy : <a href="http://devfest.gdgahmedabad.com/"><strong><em>http://devfest.gdgahmedabad.com/</em></strong></a></p></div>
+<p>This year I’m one of the rockstars (People usually calling me) speaker at Web track. <span class="author-a-n8m2z75zz85z1z88zz69zi0fz76zz87z1c">This is the first time <strong>Mozilla</strong> participated at <strong>GDG DevFest Ahmedabad</strong> The fest involved developers and professionals all around. I gave a talk on <a href="https://www.rust-lang.org/en-US/">Rust programming</a> which is one of emerging technologies and one of the major focus of Mozilla these days. </span><span id="more-1476"></span></p>
+<p>This time I’m going to change my blog style and going to include some real-time tweets which can get through about, how the complete session went. So, Let’s find out.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">A session on "Introduction to Rust" <a href="https://twitter.com/hashtag/DevFestAhm?src=hash&amp;ref_src=twsrc%5Etfw">#DevFestAhm</a> <a href="https://t.co/nVWW6JqvBW">pic.twitter.com/nVWW6JqvBW</a></p>
+<p>— Aditya (@beingadityak_) <a href="https://twitter.com/beingadityak_/status/927099961396944896?ref_src=twsrc%5Etfw">November 5, 2017</a></p></blockquote>
+<p></p>
+<p>Started my talk by introducing them to Rust and why I’m using Rust? I believe, Rust is new enough that you can write useful stuff that would have already existed in other languages. It also gives a relatively familiar tool to the modern C++ developers, but in the much more consistent and reliable ways.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">The play begins <a href="https://twitter.com/hashtag/Rush?src=hash&amp;ref_src=twsrc%5Etfw">#Rush</a> <a href="https://twitter.com/hashtag/DevFestAhm?src=hash&amp;ref_src=twsrc%5Etfw">#DevFestAhm</a> by <a href="https://twitter.com/rowdymehul?ref_src=twsrc%5Etfw">@rowdymehul</a> <a href="https://t.co/7MvfhRIjne">pic.twitter.com/7MvfhRIjne</a></p>
+<p>— Charmi Chokshi (@CharmiChokshi) <a href="https://twitter.com/CharmiChokshi/status/927097523809820672?ref_src=twsrc%5Etfw">November 5, 2017</a></p></blockquote>
+<p></p>
+<p><a href="https://www.rust-lang.org/en-US/" rel="noopener"><b>Rust</b> </a>is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. But, in my opinion, “<em>Rust is a good choice when you’d choose C++. You can also say, “Rust is a systems programming language that pursuing the trifecta: safe, concurrent, and fast.” I would say, Rust is an ownership-oriented programming language.”</em></p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">. <a href="https://twitter.com/rowdymehul?ref_src=twsrc%5Etfw">@rowdymehul</a> from <a href="https://twitter.com/hashtag/Mozilla?src=hash&amp;ref_src=twsrc%5Etfw">#Mozilla</a> is speaking On " Let's play with <a href="https://twitter.com/hashtag/Rust?src=hash&amp;ref_src=twsrc%5Etfw">#Rust</a> " and making his <a href="https://twitter.com/hashtag/session?src=hash&amp;ref_src=twsrc%5Etfw">#session</a> very interactive after heavy lunch. <a href="https://twitter.com/hashtag/DevFestAhm?src=hash&amp;ref_src=twsrc%5Etfw">#DevFestAhm</a> <a href="https://t.co/zfaW59zluo">pic.twitter.com/zfaW59zluo</a></p>
+<p>— Ronak Ganatra (@GanatraRonak) <a href="https://twitter.com/GanatraRonak/status/927098462197334016?ref_src=twsrc%5Etfw">November 5, 2017</a></p></blockquote>
+<p></p>
+<p><em>Normally</em> people became ‘<em>lazy</em>‘ or ‘<em>sleepy</em>‘ after having lunch and moreover, if you get delicious Gujarati food then you can’t resist yourself to have. Upon that my talk was the first in line after lunch break so to having that in mind I have changed my talk style and from the start only I have tried to make the session interactive so the audience can also be part and their mind can be diverted. Guess what, It worked and people loved the interaction period. All an all we have a very healthy conversation during the session.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Let's Play with Rust: Friendly Introduction<br />By Mehul Patel <a href="https://twitter.com/hashtag/DevFestAhm?src=hash&amp;ref_src=twsrc%5Etfw">#DevFestAhm</a> <a href="https://twitter.com/hashtag/DevFest17?src=hash&amp;ref_src=twsrc%5Etfw">#DevFest17</a> <a href="https://t.co/YtAK3LvRUN">pic.twitter.com/YtAK3LvRUN</a></p>
+<p>— Dhruv Pandya (dp) (@dhruvpandyadp) <a href="https://twitter.com/dhruvpandyadp/status/927099785928097792?ref_src=twsrc%5Etfw">November 5, 2017</a></p></blockquote>
+<p></p>
+<p>I believe, new system programming language solves a lot of common system programming bugs. Moreover here we have Cargo: Rust Package manager which helps to Improve your toolkit. And, Its best for Self-learning &amp; always have fun to do.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Rust is the Best System Programming Language wow.. <a href="https://twitter.com/rowdymehul?ref_src=twsrc%5Etfw">@rowdymehul</a> <a href="https://twitter.com/hashtag/DevFestAhm?src=hash&amp;ref_src=twsrc%5Etfw">#DevFestAhm</a> <a href="https://twitter.com/hashtag/DevFest17?src=hash&amp;ref_src=twsrc%5Etfw">#DevFest17</a> <a href="https://twitter.com/hashtag/GDG?src=hash&amp;ref_src=twsrc%5Etfw">#GDG</a><a href="https://twitter.com/GDGAhmedabad?ref_src=twsrc%5Etfw">@GDGAhmedabad</a></p>
+<p>— Nai Vishal (@Vish_Luv_56) <a href="https://twitter.com/Vish_Luv_56/status/927098970404294656?ref_src=twsrc%5Etfw">November 5, 2017</a></p></blockquote>
+<p></p>
+<p>According to recent The Stack Overflow survey, Rust is the most beloved among developers of all programming languages and frameworks.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en"><a href="https://twitter.com/hashtag/DevFest17?src=hash&amp;ref_src=twsrc%5Etfw">#DevFest17</a> <a href="https://twitter.com/hashtag/DevFestAhm?src=hash&amp;ref_src=twsrc%5Etfw">#DevFestAhm</a> <a href="https://twitter.com/hashtag/GDGAhmedabad?src=hash&amp;ref_src=twsrc%5Etfw">#GDGAhmedabad</a> Anyone have more stickers then this guy on their laptop? <a href="https://t.co/en9WBCzF5z">pic.twitter.com/en9WBCzF5z</a></p>
+<p>— Mit Patel (@TechnicalMit) <a href="https://twitter.com/TechnicalMit/status/927097211028213761?ref_src=twsrc%5Etfw">November 5, 2017</a></p></blockquote>
+<p></p>
+<p>Well, I don’t think. <img alt="😛" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f61b.png" style="height: 1em;" /></p>
+<p><span class="_Tgc _s8w"><b>Feedback</b> is always valuable information for me as that will be used to make improvements in your work and help me to boost to do even better.  </span></p>
+<p>When you got feedback about your talk from some experts speakers :</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Going to know more about Rust at <a href="https://twitter.com/hashtag/DevfestAhm?src=hash&amp;ref_src=twsrc%5Etfw">#DevfestAhm</a> interesting session by <a href="https://twitter.com/rowdymehul?ref_src=twsrc%5Etfw">@rowdymehul</a></p>
+<p>— Hiren Dave (@hjdave) <a href="https://twitter.com/hjdave/status/927096997311422464?ref_src=twsrc%5Etfw">November 5, 2017</a></p></blockquote>
+<p></p>
+<p>Some more feedback from participants  :</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Great Session on Rust by <a href="https://twitter.com/rowdymehul?ref_src=twsrc%5Etfw">@rowdymehul</a> <br />Nd well Explained New System Programming Language Rust… <a href="https://twitter.com/hashtag/DevFestAhm?src=hash&amp;ref_src=twsrc%5Etfw">#DevFestAhm</a> <a href="https://twitter.com/hashtag/DevFest17?src=hash&amp;ref_src=twsrc%5Etfw">#DevFest17</a> <a href="https://twitter.com/hashtag/GDG?src=hash&amp;ref_src=twsrc%5Etfw">#GDG</a><a href="https://twitter.com/GDGAhmedabad?ref_src=twsrc%5Etfw">@GDGAhmedabad</a></p>
+<p>— Nai Vishal (@Vish_Luv_56) <a href="https://twitter.com/Vish_Luv_56/status/927106151065403393?ref_src=twsrc%5Etfw">November 5, 2017</a></p></blockquote>
+<p></p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Great interactive session by <a href="https://twitter.com/rowdymehul?ref_src=twsrc%5Etfw">@rowdymehul</a> on RUST. Thanks for the sticker BTW. Its been fun so far at <a href="https://twitter.com/hashtag/DevFestAhm?src=hash&amp;ref_src=twsrc%5Etfw">#DevFestAhm</a>. <a href="https://twitter.com/GDGAhmedabad?ref_src=twsrc%5Etfw">@GDGAhmedabad</a></p>
+<p>— Shubham Pachori (@spachori94) <a href="https://twitter.com/spachori94/status/927100210450493440?ref_src=twsrc%5Etfw">November 5, 2017</a></p></blockquote>
+<p></p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Very informative session <a href="https://t.co/Kfwpl1zDMP">https://t.co/Kfwpl1zDMP</a></p>
+<p>— Maulik Rathod (@maulikrathod17) <a href="https://twitter.com/maulikrathod17/status/927133923255005185?ref_src=twsrc%5Etfw">November 5, 2017</a></p></blockquote>
+<p></p>
+<p>We got more than 100+ tweets during the talk, you can track them by #DevFestAhm. A huge shout out to all the rock star social media contributors for helping <b>GDGAhmedabad</b> to rock on Twitter!</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">[<a href="https://twitter.com/hashtag/DevFestAhm?src=hash&amp;ref_src=twsrc%5Etfw">#DevFestAhm</a> Twitter Report]: </p>
+<p>2k Tweets | 385 Contributors | 3,93,348 Reach | 33,60,021 Impressions!!!</p>
+<p>A huge shout out to all the rock star social media contributors for helping <a href="https://twitter.com/GDGAhmedabad?ref_src=twsrc%5Etfw">@GDGAhmedabad</a> rock on Twitter! Keep Calm, Keep Tweeting!</p>
+<p>CC: <a href="https://twitter.com/pareshmayani?ref_src=twsrc%5Etfw">@pareshmayani</a> <a href="https://twitter.com/gdg?ref_src=twsrc%5Etfw">@gdg</a> <a href="https://twitter.com/hashtag/GDGDevfest2017?src=hash&amp;ref_src=twsrc%5Etfw">#GDGDevfest2017</a> <a href="https://t.co/tjJZ8Xh2t9">pic.twitter.com/tjJZ8Xh2t9</a></p>
+<p>— Moin Shaikh (@moingshaikh) <a href="https://twitter.com/moingshaikh/status/927574644705468416?ref_src=twsrc%5Etfw">November 6, 2017</a></p></blockquote>
+<p></p>
+<p>In frame with some enthusiast attendees. <img alt="😀" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f600.png" style="height: 1em;" /></p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Super awesome event with energetic attendees <a href="https://twitter.com/GDGAhmedabad?ref_src=twsrc%5Etfw">@GDGAhmedabad</a> <a href="https://twitter.com/hashtag/DevFest17?src=hash&amp;ref_src=twsrc%5Etfw">#DevFest17</a> <a href="https://twitter.com/hashtag/GDG?src=hash&amp;ref_src=twsrc%5Etfw">#GDG</a> Cc: <a href="https://twitter.com/rustlang?ref_src=twsrc%5Etfw">@rustlang</a> <a href="https://twitter.com/mozilla?ref_src=twsrc%5Etfw">@mozilla</a> <a href="https://twitter.com/mozillareps?ref_src=twsrc%5Etfw">@mozillareps</a> <a href="https://twitter.com/mozTechSpeakers?ref_src=twsrc%5Etfw">@mozTechSpeakers</a> <a href="https://twitter.com/hashtag/rustlang?src=hash&amp;ref_src=twsrc%5Etfw">#rustlang</a> <a href="https://t.co/CskGYjedxQ">pic.twitter.com/CskGYjedxQ</a></p>
+<p>— Mehul Patel (@rowdymehul) <a href="https://twitter.com/rowdymehul/status/927271453397012480?ref_src=twsrc%5Etfw">November 5, 2017</a></p></blockquote>
+<p></p>
+<p>This was the best memento ever, Thank you GDG team. <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f642.png" style="height: 1em;" /></p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Thank you <a href="https://twitter.com/GDGAhmedabad?ref_src=twsrc%5Etfw">@GDGAhmedabad</a> for this memento<img alt="😍" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f60d.png" style="height: 1em;" /> it was pleasure to be part of panel of speaker at <a href="https://twitter.com/hashtag/DevFest17?src=hash&amp;ref_src=twsrc%5Etfw">#DevFest17</a> <a href="https://twitter.com/hashtag/rustlang?src=hash&amp;ref_src=twsrc%5Etfw">#rustlang</a> <a href="https://twitter.com/hashtag/DevFestAhm?src=hash&amp;ref_src=twsrc%5Etfw">#DevFestAhm</a> <a href="https://twitter.com/hashtag/rustindia?src=hash&amp;ref_src=twsrc%5Etfw">#rustindia</a> <a href="https://twitter.com/hashtag/GDG?src=hash&amp;ref_src=twsrc%5Etfw">#GDG</a> </p>
+<p>Cc: <a href="https://twitter.com/rustlang?ref_src=twsrc%5Etfw">@rustlang</a> <a href="https://twitter.com/mozTechSpeakers?ref_src=twsrc%5Etfw">@mozTechSpeakers</a> <a href="https://twitter.com/mozillareps?ref_src=twsrc%5Etfw">@mozillareps</a> <a href="https://t.co/jbrM2QTwuq">pic.twitter.com/jbrM2QTwuq</a></p>
+<p>— Mehul Patel (@rowdymehul) <a href="https://twitter.com/rowdymehul/status/928574632709406720?ref_src=twsrc%5Etfw">November 9, 2017</a></p></blockquote>
+<p></p>
+<p><em>Missed Google DevFestAhm?</em></p>
+<p><strong>Check out, 360 experience of our #DevFestAhm event, <em>here you go</em> :</strong></p>
+<div class="jetpack-video-wrapper"></div>
+<p style="text-align: center;"><em><strong>Hope you enjoyed my blog!</strong> </em><img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f642.png" style="height: 1em;" /></p>]]>
+  </description>
+  <pubDate>Wed, 14 Feb 2018 08:29:48 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Nino Vranesic - Embracing the improvement psychology</title>
+  <guid isPermaLink="false">http://blog.elnino.si/post/170845327967</guid>
+  <link>http://blog.elnino.si/post/170845327967</link>
+  <description>
+    <![CDATA[What would you do if you could do it all the time? Everybody is the happiest when they are doing...]]>
+  </description>
+  <pubDate>Tue, 13 Feb 2018 21:04:20 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Official Reps Blog - Rep of the Month – January 2018</title>
   <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=529</guid>
   <link>https://blog.mozilla.org/mozillareps/2018/01/31/rep-of-the-month-january-2018/</link>
@@ -421,7 +518,7 @@ Since I've previous experience with JS, it was pretty easy to pick that stuff up
 
 <p> </p>
 <p>All the projects developed during this event need few finishing after that we’ll be hosting them to a central repository. We are happy to see great ethusiasm among the students of Jharkhand Rai University, got to know more about the problems they had earlier too, I hope I’ll be able to fix few of them and with the support of the community we’ll make this Jharkhand community a productive one.</p>
-<p>More pics can be found here : <a href="https://flic.kr/s/aHsm9M5a79" rel="nofollow">https://flic.kr/s/aHsm9M5a79</a></p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/alamshahbaz.wordpress.com/929/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/alamshahbaz.wordpress.com/929/" /></a> <img alt="" border="0" height="1" src="https://pixel.wp.com/b.gif?host=alamshahbaz.wordpress.com&amp;blog=73514675&amp;post=929&amp;subd=alamshahbaz&amp;ref=&amp;feed=1" width="1" />]]>
+<p>More pics can be found here : <a href="https://flic.kr/s/aHsm9M5a79" rel="nofollow">https://flic.kr/s/aHsm9M5a79</a></p>]]>
   </description>
   <pubDate>Thu, 30 Nov 2017 14:12:29 +0000</pubDate>
   
@@ -747,7 +844,7 @@ people recommended me.</p>]]>
 <p>“Doing good is a part of our code.” – Mozilla</p>
 <p>“Learn , Teach n be Innovative” – Shahbaz</p>
 <p>Event Link : <a href="https://reps.mozilla.org/e/mozaarambh-rai-university/" rel="nofollow">https://reps.mozilla.org/e/mozaarambh-rai-university/</a></p>
-<p> </p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/alamshahbaz.wordpress.com/861/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/alamshahbaz.wordpress.com/861/" /></a> <img alt="" border="0" height="1" src="https://pixel.wp.com/b.gif?host=alamshahbaz.wordpress.com&amp;blog=73514675&amp;post=861&amp;subd=alamshahbaz&amp;ref=&amp;feed=1" width="1" />]]>
+<p> </p>]]>
   </description>
   <pubDate>Tue, 17 Oct 2017 15:52:05 +0000</pubDate>
   
@@ -783,7 +880,7 @@ people recommended me.</p>]]>
 </span></p>
 <p><strong>About ORDINATEUR’17 :</strong></p>
 <p>ORDINATEUR’17 is a one of a kind flagship event organized by IEEE GCET Computer Society Student Chapter under the them “<strong><em>Tech Trend &amp; Innovate</em></strong>”</p>
-<p><a href="https://i1.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/poster.jpg"><img alt="" class="aligncenter size-full wp-image-1420" height="267" src="https://i1.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/poster.jpg?resize=720%2C267" width="720" /></a>Before, I shared my experience with this talk, so let me tell you one thing that this was my one of the best intellectual programming debate talk. Yes, it is! <img alt="😀" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" style="height: 1em;" /><span id="more-1416"></span></p>
+<p><a href="https://i1.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/poster.jpg"><img alt="" class="aligncenter size-full wp-image-1420" height="267" src="https://i1.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/poster.jpg?resize=720%2C267" width="720" /></a>Before, I shared my experience with this talk, so let me tell you one thing that this was my one of the best intellectual programming debate talk. Yes, it is! <img alt="😀" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f600.png" style="height: 1em;" /><span id="more-1416"></span></p>
 <p>I have started with Introduction to Mozilla and “Who am I”. Adding to that, I have also shared about Mozilla projects and <a href="https://www.rust-lang.org/en-US/">Rust </a>is one of them. So now, Lets Dive Into Rust!</p>
 <p><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8975.jpg"><img alt="" class="aligncenter size-full wp-image-1421" height="480" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8975.jpg?resize=720%2C480" width="720" /></a><br />
 According to me, <em>Rust is a good choice when you’d choose C++. You can also say, “Rust is a systems programming language that pursuing the trifecta: safe, concurrent, and fast.” I would say, Rust is an ownership-oriented programming language.</em></p>
@@ -808,7 +905,7 @@ According to me, <em>Rust is a good choice when you’d choose C++. You can also
 <li>I am looking for more such collaboration with such organizations to spread the Mozilla mission &amp; Rust.</li>
 <li>Next series of full-day intense workshop on Rust at G H Patel College of Engineering &amp; Technology with IEEE GCET Computer Society and nearby university campuses.</li>
 </ul>
-<p style="text-align: center;"><strong><em>Hope you enjoyed my blog! <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" style="height: 1em;" /></em></strong></p>]]>
+<p style="text-align: center;"><strong><em>Hope you enjoyed my blog! <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f642.png" style="height: 1em;" /></em></strong></p>]]>
   </description>
   <pubDate>Sat, 23 Sep 2017 23:37:52 +0000</pubDate>
   
@@ -861,7 +958,7 @@ To, build public artifacts that help to build your profile</p>
 <p>At last, we also had round discussion of what participants thinking about open source and what their passion about open source.Everyone has shared their views and all an all it was great to hear their views on it.</p>
 <p><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-42-46.jpg"><img alt="" class="aligncenter size-full wp-image-1411" height="720" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-42-46.jpg?resize=720%2C720" width="720" /></a>Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project. This is the way community builds with better engagement.</p>
 <p><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG-9744.jpg"><img alt="" class="aligncenter size-full wp-image-1410" height="540" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG-9744.jpg?resize=720%2C540" width="720" /></a><br />
-Thank you, everyone, who joined our talk! <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" style="height: 1em;" /> Hope you enjoyed reading my blog.  <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" style="height: 1em;" /></p>]]>
+Thank you, everyone, who joined our talk! <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f642.png" style="height: 1em;" /> Hope you enjoyed reading my blog.  <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f642.png" style="height: 1em;" /></p>]]>
   </description>
   <pubDate>Sat, 23 Sep 2017 22:25:32 +0000</pubDate>
   
@@ -1004,7 +1101,7 @@ Thank you, everyone, who joined our talk! <img alt="🙂" class="wp-smiley" src=
 <li>Helping them to start <a href="https://campus.mozilla.community/">Campus Club</a> in their university.</li>
 <li>Next series of Rust talk at G H Patel College of Engineering &amp; Technology with IEEE GCET Computer Society</li>
 </ul>
-<p style="text-align: center;"><em>Hope you enjoyed my blog! <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" style="height: 1em;" /></em></p>]]>
+<p style="text-align: center;"><em>Hope you enjoyed my blog! <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f642.png" style="height: 1em;" /></em></p>]]>
   </description>
   <pubDate>Tue, 22 Aug 2017 17:18:40 +0000</pubDate>
   
@@ -1278,7 +1375,7 @@ But thanks to the community in Rajasthan which was so much active then, promotin
 Shahbaz<br />
 Mozilla Rep<br />
 Mozilla Firefox User</p>
-</div><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/alamshahbaz.wordpress.com/852/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/alamshahbaz.wordpress.com/852/" /></a> <img alt="" border="0" height="1" src="https://pixel.wp.com/b.gif?host=alamshahbaz.wordpress.com&amp;blog=73514675&amp;post=852&amp;subd=alamshahbaz&amp;ref=&amp;feed=1" width="1" />]]>
+</div>]]>
   </description>
   <pubDate>Sun, 02 Jul 2017 06:40:47 +0000</pubDate>
   
@@ -1488,7 +1585,7 @@ Doing good is part of our code</blockquote>
 <div class="" id="magicdomid28"></div>
 <div class="" id="magicdomid29"></div>
 <div class="" id="magicdomid30"></div>
-<div class="" id="magicdomid31"></div><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/alamshahbaz.wordpress.com/848/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/alamshahbaz.wordpress.com/848/" /></a> <img alt="" border="0" height="1" src="https://pixel.wp.com/b.gif?host=alamshahbaz.wordpress.com&amp;blog=73514675&amp;post=848&amp;subd=alamshahbaz&amp;ref=&amp;feed=1" width="1" />]]>
+<div class="" id="magicdomid31"></div>]]>
   </description>
   <pubDate>Sat, 10 Jun 2017 06:43:29 +0000</pubDate>
   
@@ -1534,7 +1631,7 @@ Doing good is part of our code</blockquote>
 <p>During the event we shared <a href="https://www.facebook.com/mdsbzalam/posts/1699396156742799?pnref=story" rel="noopener noreferrer" target="_blank">pictures</a> on social media and used profile changer and shared the details of campaign and nightly on twitter. Also one of the participant filed two bugs,<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1364735" rel="noopener noreferrer" target="_blank"> one on bugzilla</a> and <a href="https://webcompat.com/issues/6694" rel="noopener noreferrer" target="_blank">one on webcompat</a> . Everyone will be using this browser on a daily basis and we are looking forward for more bugs to be filed .</p>
 
 <a href="https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/18424069_1699395300076218_8572378443863762929_n/"><img alt="" class="attachment-thumbnail size-thumbnail" height="84" src="https://alamshahbaz.files.wordpress.com/2017/05/18424069_1699395300076218_8572378443863762929_n.jpg?w=150&amp;h=84" width="150" /></a>
-<a href="https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/18485310_1699396106742804_4277924514248193578_n/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/05/18485310_1699396106742804_4277924514248193578_n.jpg?w=150&amp;h=113" width="150" /></a><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/alamshahbaz.wordpress.com/779/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/alamshahbaz.wordpress.com/779/" /></a> <img alt="" border="0" height="1" src="https://pixel.wp.com/b.gif?host=alamshahbaz.wordpress.com&amp;blog=73514675&amp;post=779&amp;subd=alamshahbaz&amp;ref=&amp;feed=1" width="1" />]]>
+<a href="https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/18485310_1699396106742804_4277924514248193578_n/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/05/18485310_1699396106742804_4277924514248193578_n.jpg?w=150&amp;h=113" width="150" /></a>]]>
   </description>
   <pubDate>Tue, 16 May 2017 04:31:14 +0000</pubDate>
   
@@ -1654,7 +1751,7 @@ information has become the...]]>
 <li>3 Hackathons based on Rust, WebVR and Firefox in general which will include other development sessions such as WebExtensions,QA and l10n.</li>
 <li>MozCoffee Event with the Club lead of all the Colleges and few active contributors in my community to guide them to be a mentor not a leader.</li>
 <li>Each month at least 3 colleges, 1 Hackathon and 1 Meetup.</li>
-</ul><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/alamshahbaz.wordpress.com/738/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/alamshahbaz.wordpress.com/738/" /></a> <img alt="" border="0" height="1" src="https://pixel.wp.com/b.gif?host=alamshahbaz.wordpress.com&amp;blog=73514675&amp;post=738&amp;subd=alamshahbaz&amp;ref=&amp;feed=1" width="1" />]]>
+</ul>]]>
   </description>
   <pubDate>Thu, 20 Apr 2017 10:20:04 +0000</pubDate>
   
@@ -1670,7 +1767,7 @@ information has become the...]]>
 <p>Event was organized in MCR Community House with the MCR members and QA Analyst <a href="https://mozillians.org/en-US/u/Madhuri_QA/" target="_blank">Madhuri Mittal</a> . Test Pilot was introduced to the participants and everyone installed the add-ons listed on the <a href="https://testpilot.firefox.com" target="_blank">TestPilot website</a> .</p>
 <p>Everyone loved the Snooze Tab, Page Shot , Tab Center and Containers and played with the other add-ons too. After the initial over view of the Add-ons , we performed the Test Cases and how to identify a bug, where to report and how to track that bug was discussed with the participants.</p>
 <p>After the initial impression of add-ons , we were excited to develop our own add-ons. Then <a href="https://reps.mozilla.org/u/osho/" target="_blank">Osho parth</a> took a small session of <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions" target="_blank">WebExtensions</a> where we followed the <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension" target="_blank">First WebExtension</a> and Second <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_second_WebExtension" target="_blank">WebExtension </a>. Looking forward to contribute more on WebExtension , QA and TestPilot.</p>
-<p> </p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/alamshahbaz.wordpress.com/714/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/alamshahbaz.wordpress.com/714/" /></a> <img alt="" border="0" height="1" src="https://pixel.wp.com/b.gif?host=alamshahbaz.wordpress.com&amp;blog=73514675&amp;post=714&amp;subd=alamshahbaz&amp;ref=&amp;feed=1" width="1" />]]>
+<p> </p>]]>
   </description>
   <pubDate>Mon, 17 Apr 2017 05:44:26 +0000</pubDate>
   
@@ -1713,7 +1810,7 @@ information has become the...]]>
 <p><a href="https://mozillians.org/en-US/u/Neha/" target="_blank">Neha Agarwal</a> : <a href="http://nehaagarwal1996.blogspot.in/2017/04/mozilla-campus-club.html" rel="nofollow">http://nehaagarwal1996.blogspot.in/2017/04/mozilla-campus-club.html</a></p>
 <p> </p>
 <p>Events Picture : <a href="https://drive.google.com/drive/folders/0B7ZWOBe2vXuublNDZ1hEQnFJUXc?usp=sharing" target="_blank">link</a></p>
-<p>More updates to follow….</p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/alamshahbaz.wordpress.com/639/" rel="nofollow"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/alamshahbaz.wordpress.com/639/" /></a> <img alt="" border="0" height="1" src="https://pixel.wp.com/b.gif?host=alamshahbaz.wordpress.com&amp;blog=73514675&amp;post=639&amp;subd=alamshahbaz&amp;ref=&amp;feed=1" width="1" />]]>
+<p>More updates to follow….</p>]]>
   </description>
   <pubDate>Mon, 10 Apr 2017 21:06:29 +0000</pubDate>
   
@@ -2036,31 +2133,6 @@ As part of the Open Source Design collective, I have been helping out with the o
 <p>Now, I'm flooded with a lot of mails from students who're willing to contribute to FOSS and requesting for guidance. I have started replying to some, and will be replying to all of them soon.</p>]]>
   </description>
   <pubDate>Sun, 29 Jan 2017 06:38:00 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Michael Kohler - Mozilla Switzerland Community Meetup 2017</title>
-  <guid isPermaLink="false">https://michaelkohler.info/2017/01/28/mozilla-switzerland-community-meetup-2017/</guid>
-  <link>https://michaelkohler.info/2017/01/28/mozilla-switzerland-community-meetup-2017/</link>
-  <description>
-    <![CDATA[<p>On the 28th of January we, the Mozilla Switzerland, community held another community meetup to organize ourselves for the next few months</p>]]>
-  </description>
-  <pubDate>Sat, 28 Jan 2017 20:55:40 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Matjaz Horvat - Diff view for suggestions</title>
-  <guid isPermaLink="false">http://horv.at/blog/?p=1462</guid>
-  <link>http://horv.at/blog/diff-view-for-suggestions/</link>
-  <description>
-    <![CDATA[<p>When choosing the right suggestion to approve, it’s sometimes hard to see how they differ among each other, especially if the difference is relatively small compared to the suggestion length.</p>
-<p>Which is why <a href="https://pontoon.mozilla.org/">Pontoon</a> now lets you see the diff against the translation in the editing field. You can reveal it by clicking on the “Show diff” button.</p>
-<p><img alt="" class="alignnone size-full wp-image-1463" src="http://horv.at/blog/wp-content/uploads/2017/01/diff.png" title="Suggestions diff" /></p>
-<p>Thanks to Tomer for the <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1329003">feature request</a>, Victor for <a href="https://github.com/mozilla/pontoon/commit/7f284b0d12a14c2eea93821b6cc4ec347b38a7d0">diff algorithm improvements</a> and everybody who participated in the <a href="https://github.com/mozilla/pontoon/pull/532">UX discussion</a>.</p>]]>
-  </description>
-  <pubDate>Fri, 27 Jan 2017 22:12:54 +0000</pubDate>
   
 </item>
 
