@@ -10,6 +10,39 @@
 
 
 <item>
+  <title>Official Reps Blog - Reps On-boarding Team</title>
+  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=531</guid>
+  <link>https://blog.mozilla.org/mozillareps/2018/02/15/reps-on-boarding-team/</link>
+  <description>
+    <![CDATA[<p>As you already know from our discourse topic, we have created an Onboarding Screening Team.</p>
+<p>The scope of this team is to help on evaluating the new applications to the Reps program by helping the Reps Council on this process.</p>
+<p>In January we opened a call for the new team members on <a href="https://discourse.mozilla.org/t/do-you-want-join-the-onboarding-screening-team/24497">https://discourse.mozilla.org/t/do-you-want-join-the-onboarding-screening-team/24497</a></p>
+<p>We were happily surprised with the number of applications we’ve got.</p>
+<p>After a month the Reps Council has voted and has chosen the new members. Those are:</p>
+<ul>
+<li><a href="https://reps.mozilla.org/u/Mad_Maks/">Tim Maks van den Broek</a></li>
+<li><a href="https://reps.mozilla.org/u/vi5halc/">Vishal Chavan</a></li>
+<li><a href="https://reps.mozilla.org/u/akayannick98/">Aka Brou Yannick N</a></li>
+<li><a href="https://reps.mozilla.org/u/gmontagu/">Gabriela Montagu</a></li>
+</ul>
+<p>On behalf of the Reps Council (and part of this team) I want to say thank you to the previous team that worked on 9 rounds of screening with evaluation of 39 applications.</p>
+<p>These amazing people are:</p>
+<ul>
+<li><a href="https://reps.mozilla.org/u/michaelkohler/">Michael Kohler</a></li>
+<li><a href="https://reps.mozilla.org/u/mijanur/">Mijanur Rahman</a></li>
+<li><a href="https://reps.mozilla.org/u/Mte90/">Daniele Scasciafratte</a></li>
+<li><a href="https://reps.mozilla.org/u/hossainalikram/">Hossain Al Ikram</a></li>
+</ul>
+<p>The new team will start to work soon (we have about 10 applications in queue) with the help of a Reps Council Member that will be focused on communications between applicants and the evaluation of this team.</p>
+<p>If you want to congratulate your fellows Reps you can do it in this thread:</p>
+<p><a href="https://discourse.mozilla.org/t/welcome-to-the-new-onboarding-screening-team-2018-1/25665">https://discourse.mozilla.org/t/welcome-to-the-new-onboarding-screening-team-2018-1/25665</a></p>
+<p>More updates are coming so stay tuned!</p>]]>
+  </description>
+  <pubDate>Thu, 15 Feb 2018 16:57:59 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Mehul Patel - Google DevFest Ahmedabad 2017</title>
   <guid isPermaLink="false">http://www.rowdymehul.com/?p=1476</guid>
   <link>http://www.rowdymehul.com/rust/google-devfest-ahmedabad-2017/</link>
@@ -2091,48 +2124,6 @@ As part of the Open Source Design collective, I have been helping out with the o
 <p>The post <a href="https://elioqoshi.me/2017/02/fosdem-2017-report/" rel="nofollow">FOSDEM 2017 in Brussels, Belgium – Report</a> appeared first on <a href="https://elioqoshi.me" rel="nofollow">Elio's Corner</a>.</p>]]>
   </description>
   <pubDate>Tue, 14 Feb 2017 14:08:05 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Sanyam Khurana - NIEC Activate Mozilla with WebVR</title>
-  <guid isPermaLink="false">tag:SanyamKhurana.com,2017-01-29:blog/niec-mozilla-activate-webvr.html</guid>
-  <link>http://SanyamKhurana.com/blog/niec-mozilla-activate-webvr.html</link>
-  <description>
-    <![CDATA[<p>On Saturday, January 28, 2017, we had an event planned at Northern India Engineering College on <tt class="docutils literal">Activate Mozilla Campaign</tt>. Our aim was to cover <cite>WebVR</cite> track under <tt class="docutils literal">Build the Web</tt> activity.</p>
-<p>The event was scheduled from 12:00 PM IST to 4:00 PM IST.</p>
-<p>I reached the venue at 10:40 AM and helped a bit with arrangements. Saturday was a day off for all college students, so honestly I didn't expect much audience.</p>
-<p>But, I was wrong. Students are more willing to learn and soon there were lot of students. In starting there were less people, but then we got a total audience of around 70+ which is huge considering that it was a holiday for them and they just came here to learn about FOSS.</p>
-<p>Unfortunately, out of the core-organizers, only Shivam was available. But we got support from other student volunteers to do various arrangements and co-ordinating all the sessions smoothly. I would take this opportunity to thank each one of them.</p>
-<p>Since, there were no other speakers, I had to take all the sessions. It began with an interactive session on what students understand by the term FOSS (Free &amp; Open Source Software). I told about how Free Software and Open Source Software are same yet different from each other.</p>
-<img alt="NIEC Activate Mozilla" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_1.jpg" />
-<p>After this we discussed about Mozilla and the Open Web. Since it was <tt class="docutils literal">Data Privacy Day</tt>, we also discussed about how important is privacy in the online world, yet most of us don't have proper information on it. We also discussed about <cite>Free Basics</cite> and how various organizations keep track of our online identities; and how Mozilla as an organization is doing in protecting the Free Web.</p>
-<p>Next session was on <cite>Introduction to Git &amp; Github</cite>. Although focus was on Activate Mozilla campaign, but I really wanted to teach about Version control to people considering that most people are Engineering students.</p>
-<img alt="Sanyam talking about Version Control using Git" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_2.jpg" />
-<img alt="Sanyam teaching about branching in version control systems" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_3.jpg" />
-<p>After this we had a small break to let people grab the knowledge they just had. I was surprised by the enthusiasm of these students. In the break time too, many of them surrounded me with various questions like how to contribute to FOSS, how to start et. all. So, yes, it wasn't a break for me ;)</p>
-<p>After this session, we jumped on to Activate Mozilla Campaign. We told about various tracks under Activate Mozilla Campaign. The session was kick started with an introduction to Virtual Reality. We discussed about Visual and Input Immersion and how it is changing the Web as we use it today.</p>
-<p>After this, we jumped on to learning A-Frame and making Virtual Reality scenes.</p>
-<img alt="Sanyam's talk on WebVR" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_4.jpg" />
-<img alt="Sanyam's talk on WebVR and A-Frame JS" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_5.jpg" />
-<img alt="NIEC Activate Mozilla" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_6.jpg" />
-<img alt="NIEC Activate Mozilla" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_7.jpg" />
-<p>Then we gave time to audience to try using A Frame to develop something. I will collect all those projects and post them here soon :)</p>
-<p>In the end we distributed swags to students.</p>
-<img alt="NIEC Activate Mozilla Swags" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_8.jpg" />
-<img alt="NIEC Activate Mozilla" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate_9.jpg" />
-<p>After the event, we took feedback from people. Some of them are here:</p>
-<img alt="NIEC Activate Mozilla Feedback" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate-feedback-1.jpg" />
-<img alt="NIEC Activate Mozilla Feedback" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate-feedback-2.jpg" />
-<img alt="NIEC Activate Mozilla Feedback" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate-feedback-3.jpg" />
-<img alt="NIEC Activate Mozilla Feedback" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate-feedback-4.jpg" />
-<p>Out of these, I'm astonished to see, that 100% people want to learn more about it. One student wrote that he would really like if more simpler terms would be used. Surely, I would keep this in mind, and if someone told me this thing during the session, I would've helped them there itself. But I'd surely take care from next session.</p>
-<p>And there is some MozLove on twitter as well :)</p>
-<img alt="NIEC Activate Mozilla Feedback Twitter" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate-twitter-1.png" />
-<img alt="NIEC Activate Mozilla Feedback Twitter" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/niec-moz-activate-twitter-2.png" />
-<p>Now, I'm flooded with a lot of mails from students who're willing to contribute to FOSS and requesting for guidance. I have started replying to some, and will be replying to all of them soon.</p>]]>
-  </description>
-  <pubDate>Sun, 29 Jan 2017 06:38:00 +0000</pubDate>
   
 </item>
 
