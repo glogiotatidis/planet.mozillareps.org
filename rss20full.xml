@@ -10,6 +10,30 @@
 
 
 <item>
+  <title>Sanyam Khurana - International Women's Day with WoMoz in Delhi</title>
+  <guid isPermaLink="false">tag:SanyamKhurana.com,2018-03-15:blog/womoz-international-womens-day-delhi.html</guid>
+  <link>http://SanyamKhurana.com/blog/womoz-international-womens-day-delhi.html</link>
+  <description>
+    <![CDATA[<p>We all know that every year, 8th March is celebrated as International Women's Day. It is a focal point in the movement for women's rights. On this occasion, all the Open Source communities in and around Delhi came forward to hold a mega-meetup to encourage more women to take active part in Open Source &amp; Tech on March 10, 2018.</p>
+<p>We were astonished to see the huge turn around of 180 people including 150+ women participants.</p>
+<img alt="Group photo of all attendees" src="http://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-1.jpg" />
+<p>Mozilla Delhi, PyDelhi, PyLadies Delhi, LinuxChix India, Women Who Code Delhi, Women Who Go Delhi, Women Techmakers Delhi, and Women in Machine Learning and Data Science were the communities helped up in shaping the event.</p>
+<p>Here are some of the volunteers who helped to make the event possible</p>
+<img alt="Group photo of volunteers" src="http://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-2.jpeg" />
+<p>We had 3 main technical talks which were all presented by Women having a decade of experience working in the technical field. Apart from that, we had several other lightening talks and community talks.</p>
+<img alt="Group photo of volunteers" src="http://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-3.jpg" />
+<p><a class="reference external" href="https://twitter.com/a2batic">Kanika</a> gave a lightening talk on "WoMoz" &amp; encouraged students to contribute to Mozilla.</p>
+<img alt="Group photo of volunteers" src="http://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-4.jpg" />
+<p>Later, <a class="reference external" href="https://twitter.com/ErSanyamKhurana">I got a chance to</a> give a lightening talk on "Why you should contribute to Open Source", to help &amp; encourage folks to contribute to Open Source projects.</p>
+<img alt="Group photo of volunteers" src="http://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-5.jpg" />
+<p>I want to thank everyone who helped with the event &amp; Adobe for sponsoring the venue. Don't forget to join the Open Source groups in &amp; around Delhi that you're interested in. As always, if you need any help on contributing, drop me a mail at Sanyam [at] SanyamKhurana [dot] com.</p>
+<p>You can check out more <a class="reference external" href="https://drive.google.com/drive/folders/1pIUUpHB-HW1tw4asoLxpZ1c2-fQONpOt">photos of the event from here</a></p>]]>
+  </description>
+  <pubDate>Wed, 14 Mar 2018 21:21:00 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Robert Reyes - Three (03) Mozilla Talks in a Week!</title>
   <guid isPermaLink="false">http://www.bobreyes.com/myblog/?p=5481</guid>
   <link>http://www.bobreyes.com/myblog/three-03-mozilla-talks-in-a-week/</link>
@@ -2032,30 +2056,6 @@ Doing good is part of our code</blockquote>
 <p>For more information, mail us at mozillajk@gmail.com</p>]]>
   </description>
   <pubDate>Thu, 25 May 2017 15:55:59 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Md Shahbaz Alam - Jaipur Uses Firefox Nightly</title>
-  <guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=779</guid>
-  <link>https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/</link>
-  <description>
-    <![CDATA[<p><span class="">It was an initiative to run a pilot campaign for <a href="https://reps.mozilla.org/e/jaipur-uses-firefox-nightly/" rel="noopener noreferrer" target="_blank">Firefox Nightly in Jaipur</a> as it is happening throughout India. Through this event we wanted be building strong technical community in Jaipur which will be using and testing Nightly on a regular basic which is a great way to get involved to a Mozilla project.<br />
-</span></p>
-<p>Event started with a brief introduction of Mozilla and What is <a href="https://wiki.mozilla.org/Nightly#What_is_Firefox_Nightly.3F" rel="noopener noreferrer" target="_blank">Firefox Nightly</a>? And then we have shared the nightly file so that everyone has nightly browser to explore and use on a daily basis. As they were installing on their computer I talked about importance of nightly user and what great impact it gives back to community when we use this browser and file a bug if any in nightly browser.</p>
-
-<a href="https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/18486436_1699395803409501_859767328494890206_n/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/05/18486436_1699395803409501_859767328494890206_n.jpg?w=150&amp;h=113" width="150" /></a>
-<a href="https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/18424083_1699395463409535_979582241966293095_n/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/05/18424083_1699395463409535_979582241966293095_n.jpg?w=150&amp;h=113" width="150" /></a>
-<a href="https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/18519492_1699395663409515_5940272611773158119_n/"><img alt="" class="attachment-thumbnail size-thumbnail" height="84" src="https://alamshahbaz.files.wordpress.com/2017/05/18519492_1699395663409515_5940272611773158119_n.jpg?w=150&amp;h=84" width="150" /></a>
-
-<p>After the installation we have discussed about two methods of filing bug. One for the browser specific , use <a href="http://bugzilla.mozilla.org/" rel="noopener noreferrer" target="_blank">bugzilla</a> and for website which are not compatible in nightly, use <a href="http://webcompat.com/" rel="noopener noreferrer" target="_blank">webcompat</a> . Also gave a demo of <span class="mw-headline" id="What_is_the_Nightly_Tester_Tools_extension.3F"><a href="https://addons.mozilla.org/firefox/addon/nightly-tester-tools/" rel="noopener noreferrer" target="_blank">Nightly Tester Tools extension</a> and how they an use it in the browser.<br />
-</span></p>
-<p>During the event we shared <a href="https://www.facebook.com/mdsbzalam/posts/1699396156742799?pnref=story" rel="noopener noreferrer" target="_blank">pictures</a> on social media and used profile changer and shared the details of campaign and nightly on twitter. Also one of the participant filed two bugs,<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1364735" rel="noopener noreferrer" target="_blank"> one on bugzilla</a> and <a href="https://webcompat.com/issues/6694" rel="noopener noreferrer" target="_blank">one on webcompat</a> . Everyone will be using this browser on a daily basis and we are looking forward for more bugs to be filed .</p>
-
-<a href="https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/18424069_1699395300076218_8572378443863762929_n/"><img alt="" class="attachment-thumbnail size-thumbnail" height="84" src="https://alamshahbaz.files.wordpress.com/2017/05/18424069_1699395300076218_8572378443863762929_n.jpg?w=150&amp;h=84" width="150" /></a>
-<a href="https://alamshahbaz.wordpress.com/2017/05/16/jaipur-uses-firefox-nightly/18485310_1699396106742804_4277924514248193578_n/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/05/18485310_1699396106742804_4277924514248193578_n.jpg?w=150&amp;h=113" width="150" /></a>]]>
-  </description>
-  <pubDate>Tue, 16 May 2017 04:31:14 +0000</pubDate>
   
 </item>
 
