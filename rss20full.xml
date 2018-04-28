@@ -10,6 +10,40 @@
 
 
 <item>
+  <title>Michal Stanke - Leaving Mozilla Reps</title>
+  <guid isPermaLink="false">https://michal.stanke.cz/2018/04/28/leaving-mozilla-reps</guid>
+  <link>https://michal.stanke.cz/2018/04/28/leaving-mozilla-reps.html</link>
+  <description>
+    <![CDATA[<p>The beginning of this year was a little hectic. Finishing master studies, deleting Facebook and seeking for a new job to finally get back to the same, only full time. All of this shifted my priorities a little bit and this Monday I informed my mentor that I would like to join the Reps alumni.</p>
+
+<p>Let’s start with my master studies and Facebook first, because those two are pretty related. About two years ago, I decided to delete my Facebook account after I finish the university. I was using Facebook only to be in the school groups, discuss our assignments and share tips for exams. So after I finished my state exams, I asked Facebook to delete the account. The time proximity with the <a href="https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal">Cambridge Analytica scandal</a> was just a coincidence. I always assumed that’s happening regularly on Facebook, and until today, I am not sure whether people were more surprised by the Cambridge Analytica thing, or that someone can consciously without any external motivation delete his or her Facebook account. Both seem pretty normal to me.</p>
+
+<p>But back to Mozilla related stuff. For weeks and weeks I was thinking about all my Mozilla activities and if I want to go on the same way - user support (SUMO + social media), localization, Mozilla presence on conferences, planning several other general localization events, attending other open communities events, plus all the local stuff around Mozilla.cz web, infrastructure and community. I didn’t even have enough time to write reports or blog posts about my activities, experience and lessons learned. After getting a full time contract in Cisco, I somehow naturally displaced those activities from the list, that I didn’t enjoyed anymore.</p>
+
+<p>As a result, this Monday I informed Michael that I want to join the Reps alumni. I do not thing I can dedicate what’s needed to support the Reps goals and be a valuable and involved member.</p>
+
+<p><a href="https://michal.stanke.cz/assets/img/mstanke-reps-joined.png" style="display: block; text-align: center;"><img alt="The day when I joined Mozilla Reps" src="https://michal.stanke.cz/assets/img/mstanke-reps-joined.png" style="border: 0.1em solid gray;" /></a></p>
+
+<p>Nevertheless, being a Rep for two years (per day exactly) was a really great experience. If you are an active Mozillian interested in organizing events or campaigns, joining Reps is the only right thing to do. Without me being a Rep, we would probably never started attending conferences so often nor making meetups. It really eased the start. I want to thank <a href="https://reps.mozilla.org/u/michaelkohler/">Michael Kohler</a> as my mentor, the Reps council of course, and every single Rep who shared the experience with me through the program.</p>
+
+<p>I am not leaving the Mozilla community, no way. I am still a Mozillian in the first place and I will still contribute the ways I believe I can do the best.</p>]]>
+  </description>
+  <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Viswaprasath KS - COEP FOSS Meetup 2018</title>
+  <guid isPermaLink="false">https://iamvp7.github.io//COEP_FOSS_meetup/</guid>
+  <link>https://iamvp7.github.io//COEP_FOSS_meetup/</link>
+  <description>
+    <![CDATA[<p>This is my second visit to Pune, after my recent <a href="https://iamvp7.github.io//GNUNify_18">GNUify</a> event. GNUNify was mainly focused for Student developers, the target audience were getting started with Open source community. COeP Foss Meetup had well experienced developers and students who are contributing for FOSS community more than 1 year. Abhijit who is the professor at COEP and helping lot of students to get started with community. He is an amazing person I meet, who came forward to share his thoughts about my presentation and spends time with students and motivates them a lot.</p>]]>
+  </description>
+  <pubDate>Fri, 27 Apr 2018 23:00:00 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Md Shahbaz Alam - WebVR @ LPU</title>
   <guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=1056</guid>
   <link>https://alamshahbaz.wordpress.com/2018/04/27/webvr-lpu/</link>
@@ -1878,56 +1912,6 @@ KR4: The website is updated to the new branding</p>
     <![CDATA[<p><strong>Date</strong> : 24th July 2017</p>]]>
   </description>
   <pubDate>Fri, 28 Jul 2017 23:34:00 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Official Reps Blog - Rep of the Month – July 2017</title>
-  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=508</guid>
-  <link>https://blog.mozilla.org/mozillareps/2017/07/28/rep-of-the-month-july-2017/</link>
-  <description>
-    <![CDATA[<div class="cooked">
-<p>Please join us in congratulating <a href="https://reps.mozilla.org/u/dvigneshwer/" rel="nofollow noopener">Vigneshwer Dhinakaran</a>, our Rep of the Month for July 2017!</p>
-<p>Vigneshwer is a data scientist working on realtime data and a tech enthusiast coming from India.</p>
-<p><a href="https://scontent.fath3-2.fna.fbcdn.net/v/t31.0-8/16179241_1830873240462561_4074884736782256847_o.jpg?oh=3b7236a2a732a381422afc70b1bb1ed1&amp;oe=59F6B539" rel="nofollow noopener" target="_blank"> <img height="460" src="https://scontent.fath3-2.fna.fbcdn.net/v/t31.0-8/16179241_1830873240462561_4074884736782256847_o.jpg?oh=3b7236a2a732a381422afc70b1bb1ed1&amp;oe=59F6B539" width="690" /> </a>During the last months, Vigneshwer (or Viki as most of his friends call him) has been heavily involved on helping building the Rust community in India. His efforts, along with other awesome Reps, have resulted to the <a href="https://discourse.mozilla-community.org/t/rain-of-rust-campaign-live/16020">RainofRust Campaign</a>, a campaign with the purpose to spread the Rust language in India and to create early adapters of the language. During the campaign Viki wrote a <a href="https://github.com/MozillaIndia/RustIndia/tree/master/RainOfRust#rust-kits" rel="nofollow noopener">new event flow</a> while he was leading a lot of the offline and online events. But his work doesn’t stop there. Since the campaign has finished, Viki is leading the efforts to help those early adopters to become Rust contributors in order to strengthen the community in India. Moreover, Viki has participated in the <a href="https://blog.mozilla.org/mozillareps/2017/07/10/reps-mobilizer-experiment/" rel="nofollow noopener">mobilizers experiment</a> where he was leading the efforts on understanding how to mobilize the Rust community and unlock the <a href="https://discourse.mozilla-community.org/t/results-of-the-mobilizer-experiment-for-rust-india/16558">challenges they are facing</a>.</p>
-<p>Thank you Vigneshwer for being awesome, keep rocking the open Web! <img alt=":tada:" class="emoji" src="https://cdn-production.discourse.mozilla-community.org/images/emoji/twitter/tada.png?v=5" title=":tada:" /> <img alt=":tada:" class="emoji" src="https://cdn-production.discourse.mozilla-community.org/images/emoji/twitter/tada.png?v=5" title=":tada:" /></p>
-<p><a href="https://discourse.mozilla-community.org/t/rep-of-the-month-july-2017/17474"><span class="author-a-rc6pvwz72ze8z90znkxz89z3t">Join us in congratulating him on Discourse.</span></a></p>
-</div>]]>
-  </description>
-  <pubDate>Fri, 28 Jul 2017 11:12:34 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Official Reps Blog - Council at the All Hands in San Francisco</title>
-  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=506</guid>
-  <link>https://blog.mozilla.org/mozillareps/2017/07/25/council-at-the-all-hands-in-san-francisco/</link>
-  <description>
-    <![CDATA[<p>The All Hands is a special time of the year where Mozilla employees along with core volunteers gather for a week of many meetings and brainstorming. The <a href="https://wiki.mozilla.org/All_Hands/SanFrancisco">All Hands Wiki page</a> has more information about the general setting. During the All Hands, the Reps Council participated in the Open Innovation meetings as well as had meetings about what we’ve accomplished in Q2 and the future of the program. One of our main topics was on how to get new developers involved as contributors in Mozilla projects.</p>
-<h3>Top topics</h3>
-<p>For that reason it was crucial to understand and discuss the <a href="https://blog.mozilla.org/mozillareps/2017/07/10/reps-mobilizer-experiment/">mobilizers experiment</a> and their outcomes with Srushtika, Daniele and Vigneshwer, in order to understand what are the issues and needs for Add-ons, Rust and WebVR and how we can create communities around those projects and attract new developers.</p>
-<p>The idea “Open by Design” was discussed extensively while we’ve tried to understand how Reps program can contribute to the Strategy project. We also had a meeting with Patrick Finch to discuss a few strategy questions and to start the discussion on how the Reps program can help in the next few months.</p>
-<p><img src="https://discourse-paas-production-content.s3.amazonaws.com/original/2X/b/b11e8507a66ac4e684279e744cddd7d2b20a34e8.jpg" /></p>
-<h3>Other meetings and sessions</h3>
-<p>We had other sessions as well. Also we did a lot of administrative tasks as well:</p>
-<ul>
-<li>Participated in the Q&amp;A Session with Chris Beard</li>
-<li>Gave feedback on the <a href="https://blog.lizardwrangler.com/2017/03/13/the-worldview-of-mozilla/">World View project</a></li>
-<li>We reviewed our <a href="https://blog.mozilla.org/mozillareps/2017/04/20/reps-program-objectives-q2-2017/">Q2 OKRs</a> and opened <a href="https://github.com/mozilla/reps/issues">issues</a> where necessary to continue in Q3</li>
-<li>Updated the Wiki header of Reps pages with a link to the <a href="http://wiki.mozilla.org/ReMo/Leadership">Leadership page</a></li>
-<li>Moved the Council Chair from Konstantina to Flore</li>
-<li>Started to document new criteria for Reps applications</li>
-<li>Further documented the mobilizers initiative and discussed common topics that were raised around those</li>
-<li>Had a meeting with Module Owner and Peers</li>
-</ul>
-<p><img src="https://discourse-paas-production-content.s3.amazonaws.com/original/2X/0/0947e32116b9f301f74f59a3a6dd6662727639a6.jpg" /></p>
-<h3>MozActivate</h3>
-<p><a href="http://activate.mozilla.community/">Activate</a> holds a special place at Reps activities. During the All Hands we held meetings about the website, the content of the activities and the future of the project. From the Council side Alex Lakatos with Michael Kohler are involved in the website building, while Konstantina Papadea and Ankit Gadgil are working with a focus on the content.</p>
-<p>While in San Francisco we <a href="https://activate.mozilla.community/nightly/">launched a new activity about Nightly</a> which now is available on the website. Firefox Nightly is one of the most important projects happening right now in the Mozilla world and it’s crucial for us. We need to get new Firefox Nightly users.</p>
-<p>We also joined discussions with the Rust and the Add-ons teams in order to better understand how the Reps Program can help to build their community or improve the promotion of those technologies.</p>
-<p>On the feedback form front we are working on the dashboard to simplify the access to feedback of Activate events.</p>]]>
-  </description>
-  <pubDate>Tue, 25 Jul 2017 11:05:52 +0000</pubDate>
   
 </item>
 
