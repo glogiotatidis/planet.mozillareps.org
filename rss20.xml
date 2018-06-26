@@ -110,8 +110,8 @@
 
 <item>
 	<title>Sanyam Khurana - International Women's Day with WoMoz in Delhi</title>
-	<guid isPermaLink="false">tag:SanyamKhurana.com,2018-03-15:blog/womoz-international-womens-day-delhi.html</guid>
-	<link>http://SanyamKhurana.com/blog/womoz-international-womens-day-delhi.html</link>
+	<guid isPermaLink="false">tag:www.sanyamkhurana.com,2018-03-15:blog/womoz-international-womens-day-delhi.html</guid>
+	<link>https://www.sanyamkhurana.com/blog/womoz-international-womens-day-delhi.html</link>
 	<description>We all know that every year, 8th March is celebrated as International Women&#39;s Day. It is a focal point in the movement for women&#39;s rights. On this occasion, all the Open Source communities in and around Delhi came forward to ...</description>
 	<pubDate>Wed, 14 Mar 2018 21:21:00 +0000</pubDate>
 	
@@ -173,8 +173,8 @@
 
 <item>
 	<title>Sanyam Khurana - MozAMU: Mozilla Addons Development at AMU</title>
-	<guid isPermaLink="false">tag:SanyamKhurana.com,2018-03-01:blog/mozilla-addons-dev-amu.html</guid>
-	<link>http://SanyamKhurana.com/blog/mozilla-addons-dev-amu.html</link>
+	<guid isPermaLink="false">tag:www.sanyamkhurana.com,2018-03-01:blog/mozilla-addons-dev-amu.html</guid>
+	<link>https://www.sanyamkhurana.com/blog/mozilla-addons-dev-amu.html</link>
 	<description>It all started with PyCon India. I met a few students of Aligarh Muslim University who were trying to teach about FOSS in their college. A few them were already contributing to Coala. We talked a bit and they were ...</description>
 	<pubDate>Thu, 01 Mar 2018 11:41:00 +0000</pubDate>
 	
@@ -254,17 +254,8 @@
 
 <item>
 	<title>Sanyam Khurana - Web Extensions, Womoz &amp; Privacy</title>
-	<guid isPermaLink="false">tag:SanyamKhurana.com,2018-01-23:blog/web-extensions-womoz-privacy.html</guid>
-	<link>http://SanyamKhurana.com/blog/web-extensions-womoz-privacy.html</link>
-	<description>A Saturday well spent teaching students about Open Source, Add-ons and Privacy. We had an activity at Indira Gandhi Delhi Technical University for Women (IGDTUW) for Addons, WoMoz and Privacy. The session started with Trishul giving a talk on getting ...</description>
-	<pubDate>Tue, 23 Jan 2018 14:45:00 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Sanyam Khurana - Web Extensions, Womoz &amp; Privacy</title>
-	<guid isPermaLink="false">tag:SanyamKhurana.com,2018-01-23:blog/mozcoffe-2017-end.html</guid>
-	<link>http://SanyamKhurana.com/blog/mozcoffe-2017-end.html</link>
+	<guid isPermaLink="false">tag:www.sanyamkhurana.com,2018-01-23:blog/web-extensions-womoz-privacy.html</guid>
+	<link>https://www.sanyamkhurana.com/blog/web-extensions-womoz-privacy.html</link>
 	<description>A Saturday well spent teaching students about Open Source, Add-ons and Privacy. We had an activity at Indira Gandhi Delhi Technical University for Women (IGDTUW) for Addons, WoMoz and Privacy. The session started with Trishul giving a talk on getting ...</description>
 	<pubDate>Tue, 23 Jan 2018 14:45:00 +0000</pubDate>
 	
@@ -272,8 +263,8 @@
 
 <item>
 	<title>Sanyam Khurana - Moz-Fedora Day</title>
-	<guid isPermaLink="false">tag:SanyamKhurana.com,2018-01-14:blog/moz-fedora-day.html</guid>
-	<link>http://SanyamKhurana.com/blog/moz-fedora-day.html</link>
+	<guid isPermaLink="false">tag:www.sanyamkhurana.com,2018-01-14:blog/moz-fedora-day.html</guid>
+	<link>https://www.sanyamkhurana.com/blog/moz-fedora-day.html</link>
 	<description>We recently organized Moz-Fedora Day, a one day event on promoting FOSS through Mozilla &amp;amp; Fedora at Investopad, Hauz Khas, Delhi on Jan 13, 2018. The aim was to depict the usage of packaging &amp;amp; building one of the Mozilla&#39;s ...</description>
 	<pubDate>Sun, 14 Jan 2018 14:45:00 +0000</pubDate>
 	
@@ -299,8 +290,8 @@
 
 <item>
 	<title>Sanyam Khurana - Ending the year with MozCoffee</title>
-	<guid isPermaLink="false">tag:SanyamKhurana.com,2017-12-24:blog/mozcoffee-2017-end.html</guid>
-	<link>http://SanyamKhurana.com/blog/mozcoffee-2017-end.html</link>
+	<guid isPermaLink="false">tag:www.sanyamkhurana.com,2017-12-24:blog/mozcoffee-2017-end.html</guid>
+	<link>https://www.sanyamkhurana.com/blog/mozcoffee-2017-end.html</link>
 	<description>We had MozCoffee Delhi on last Saturday, Dec 23, 2017. We had a lot of Rep Attendees this time with other Mozillians. What would have been a better way to end an year than the MozCoffee. From past various months, ...</description>
 	<pubDate>Sun, 24 Dec 2017 15:04:00 +0000</pubDate>
 	
@@ -546,6 +537,15 @@
 	<link>http://www.bobreyes.com/myblog/first-time-coscup-taiwan/</link>
 	<description>I had the opportunity to represent Mozilla (and my country) in COSCUP 2017 over the weekend. COSCUP is an annual conference held by Taiwanese Open source community participants since 2006. It’s a major force of Free software movement advocacy in ...</description>
 	<pubDate>Mon, 07 Aug 2017 02:35:27 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Official Reps Blog - Rep of the Month – July 2017</title>
+	<guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=508</guid>
+	<link>https://blog.mozilla.org/mozillareps/2017/07/28/rep-of-the-month-july-2017/</link>
+	<description>Please join us in congratulating Vigneshwer Dhinakaran, our Rep of the Month for July 2017! Vigneshwer is a data scientist working on realtime data and a tech enthusiast coming from India. During the last months, Vigneshwer (or Viki as most ...</description>
+	<pubDate>Fri, 28 Jul 2017 11:12:34 +0000</pubDate>
 	
 </item>
 
