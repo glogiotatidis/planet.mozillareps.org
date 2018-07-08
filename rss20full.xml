@@ -10,6 +10,73 @@
 
 
 <item>
+  <title>Viswaprasath KS - Mozofest 2018</title>
+  <guid isPermaLink="false">http://vp7techie.wordpress.com/?p=863</guid>
+  <link>https://vp7techie.wordpress.com/2018/07/08/mozofest-2018/</link>
+  <description>
+    <![CDATA[<p>Mozofest  is an event organized by <a href="https://srmkzilla.net/" rel="noopener" target="_blank">SRMKzilla</a> club each and every year. This year they had big plans for this event. Usually they used limited number of events this year they had Speaker series, Hackathon and other events which educate about internet.</p>
+<p><img alt="mozofest" class="alignnone size-full wp-image-867" src="https://vp7techie.files.wordpress.com/2018/07/mozofest.jpg?w=1100" /></p>
+<p>Pic Credits: Mozofest Team from SRMKzilla.</p>
+<p>I was asked to filter the Call for proposals this year and also to judge the hackathon along with Karthick, Dinesh and Jayesh.</p>
+<p>It was 3 days events, and on first day small quiz competition , coding event and other happened.</p>
+<p>On 2nd day, Jayesh organized  Hands-on session on Rust and on another side Bhuvana &amp; Karan ganeshan was giving session on WebVR. At the end of 2nd day around 5.00 PM 24 hours hackathon was started.</p>
+<p>Rust Workshop Agenda</p>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;">Mozilla and rust</span></span></li>
+<li><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;">What is rust? Why rust?</span></span></li>
+<li><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;">Projects where rust is used</span></span></li>
+<li><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;">Features of rust</span></span></li>
+<li><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;">Ongoing projects on Rust</span></span></li>
+<li><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;">Hands on Rust</span></span></li>
+<li><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;">Q &amp; A Session</span></span></li>
+<li><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;">Subscriptions to rust mailing lists and channels</span></span></li>
+<li><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;">SWAG Distribution</span></span></li>
+<li><span style="font-family: Times New Roman, serif;"><span style="font-size: medium;">Feedback and Wrap up session</span></span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>On 3rd day, we had our  <strong>SRM FOSS Meetup</strong>, which was the most awaited moment.</p>
+<p>This FOSS meetup was inaugurated by long time Open source contributor from Chennai.</p>
+<p><img alt="SRM_FOSS" class="alignnone size-full wp-image-864" src="https://vp7techie.files.wordpress.com/2018/07/srm_foss.png?w=1100" /></p>
+<p>Again on Day 3, we had a small introduction talk on Rust by Jayesh and WebVR by Bhuvana.</p>
+<p><img alt="webVr" class="alignnone size-full wp-image-865" src="https://vp7techie.files.wordpress.com/2018/07/webvr.jpg?w=1100" /></p>
+<p>We are amazing number of sessions by Mozillians.</p>
+<ol>
+<li>Python 3 by Sriram.</li>
+<li>Getting Started to Open source by Balaji.</li>
+<li>Rust by Jayesh.</li>
+<li>WebVR by Bhuvana.</li>
+<li>Contributing to L10N by Dhinesh.</li>
+<li>QA by Aditya</li>
+<li>Why WebCompact is important by Karthikeyan.</li>
+<li>Getting Started with Privacy by Sayaji.</li>
+<li>Auth0 by Mehul.</li>
+<li>WebExtension by Khaleel.</li>
+<li>PWA by Viswaprasath.</li>
+</ol>
+<p>On the evening I gave a basic introduction Progressive Web Apps and Service workers by using a small demo (creating simple About us page).</p>
+<p><img alt="PWA" class="alignnone size-full wp-image-866" src="https://vp7techie.files.wordpress.com/2018/07/pwa.jpg?w=1100" /></p>
+<p>After all the session were over on that day, we were given opportunity to judge hackathon projects.</p>
+<ol>
+<li>Karthikeyan.</li>
+<li>Dinesh</li>
+<li>Jayesh</li>
+<li>Mehul</li>
+<li>and myself.</li>
+</ol>
+<p>It was very organized. Over 600 people from different parts of Tamilnadu came to booth, workshops , talks.</p>]]>
+  </description>
+  <pubDate>Sun, 08 Jul 2018 12:30:28 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Md Shahbaz Alam - LinuxCon China</title>
   <guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=1081</guid>
   <link>https://alamshahbaz.wordpress.com/2018/07/05/linuxcon-china/</link>
@@ -1683,7 +1750,7 @@ people recommended me.</p>]]>
 So instead of having only one search engine, our idea is to have more than one search engine listed so users can use their required search engine to searching the text.</p>
 <h3 id="mozillain-contest">MozillaIN Contest</h3>
 <p>Mozilla India community has declared a contest on developing Add-ons which should be working on Firefox 57 properly (means WebExtension). Best Extensions will be choosen and the winners will be getting the Limited edition AMO Pendrive. Last date is end of October 2017.</p>
-<p>You can get started with  building the context menu from the following video and this video is contributed by Trishul.</p>
+<p>You can get started with building the context menu from the following video and this video is contributed by Trishul.</p>
 <div class="jetpack-video-wrapper"></div>
 <p>All the code samples discussed in the above video is available in the <a href="https://github.com/iamVP7/MozWOC17/tree/master/session7">github</a> and the detailed blog post on this particular API is shared before. <a href="https://iamvp7.github.io//Creating-Simple-Easy-Searcher-Using-ContextMenu">Link of post</a></p>
 <h2 id="attendees">Attendees</h2>
@@ -1719,13 +1786,13 @@ So instead of having only one search engine, our idea is to have more than one s
 <li>Learn about Message sending between JS file and background JS, <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/runtime/sendMessage">MDN docs</a></li>
 <li>Learn about executeScript API. <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/tabs/executeScript">MDN docs</a></li>
 </ul>
-<p>You can get started with  youtube controller code flow from the following video.</p>
+<p>You can get started with youtube controller code flow from the following video.</p>
 <div class="jetpack-video-wrapper"></div>
 <p>All the code samples discussed in the above video is available in the <a href="https://github.com/iamVP7/MozWOC17/tree/master/session6">github</a> and the detailed blog post on this particular API is shared before. <a href="https://iamvp7.github.io//My-First-Firefox-Add-on-at-AMO">Link of post</a></p>
 <h3 id="problem">Problem</h3>
 <p>In the above built Add-on one of the problem is when youtube is in many tabs, it will be detected in all the tabs and code is exectued in all tabs. We had a very interesting discussion around this and we have got some suggestions to work on this.</p>
 <p><strong>Can you have a way to detect which tab has the playlist open? If I have two tabs with two different playlists which one will be affected by the addon actions?</strong><br />
-<em>ya you found the problem rcmainak .. it will affect all the tabs. becoze we are querying all the tabs and iterating all the tabs.  it will be awesome if any one of us work on this, like  showing the list of tabs (by title of song) and execute script on the required tab</em></p>
+<em>ya you found the problem rcmainak .. it will affect all the tabs. becoze we are querying all the tabs and iterating all the tabs. it will be awesome if any one of us work on this, like showing the list of tabs (by title of song) and execute script on the required tab</em></p>
 <p>One of the contributor send feedback to share the PDF of the presentation. Google drive <a href="https://drive.google.com/drive/folders/0BynHVcltkfkwaTNvY0JaWUJMWW8">PDF link</a></p>
 <h2 id="attendees">Attendees</h2>
 <p>Name / Twitter handle</p>
@@ -1756,15 +1823,15 @@ So instead of having only one search engine, our idea is to have more than one s
 <p>In our <a href="https://iamvp7.github.io//MozWOC-Session4">previous session</a> we get started learning what are tabs API. There are lot of cases where we have used Tabs API and published add-ons on it. We will slowly cover tabs API one by one along with Different API.</p>
 <p>In the fifth session we are going to learn one of the use case of omnibox using Tabs.create API.</p>
 <h4 id="todays-problem-statement">Todays Problem statement</h4>
-<p>In the address of Firefox / Google Chrome what happens is when we enter some words we will be getting  the results from default search engine. but we will some times require to search on different site. say  you know my handle in twitter is @iamvp7 so there are two ways goto twitter.com and search my handle  (or) goto search engine search my handle with twitter keyword.. so it sometime gets bored. so we will build a small add-on which will<br />
- be helpful for us.</p>
+<p>In the address of Firefox / Google Chrome what happens is when we enter some words we will be getting the results from default search engine. but we will some times require to search on different site. say you know my handle in twitter is @iamvp7 so there are two ways goto twitter.com and search my handle (or) goto search engine search my handle with twitter keyword.. so it sometime gets bored. so we will build a small add-on which will<br />
+be helpful for us.</p>
 <h2 id="agenda">Agenda</h2>
 <p><strong>Building simple Multi Search Add-on</strong></p>
 <ul>
 <li>learn about omnibox API. <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/omnibox">MDN docs</a></li>
-<li>learn about Tabs create API  <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/tabs/create">MDN docs</a></li>
+<li>learn about Tabs create API <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/tabs/create">MDN docs</a></li>
 </ul>
-<p>You can get started with  omnibox API &amp; Tabs.Create API from the following video.</p>
+<p>You can get started with omnibox API &amp; Tabs.Create API from the following video.</p>
 <div class="jetpack-video-wrapper"></div>
 <p>All the code samples discussed in the above video is available in the <a href="https://github.com/iamVP7/MozWOC17/tree/master/session5">github</a> and the detailed blog post on this particular API is shared before. <a href="https://iamvp7.github.io//Build-Quick-Search-In-Firefox-Using-WebExtensions/">Link of post</a></p>
 <p>Google drive <a href="https://drive.google.com/drive/folders/0BynHVcltkfkwalloaFdlOFNuZjg">PDF link</a></p>
@@ -2204,34 +2271,6 @@ Thank you, everyone, who joined our talk! <img alt="🙂" class="wp-smiley" src=
 <a class="likepost json-call 1-322-posts" href="http://abhiramrk.com/feed/?fn=like&amp;following=1-322-posts">Like</a><p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Google+"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="WhatsApp"></a><a class="a2a_button_diaspora" href="https://www.addtoany.com/add_to/diaspora?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Diaspora"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="WordPress"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_blogger_post" href="https://www.addtoany.com/add_to/blogger_post?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Blogger Post"></a><a class="a2a_button_hacker_news" href="https://www.addtoany.com/add_to/hacker_news?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Hacker News"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;title=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat"></a></p>]]>
   </description>
   <pubDate>Sun, 20 Aug 2017 14:21:43 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Official Reps Blog - Reps Program Objectives – Q3 2017</title>
-  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=510</guid>
-  <link>https://blog.mozilla.org/mozillareps/2017/08/15/reps-program-objectives-q3-2017/</link>
-  <description>
-    <![CDATA[<p>As with every quarter, we define Objectives and Key Results for the Reps Program. We are happy to announce the Objectives for the current quarter.</p>
-<p><strong>Objective 1</strong>: <strong>The Reps program continues to grow its process maturity</strong><br />
-KR1: 20 Reps have been trained with the Resource training<br />
-KR2: 100% of the budget requests of new Reps are filed by Resource Track Reps<br />
-KR3: 30 Reps complete the coaching training<br />
-KR4: The amount of mentor-less Reps is reduced by 50%<br />
-KR5: Increase number of authors for Reps tweets to 10 people</p>
-<p><strong>Objective 2: The Reps program is the backbone for any mobilizing needs</strong><br />
-KR1: We documented what mobilizing Reps are focusing on<br />
-KR2: An implementation roadmap for mobilizers’ recommendations is in place.<br />
-KR3: Identified 1 key measures that is defining how our Mobilizers add value to the coding and Non-Coding/Enthusiast communities</p>
-<p><strong>Objective 3: The Activate Portal is improved for Mobilizer Reps and Functional Areas</strong><br />
-KR1: The Rust activity is updated<br />
-KR2: The WebExtensions activity update has been tested in 3 pilot events in 3 different countries<br />
-KR3: 60 unique Reps have run a MozActivate event<br />
-KR4: The website is updated to the new branding</p>
-<p>We will work closely with the Community Development Team to achieve our goals. You can follow the progress of these tasks in the <a href="https://waffle.io/mozilla/Reps">Reps Issue Tracker</a>. We also have a <a href="http://mozilla.github.io/Reps/okr-dashboard/">dashboard</a> to track the status of each objective.</p>
-<p>Which of the above objectives are you most interested in? What key result would you like to hear more about? What do you find intriguing? Which thoughts cross your mind upon reading this? Where would you like to help out? Let’s keep the conversation going! <a href="https://discourse.mozilla.org/t/reps-program-q3-okrs-2017/17859">Join the discussion on Discourse.</a></p>]]>
-  </description>
-  <pubDate>Tue, 15 Aug 2017 08:16:02 +0000</pubDate>
   
 </item>
 
