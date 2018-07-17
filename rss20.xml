@@ -64,15 +64,6 @@
 </item>
 
 <item>
-	<title>Michal Stanke - Leaving Mozilla Reps</title>
-	<guid isPermaLink="false">https://michal.stanke.cz/2018/04/28/leaving-mozilla-reps</guid>
-	<link>https://michal.stanke.cz/2018/04/28/leaving-mozilla-reps.html</link>
-	<description>The beginning of this year was a little hectic. Finishing master studies, deleting Facebook and seeking for a new job to finally get back to the same, only full time. All of this shifted my priorities a little bit and ...</description>
-	<pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
-	
-</item>
-
-<item>
 	<title>Viswaprasath KS - COEP FOSS Meetup 2018</title>
 	<guid isPermaLink="false">http://vp7techie.wordpress.com/2018/04/27/coep-foss-meetup-2018/</guid>
 	<link>https://vp7techie.wordpress.com/2018/04/27/coep-foss-meetup-2018/</link>
@@ -307,15 +298,6 @@
 </item>
 
 <item>
-	<title>Michal Stanke - Mozilla.cz 2017 recap</title>
-	<guid isPermaLink="false">https://michal.stanke.cz/2018/01/14/mozilla-cz-2017-recap</guid>
-	<link>https://michal.stanke.cz/2018/01/14/mozilla-cz-2017-recap.html</link>
-	<description>This week I have published a recapitulation of the last year, how we did in 2017 and how we would like to continue in 2018. It was rather a short article in Czech and I would like to elaborate more ...</description>
-	<pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
-	
-</item>
-
-<item>
 	<title>Official Reps Blog - Reps Council at Austin</title>
 	<guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=522</guid>
 	<link>https://blog.mozilla.org/mozillareps/2018/01/11/reps-council-at-austin/</link>
@@ -388,15 +370,6 @@
 </item>
 
 <item>
-	<title>Michal Stanke - Pontoon Tools 3.0</title>
-	<guid isPermaLink="false">https://michal.stanke.cz/2017/11/12/pontoon-tools-3-0</guid>
-	<link>https://michal.stanke.cz/2017/11/12/pontoon-tools-3-0.html</link>
-	<description>After 150 commits in total, Pontoon Tools got a third major release 3.0! From now on, post-installation/update tour will show you the most important features in Pontoon Tools. So this time for the last time probably (and shortly) what’s new ...</description>
-	<pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
-	
-</item>
-
-<item>
 	<title>Xavier Martorell - My Experience - Mozfest17</title>
 	<guid isPermaLink="false">https://yunit0.tumblr.com/post/167299502492</guid>
 	<link>https://yunit0.tumblr.com/post/167299502492</link>
@@ -411,15 +384,6 @@
 	<link>https://blog.mozilla.org/mozillareps/2017/11/01/resources-reps-whats-next/</link>
 	<description>In the previous blog post, I wrote about the learnings that we got from the initial training session. And last Friday, we just announced the new graduates from the final phase of Resources Rep training. The assessment was made during ...</description>
 	<pubDate>Wed, 01 Nov 2017 16:52:15 +0000</pubDate>
-	
-</item>
-
-<item>
-	<title>Michal Stanke - The story of me@mozilla</title>
-	<guid isPermaLink="false">https://michal.stanke.cz/2017/10/20/the-story-of-me-at-mozilla</guid>
-	<link>https://michal.stanke.cz/2017/10/20/the-story-of-me-at-mozilla.html</link>
-	<description>After our successful presence on the LinuxDays conference in Prague, I have been asked by a Linux Expres for an interview, how I get to the Mozilla community, what I do there, etc. The article is not public yet The ...</description>
-	<pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
 	
 </item>
 
@@ -523,15 +487,6 @@
 </item>
 
 <item>
-	<title>Michal Stanke - Mozilla Latest Version - my first project dedicated to Mozilla</title>
-	<guid isPermaLink="false">https://michal.stanke.cz/2017/09/07/mozilla-latest-version-my-first-project-dedicated-to-mozilla</guid>
-	<link>https://michal.stanke.cz/2017/09/07/mozilla-latest-version-my-first-project-dedicated-to-mozilla.html</link>
-	<description>Mozilla Latest Version (shortly Mozlv) was my first project I have written entirely because of Mozilla. It’s a WordPress plugin to get the latest version number of Firefox/Thunderbird/SeaMonkey and the corresponding links for download or release notes. Currently it loads ...</description>
-	<pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
-	
-</item>
-
-<item>
 	<title>Ram Dayal Vaishnav - Highlights from Netherlands HackerCamp – SHA2017!</title>
 	<guid isPermaLink="false">http://gurumukhi.wordpress.com/?p=882</guid>
 	<link>https://gurumukhi.wordpress.com/2017/09/05/highlights-from-netherlands-hackercamp-sha/</link>
@@ -546,6 +501,51 @@
 	<link>http://www.rowdymehul.com/mozilla/mozconnect-with-ieee-r10-sectional-leadership-summit/</link>
 	<description>While wrapping up with RainOfRust campaigns I was working on reports and gathering feedbacks from the community about our recent initiative and we got an overwhelmed responses from the all around. The participation with IEEE R10 Sectional Leadership Summit was ...</description>
 	<pubDate>Tue, 22 Aug 2017 17:18:40 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Abhiram Ravikumar - It’s raining Rust at Red Hat</title>
+	<guid isPermaLink="false">http://abhiramrk.com/?p=322</guid>
+	<link>http://abhiramrk.com/its-raining-rust-at-red-hat/</link>
+	<description>I know it’s been a while since I’ve put out a post and mostly because I’m trying to learn amazing things and get my hands dirty, trying to build solutions that actually make sense. One such pet-project has been Rust, ...</description>
+	<pubDate>Sun, 20 Aug 2017 14:21:43 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Official Reps Blog - Reps Program Objectives – Q3 2017</title>
+	<guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=510</guid>
+	<link>https://blog.mozilla.org/mozillareps/2017/08/15/reps-program-objectives-q3-2017/</link>
+	<description>As with every quarter, we define Objectives and Key Results for the Reps Program. We are happy to announce the Objectives for the current quarter. Objective 1: The Reps program continues to grow its process maturity KR1: 20 Reps have ...</description>
+	<pubDate>Tue, 15 Aug 2017 08:16:02 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Robert Reyes - First Time at COSCUP Taiwan</title>
+	<guid isPermaLink="false">http://www.bobreyes.com/myblog/?p=5421</guid>
+	<link>http://www.bobreyes.com/myblog/first-time-coscup-taiwan/</link>
+	<description>I had the opportunity to represent Mozilla (and my country) in COSCUP 2017 over the weekend. COSCUP is an annual conference held by Taiwanese Open source community participants since 2006. It’s a major force of Free software movement advocacy in ...</description>
+	<pubDate>Mon, 07 Aug 2017 02:35:27 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Official Reps Blog - Rep of the Month – July 2017</title>
+	<guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=508</guid>
+	<link>https://blog.mozilla.org/mozillareps/2017/07/28/rep-of-the-month-july-2017/</link>
+	<description>Please join us in congratulating Vigneshwer Dhinakaran, our Rep of the Month for July 2017! Vigneshwer is a data scientist working on realtime data and a tech enthusiast coming from India. During the last months, Vigneshwer (or Viki as most ...</description>
+	<pubDate>Fri, 28 Jul 2017 11:12:34 +0000</pubDate>
+	
+</item>
+
+<item>
+	<title>Official Reps Blog - Council at the All Hands in San Francisco</title>
+	<guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=506</guid>
+	<link>https://blog.mozilla.org/mozillareps/2017/07/25/council-at-the-all-hands-in-san-francisco/</link>
+	<description>The All Hands is a special time of the year where Mozilla employees along with core volunteers gather for a week of many meetings and brainstorming. The All Hands Wiki page has more information about the general setting. During the ...</description>
+	<pubDate>Tue, 25 Jul 2017 11:05:52 +0000</pubDate>
 	
 </item>
 
