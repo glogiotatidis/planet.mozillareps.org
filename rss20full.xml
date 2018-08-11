@@ -10,6 +10,81 @@
 
 
 <item>
+  <title>Viswaprasath KS - Devconf India 2018</title>
+  <guid isPermaLink="false">http://vp7techie.wordpress.com/?p=872</guid>
+  <link>https://vp7techie.wordpress.com/2018/08/11/devconf-india-2018/</link>
+  <description>
+    <![CDATA[<blockquote><p><a href="https://devconf.info/" rel="noopener" target="_blank">DevConf</a> Contributor Conferences are technology conference events for Linux and JBoss Developers, Admins, Linux and other open source project contributors, organized by Red Hat. This is the 2nd time happening at India, it was one of the amazing open source event I attended recently.</p></blockquote>
+<p>Two months back CFP was released, as soon as I came to know about it applied for Mozilla Community booth, personally there was call from inside to apply for this meetup. We were very lucky our Mozilla community got opportunity to present various contribution areas at devconf, which is mostly dedicated to developers. And Priyanka shared about this in Mozilla India community mailing list.</p>
+<p>This time MozillaIN community had Amazing booth where our focus is to share about <a href="https://aframe.io/" rel="noopener" target="_blank">Aframe</a> , <a href="https://www.rust-lang.org/en-US/" rel="noopener" target="_blank">Rust Language</a> , <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions" rel="noopener" target="_blank">WebExtension</a></p>
+<p><img alt="photo5990091300780748150" class="alignnone size-full wp-image-873" src="https://vp7techie.files.wordpress.com/2018/08/photo5990091300780748150.jpg?w=1140" /></p>
+<p>Before Meetup, one of the first task is to bring design for Booth, our theme was based on Rust, Firefox Family (&amp; Webextesion), Aframe, we gave this requirements to <a href="https://github.com/mozilla/OpenDesign/issues/215" rel="noopener" target="_blank">Mozilla Open Design</a> team, and one of contributor from India Tanzeel Khan brought the beautiful design (above one). But due to some issues were not  able to print this, but in the large LCD TV we showed this majestic poster during break (when we are not showing demo).</p>
+<p>Second major task was to bring pull contributors who are going to speak at various sessions and also volunteers who can be at booth. Our plan is to make sure minimum 3 are present at any moment  at booth. At first invited Ramdayal, Abhiram and other speakers, they brought in huge number of other Mozillians who will participate.</p>
+<p><strong>Day 1</strong></p>
+<p>The Day 1 started with amazing show by Christ University students. Then Ric Wheeler started Keynote <strong>“Open source is better for companies/businesses, communities and developers”</strong> of Devconf. Once Keynote is done, we (Ram dayal, Bhuvana and myself) started towards Exhibition area to setup up Mozilla booth. It was start of the day, there were already many open source booth setup by other communities ( Elastic, FSMK, devopedia , Openshift and so on..).</p>
+<p>Soon we setup the Mozilla Booth, large number of attendees started joining us. Soon Abhiram joined us to help and share about Rust Language. He started to share about Rust and also about his Amazing rust series which is available in lynda.com for 1 month trial. He brought the QR code ready so whoever wants to learn can scan and visit website directly. Sharing his Tweet which he made after event.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">I published a programming course on <a href="https://twitter.com/rustlang?ref_src=twsrc%5Etfw">@rustlang</a>, ideal for beginners. Do check it out and hope it helps! FYI – <a href="https://twitter.com/hashtag/rust?src=hash&amp;ref_src=twsrc%5Etfw">#rust</a> is a systems level programming lang that’s super fast and memory efficient. <img alt="🦊" class="wp-smiley" src="https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f98a.png" style="height: 1em;" /><img alt="🦀" class="wp-smiley" src="https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f980.png" style="height: 1em;" /><img alt="🌍" class="wp-smiley" src="https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f30d.png" style="height: 1em;" /> It just hit 4.5 K views. Woot! <img alt="🙏" class="wp-smiley" src="https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f64f.png" style="height: 1em;" /> <a href="https://twitter.com/mozilla?ref_src=twsrc%5Etfw">@mozilla</a> <a href="https://twitter.com/MozLearn?ref_src=twsrc%5Etfw">@MozLearn</a> <a href="https://t.co/wSIhkj8cm9">https://t.co/wSIhkj8cm9</a> <a href="https://t.co/trwKtUuzSb">pic.twitter.com/trwKtUuzSb</a></p>
+<p>— Abhiram Ravikumar (@abhi12ravi) <a href="https://twitter.com/abhi12ravi/status/1026855444718014464?ref_src=twsrc%5Etfw">August 7, 2018</a></p></blockquote>
+<p>At the mean time, on another side Ramdayal was sharing his experience about WebVR.  Rakhi was sharing about Mozilla Contribution in general, I was setting up with the Code demo for WebExtension.  Bhuvana was helping me to setup her <a href="https://bhuvanameenakshik.github.io/Pongal_WebVR_wishes/index.html" rel="noopener" target="_blank">WebVR demo</a> , old but we can use this to explain about Aframe simply.</p>
+<p>After their session <a href="https://twitter.com/rowdymehul" rel="noopener" target="_blank">Mehul Patel</a> and <a class="external text" href="https://twitter.com/viralparmarhack" rel="nofollow">Viral Parmar</a>  came to Mozilla booth and sharing their knowledge about Rust and Privacy. Our Swag superstar <a href="https://twitter.com/pathfinderpc" rel="noopener" target="_blank">Prathamesh Chavan</a> traveled from Pune to Bangalore, and without taking any break he reached venue ( remember Bangalore airport to Venue will take around an hour).</p>
+<p>Around afternoon, <a href="http://Shivam Singhal" rel="noopener" target="_blank">Shivam Singhal</a> gave his Session on WebExtension and <a href="https://twitter.com/bhuvanakotees1" rel="noopener" target="_blank">Bhuvana</a> gave her session on WebXR. And also <a href="https://twitter.com/lavish205" rel="noopener" target="_blank">Lavish Aggarwal</a> joined us and started sharing about WebExtension.</p>
+<p><img alt="dig" class=" size-full wp-image-874 aligncenter" src="https://vp7techie.files.wordpress.com/2018/08/img_20180804_152628.jpg?w=1140" /></p>
+<p>During one of the free moment we Mozilla TechSpeakers got chance to click ourself <img alt="❤" class="wp-smiley" src="https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/2764.png" style="height: 1em;" /></p>
+<p><img alt="cof" class="alignnone size-full wp-image-875" src="https://vp7techie.files.wordpress.com/2018/08/img_20180804_163642.jpg?w=1140" /></p>
+<p>Around 5:30 PM we all Mozillians left after having some casual talks like what we are going to focus on future, and exchanged lot of interesting ideas. Around 750+ members might have joined us at booth.</p>
+<p>Second day started at 9:00 AM as usual. We made sure no one is waiting for us. The crowd was comparatively less at the morning as we had Keynote starting.</p>
+<p>We are joined by <a href="https://twitter.com/jyotsna17gupta" rel="noopener" target="_blank">Jyotsna Gupta</a> , Lavish , <a href="https://twitter.com/TushkiSpeaks" rel="noopener" target="_blank">Tushar Arora</a> , Abraar Syed , pooja and many others (sorry forgetting the names). At times went to other booths and goto learn interesting projects like Foreman, Elastic.</p>
+<p><img alt="gupta" class="alignnone size-full wp-image-880" src="https://vp7techie.files.wordpress.com/2018/08/gupta.jpeg?w=1140" /></p>
+<p><a href="https://twitter.com/Diipeshmonga" rel="noopener" target="_blank">Dipesh monga</a> was giving his talk on second day about Dark side of Internet of things.</p>
+<p><img alt="dipnesh.jpeg" class="alignnone size-full wp-image-881" src="https://vp7techie.files.wordpress.com/2018/08/dipnesh.jpeg?w=1140" /></p>
+<p>At the second afternoon, I requested a click with <a href="https://twitter.com/Sayak_Sarkar" rel="noopener" target="_blank">Sayak</a>, its not easy to catch him, I have been to pune twice for <a href="https://vp7techie.wordpress.com/2018/04/27/coep-foss-meetup-2018/">COEP FOSS Meetup</a> and <a href="https://vp7techie.wordpress.com/2018/02/19/gnunify-2018/" rel="noopener" target="_blank">GNUinfy</a> 2018 but was not able to meet him. He is one of the very good friend and used we used to talk randomly for very long time. Along with us we have <a href="https://twitter.com/sw4rn4v4" rel="noopener" target="_blank">Swarnava Sengupta</a>  a very calm person who is amazing contributor to AMO advisory board and Mehul, who is actively bring more rust contributors.</p>
+<p><img alt="IMG_20180805_145454" class="alignnone size-full wp-image-877" src="https://vp7techie.files.wordpress.com/2018/08/img_20180805_145454.jpg?w=1140" /></p>
+<p>On Second Day evening I was fortune to meet Deb, one of the long time Mozillian who was looked like Coding God for community members from Mozilla India, he is one of the greatest Mozillian I have met.<img alt="IMG_20180805_181535" class="alignnone size-full wp-image-876" src="https://vp7techie.files.wordpress.com/2018/08/img_20180805_181535.jpg?w=1140" /></p>
+<p>We tried to capture some of group pictures, for sure some contributors who actively were in booth or giving talks are missing in pictures.</p>
+<p><img alt="(JPEG Image, 1280 × 720 pixels)" class="alignnone size-full wp-image-879" src="https://vp7techie.files.wordpress.com/2018/08/jpeg-image-1280c2a0c397c2a0720-pixels.jpeg?w=1140" /></p>
+<p>Thanks to each and everyone who made this Devconf a amazing experience. It is one of the most recommended event and each developer should try to attend. We can get opportunity to meet many amazing people here.</p>
+		<div class="wpcnt">
+			<div class="wpa wpmrec">
+				<span class="wpa-about">Advertisements</span>
+				<div class="u">		<div style="padding-bottom: 15px; width: 300px; height: 250px; float: left; margin-right: 5px; margin-top: 0px;">
+		<div id="atatags-26942-5b6f156392989">
+			
+		</div></div>		<div style="padding-bottom: 15px; width: 300px; height: 250px; float: left; margin-top: 0px;">
+		<div id="atatags-114160-5b6f15639298c">
+			
+		</div></div></div>
+				
+			</div>
+		</div>]]>
+  </description>
+  <pubDate>Fri, 10 Aug 2018 20:08:04 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Official Reps Blog - Rep of the Month – July 2018</title>
+  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=558</guid>
+  <link>https://blog.mozilla.org/mozillareps/2018/08/10/rep-of-the-month-july-2018/</link>
+  <description>
+    <![CDATA[<div class="cooked">
+<p>Please join us in congratulating <a href="https://reps.mozilla.org/u/Liv/" rel="nofollow noopener">Lívia Takács</a>, our Rep of the Month for July 2018!</p>
+<p>Livia is a UI developer and visual designer from Hungary and has been part of the Reps program for a bit more than a year. In that time she organized a lot of events with different communities (like LibreOffice) and also workshops.</p>
+<div class="lightbox-wrapper">
+<p><a class="lightbox" href="https://discourse-paas-production-content.s3.amazonaws.com/original/3X/4/2/42d28bad219b632f3736b0dbd9e03318e4f20bdf.jpg" rel="nofollow noopener" title="99327b7dc22fc651f4019467a59b0cbb.jpg"><img alt="99327b7dc22fc651f4019467a59b0cbb" height="400" src="https://discourse-paas-production-content.s3.amazonaws.com/optimized/3X/4/2/42d28bad219b632f3736b0dbd9e03318e4f20bdf_1_400x400.jpeg" width="400" /></a></p>
+<div class="meta"><span class="informations"> </span></div>
+</div>
+<p>She also organizes Mozilla Hungary community meetings and a few months ago she organized the <a href="https://reps.mozilla.org/e/firefox-support-sprint-5/" rel="nofollow noopener">Firefox Support Sprint</a> in Budapest.</p>
+<p>She is a mentor and teacher at specific workshops where she teaches JavaScript and localization, such as <a href="https://reps.mozilla.org/e/mozskool-4/" rel="nofollow noopener">MozSkool</a> teaching JavaScript to 15-18 years old girls and <a href="https://reps.mozilla.org/e/mozscope-workshop-5/" rel="nofollow noopener">MozScope</a> localization workshops. This is a great example that a community builder can organize events but also mentor and teach new people to help growing the local community.</p>
+<p>Thanks Lívia, keep rocking the Open Web! <img alt=":tada:" class="emoji" src="https://cdn-production.discourse.mozilla-community.org/images/emoji/twitter/tada.png?v=5" title=":tada:" /> <img alt=":tada:" class="emoji" src="https://cdn-production.discourse.mozilla-community.org/images/emoji/twitter/tada.png?v=5" title=":tada:" /></p>
+<p><a href="https://discourse.mozilla.org/t/rep-of-the-month-july-2018/30819">Please head over to Discourse to congratulate her!</a></p>
+</div>]]>
+  </description>
+  <pubDate>Fri, 10 Aug 2018 09:18:49 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Official Reps Blog - Onboarding team for 2nd half of 2018</title>
   <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=556</guid>
   <link>https://blog.mozilla.org/mozillareps/2018/08/08/onboarding-team-for-2nd-half-of-2018/</link>
@@ -314,20 +389,7 @@ Mes condoléances à toute ta famille, tes amis qui t’aimaient et toute la fam
 <li>Mehul</li>
 <li>and myself.</li>
 </ol>
-<p>It was very organized. Over 600 people from different parts of Tamilnadu came to booth, workshops , talks.</p>
-		<div class="wpcnt">
-			<div class="wpa wpmrec">
-				<span class="wpa-about">Advertisements</span>
-				<div class="u">		<div style="padding-bottom: 15px; width: 300px; height: 250px; float: left; margin-right: 5px; margin-top: 0px;">
-		<div id="atatags-26942-5b6dc42aa48da">
-			
-		</div></div>		<div style="padding-bottom: 15px; width: 300px; height: 250px; float: left; margin-top: 0px;">
-		<div id="atatags-114160-5b6dc42aa48dd">
-			
-		</div></div></div>
-				
-			</div>
-		</div>]]>
+<p>It was very organized. Over 600 people from different parts of Tamilnadu came to booth, workshops , talks.</p>]]>
   </description>
   <pubDate>Sun, 08 Jul 2018 12:30:28 +0000</pubDate>
   
@@ -617,17 +679,6 @@ community he took on. David likes to plan ahead and he already has 7 upcoming ac
 <p> </p>]]>
   </description>
   <pubDate>Mon, 09 Apr 2018 18:25:31 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Michael Kohler - 10 Years as a Mozilla Volunteer</title>
-  <guid isPermaLink="false">https://michaelkohler.info/2018/04/09/mozilla-10-years-mozillian/</guid>
-  <link>https://michaelkohler.info/2018/04/09/mozilla-10-years-mozillian/</link>
-  <description>
-    <![CDATA[<p>March 10th, 2018 marked my 10 year anniversary as a Mozilla volunteer. I wanted to write this blog post for quite some time now, but as y</p>]]>
-  </description>
-  <pubDate>Mon, 09 Apr 2018 17:29:11 +0000</pubDate>
   
 </item>
 
@@ -1204,39 +1255,6 @@ And talked about new features of AR and VR.</p>
 </item>
 
 <item>
-  <title>Official Reps Blog - Reps On-boarding Team</title>
-  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=531</guid>
-  <link>https://blog.mozilla.org/mozillareps/2018/02/15/reps-on-boarding-team/</link>
-  <description>
-    <![CDATA[<p>As you already know from our discourse topic, we have created an Onboarding Screening Team.</p>
-<p>The scope of this team is to help on evaluating the new applications to the Reps program by helping the Reps Council on this process.</p>
-<p>In January we opened a call for the new team members on <a href="https://discourse.mozilla.org/t/do-you-want-join-the-onboarding-screening-team/24497">https://discourse.mozilla.org/t/do-you-want-join-the-onboarding-screening-team/24497</a></p>
-<p>We were happily surprised with the number of applications we’ve got.</p>
-<p>After a month the Reps Council has voted and has chosen the new members. Those are:</p>
-<ul>
-<li><a href="https://reps.mozilla.org/u/Mad_Maks/">Tim Maks van den Broek</a></li>
-<li><a href="https://reps.mozilla.org/u/vi5halc/">Vishal Chavan</a></li>
-<li><a href="https://reps.mozilla.org/u/akayannick98/">Aka Brou Yannick N</a></li>
-<li><a href="https://reps.mozilla.org/u/gmontagu/">Gabriela Montagu</a></li>
-</ul>
-<p>On behalf of the Reps Council (and part of this team) I want to say thank you to the previous team that worked on 9 rounds of screening with evaluation of 39 applications.</p>
-<p>These amazing people are:</p>
-<ul>
-<li><a href="https://reps.mozilla.org/u/michaelkohler/">Michael Kohler</a></li>
-<li><a href="https://reps.mozilla.org/u/mijanur/">Mijanur Rahman</a></li>
-<li><a href="https://reps.mozilla.org/u/Mte90/">Daniele Scasciafratte</a></li>
-<li><a href="https://reps.mozilla.org/u/hossainalikram/">Hossain Al Ikram</a></li>
-</ul>
-<p>The new team will start to work soon (we have about 10 applications in queue) with the help of a Reps Council Member that will be focused on communications between applicants and the evaluation of this team.</p>
-<p>If you want to congratulate your fellows Reps you can do it in this thread:</p>
-<p><a href="https://discourse.mozilla.org/t/welcome-to-the-new-onboarding-screening-team-2018-1/25665">https://discourse.mozilla.org/t/welcome-to-the-new-onboarding-screening-team-2018-1/25665</a></p>
-<p>More updates are coming so stay tuned!</p>]]>
-  </description>
-  <pubDate>Thu, 15 Feb 2018 16:57:59 +0000</pubDate>
-  
-</item>
-
-<item>
   <title>Mehul Patel - Google DevFest Ahmedabad 2017</title>
   <guid isPermaLink="false">http://www.rowdymehul.com/?p=1476</guid>
   <link>http://www.rowdymehul.com/rust/google-devfest-ahmedabad-2017/</link>
@@ -1334,55 +1352,6 @@ And talked about new features of AR and VR.</p>
 </item>
 
 <item>
-  <title>Official Reps Blog - Rep of the Month – January 2018</title>
-  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=529</guid>
-  <link>https://blog.mozilla.org/mozillareps/2018/01/31/rep-of-the-month-january-2018/</link>
-  <description>
-    <![CDATA[<div class="cooked">
-<p>Please join us in congratulating <a href="https://reps.mozilla.org/u/cynthiapereira/" rel="nofollow noopener">Cynthia Pereira</a>, our Reps of the Month for January 2018!</p>
-<p>Cynthia is digital communications strategist and front-end developer with expertise on technical consulting, user and staff training and customer service in IT and Telecom segments. She has been a part of the Mozilla community for a long time and and her work has made a big push into Mozilla’s mission through local community efforts.</p>
-<div class="lightbox-wrapper">
-<p><a class="lightbox" href="https://discourse-paas-production-content.s3.amazonaws.com/original/3X/2/3/231557b13038dd67ef0881bd2296d423109c102d.jpg" rel="nofollow noopener" title="photo_2018-01-30_10-47-19.jpg"><img alt="photo_2018-01-30_10-47-19" height="500" src="https://discourse-paas-production-content.s3.amazonaws.com/optimized/3X/2/3/231557b13038dd67ef0881bd2296d423109c102d_1_500x500.jpg" width="500" /></a></p>
-<div class="meta"><span class="informations"> </span></div>
-</div>
-<p>Cynthia’s main work around Mozilla is in the <a href="https://pontoon.mozilla.org/contributors/_IbIS7xlPJkaSk3mlr3Z9Q8u9SQ/" rel="nofollow noopener">L10n</a> as manager for pt-BR language, Mozilla Community Web Services, <a href="https://pontoon.mozilla.org/contributors/_IbIS7xlPJkaSk3mlr3Z9Q8u9SQ/" rel="nofollow noopener">Social Media for Firefox Brazil</a> and as a Mozilla Rep in Brazil. She loves empower, motivate and hear people to design goals and reach metrics that help to build a better community to all. Currently she is conducting a QA project within the l10n project and in the coming months she will invest her time and talent to help projects like the Internet Health Report, WoMoz (D &amp; I) and the Glass Room Experience.</p>
-<p>Thank you Cynthia, keep rocking the open Web! <img alt=":tada:" class="emoji" src="https://cdn-production.discourse.mozilla-community.org/images/emoji/twitter/tada.png?v=5" title=":tada:" /> <img alt=":tada:" class="emoji" src="https://cdn-production.discourse.mozilla-community.org/images/emoji/twitter/tada.png?v=5" title=":tada:" /></p>
-<p><a href="https://discourse.mozilla.org/t/rep-of-the-month-january-2018/25028"><span class="">Join us in congratulating her on Discourse.</span></a></p>
-</div>]]>
-  </description>
-  <pubDate>Wed, 31 Jan 2018 17:47:24 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Official Reps Blog - Rep of the Month – December 2017</title>
-  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=527</guid>
-  <link>https://blog.mozilla.org/mozillareps/2018/01/30/rep-of-the-month-december-2017/</link>
-  <description>
-    <![CDATA[<div class="cooked">
-<p>Please join us in congratulating <a href="https://reps.mozilla.org/u/balapandu222/" rel="nofollow noopener">Bala Subramaniyan</a> and <a href="https://reps.mozilla.org/u/jayeshkr/" rel="nofollow noopener">Jayesh Katta Ramalingaiah</a>, our Reps of the Month for December 2017!</p>
-<h1>Bala</h1>
-<p>Bala, a Rep in Warangal, India, has been contributing to Mozilla for more than 5 years.</p>
-<div class="lightbox-wrapper"><a class="lightbox" href="https://discourse-paas-production-content.s3.amazonaws.com/original/3X/9/7/976b1ffff080cb485a6ebbade54b7436a74b0aa8.jpg" rel="nofollow noopener" title="screenshot_10.jpg"><img height="457" src="https://discourse-paas-production-content.s3.amazonaws.com/optimized/3X/9/7/976b1ffff080cb485a6ebbade54b7436a74b0aa8_1_690x457.jpg" width="690" /></a></div>
-<p>(Bala with Jeff at a l10n workshop)</p>
-<p>He has been committed as Regional Ambassador and Mentee in the Campus Club and Firefox Student Ambassador programs for the past few years, helping bring in many students into the Mozilla world. He focused his effort on L10n projects in the last couple months for the <a href="https://pontoon.mozilla.org/contributors/KFfXxn3mF5UkZuPfPORvMzu4XKk/" rel="nofollow noopener">Tamil language</a>, joining a L10n workshop, contributing to <a href="https://reps.mozilla.org/e/mozilla-warangal-november-meetup/" rel="nofollow noopener">Warangal meetup</a> and the <a href="https://reps.mozilla.org/e/add-ons-hacksprint/" rel="nofollow noopener">Add-ons hack sprint</a>.</p>
-<p>Check out <a href="https://balasubramaniyan.wordpress.com/2017/12/03/mozilla-l10n-meetup-kolkata-2017-mozl10nccu/" rel="nofollow noopener">Bala’s blog post about the L10n workshop</a>.</p>
-<h1>Jayesh</h1>
-<p>Jayesh is a full stack Software developer by profession and a tech speaker, Reps Mentor in the Mozilla Community.</p>
-<div class="lightbox-wrapper">
-<p><a class="lightbox" href="https://discourse-paas-production-content.s3.amazonaws.com/original/3X/a/a/aad8eadc81a92834b795000709c679cdd6b8ae77.jpg" rel="nofollow noopener" title="7642e3825fd9e769eeade4eb9ea6f2fc.jpg"><img height="500" src="https://discourse-paas-production-content.s3.amazonaws.com/optimized/3X/a/a/aad8eadc81a92834b795000709c679cdd6b8ae77_1_500x500.jpg" width="500" /></a></p>
-<div class="meta"><span class="informations"> </span></div>
-</div>
-<p>During the last months, Jayesh has been highly involved as a tech speaker at many events evangelising about Rust throughout India. He is playing a key role in the region of Mumbai and has organized a <a href="https://reps.mozilla.org/e/rust-mumbai-meetup/" rel="nofollow noopener">Rust Meetup With Mozilla Staff Member Nicholas</a> and <a href="https://reps.mozilla.org/e/aadhar-and-right-to-privacy-in-india/" rel="nofollow noopener">Aadhar – Right to Privacy in India</a> with Jochai Ben-Avie. He is highly supportive in bringing in new people and guiding them into the community.</p>
-<p>Thank you Bala and Jayesh, keep rocking the open Web! <img alt=":tada:" class="emoji" src="https://cdn-production.discourse.mozilla-community.org/images/emoji/twitter/tada.png?v=5" title=":tada:" /> <img alt=":tada:" class="emoji" src="https://cdn-production.discourse.mozilla-community.org/images/emoji/twitter/tada.png?v=5" title=":tada:" /></p>
-<p><a href="https://discourse.mozilla.org/t/reps-of-the-month-december-2017/24888">Join us on Discourse to congratulate them!</a></p>
-</div>]]>
-  </description>
-  <pubDate>Tue, 30 Jan 2018 16:26:34 +0000</pubDate>
-  
-</item>
-
-<item>
   <title>Sanyam Khurana - Web Extensions, Womoz &amp; Privacy</title>
   <guid isPermaLink="false">tag:www.sanyamkhurana.com,2018-01-23:blog/web-extensions-womoz-privacy.html</guid>
   <link>https://www.sanyamkhurana.com/blog/web-extensions-womoz-privacy.html</link>
@@ -1448,39 +1417,6 @@ learn about these things. A Saturday well spent, spreading the love of Open Sour
 </item>
 
 <item>
-  <title>Official Reps Blog - Reps Council at Austin</title>
-  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=522</guid>
-  <link>https://blog.mozilla.org/mozillareps/2018/01/11/reps-council-at-austin/</link>
-  <description>
-    <![CDATA[<p><strong>TL;DR</strong></p>
-<p><em>The All Hands is a special time of the year where Mozilla employees along with core volunteers gather for a week of many meetings and brainstorming. The<a href="https://wiki.mozilla.org/All_Hands/SanFrancisco"> All Hands Wiki page</a> has more information about the general setting. During the All Hands, the Reps Council participated in the Open Innovation meetings as well as had meetings about what 2018 planning. One of our main topics was about the Mission Driven Mozillians proposal.</em></p>
-<h2>Hot Topics</h2>
-<p>As you already know, we asked in the past for your input on <a href="https://discourse.mozilla.org/t/your-input-on-open-questions-for-mission-driven-mozillians-project/22388/">discourse</a> (if you’re not already subscribed to the Reps category, maybe now it’s the right moment)</p>
-<p>Before we start with the recap of the week, we would like to say thank you to the Reps that left feedbacks on that thread (Felipe, Edoardo and André) but also all to the Mozillians on <a href="https://discourse.mozilla.org/t/mission-driven-mozillians-volunteer-leadership-principles-practices/22386/">https://discourse.mozilla.org/t/mission-driven-mozillians-volunteer-leadership-principles-practices/22386/</a> that left their feedbacks too.</p>
-<p>These suggestions were very important and on shaping the document that will be available soon (we had more discussions during the All Hands so the new revised version is not yet ready).</p>
-<p><a href="http://blog.mozilla.org/mozillareps/files/2018/01/2018-01-11-14.35.18.jpg"><img alt="" class="aligncenter size-medium wp-image-524" height="252" src="http://blog.mozilla.org/mozillareps/files/2018/01/2018-01-11-14.35.18-252x252.jpg" width="252" /></a></p>
-<p>Mission Driven Mozillians was the major topic on the Reps Council meetings. After consulting the results of Communities and Contributors Qualitative Survey we shaped the following questions. <a href="https://docs.google.com/document/d/1whJ6cyR-zozeMdEjtuvQTitSpz5T6bsy44AP0I7f6Y4/edit">https://docs.google.com/document/d/1whJ6cyR-zozeMdEjtuvQTitSpz5T6bsy44AP0I7f6Y4/edit</a>):</p>
-<ul>
-<li>Is the Reps program really a representative of all the mozillian communities?</li>
-<li>How does the program need to evolve to engage more with our members?</li>
-<li>How can we get new Reps to join the new Coach and Resources initiatives?</li>
-<li>How can we improve the use of the report tool by our Reps?</li>
-</ul>
-<h2>Plans for 2018</h2>
-<p> </p>
-<div class="wp-caption aligncenter" id="attachment_523" style="width: 262px;"><a href="http://blog.mozilla.org/mozillareps/files/2018/01/austin.jpg"><img alt="" class="size-medium wp-image-523" height="336" src="http://blog.mozilla.org/mozillareps/files/2018/01/austin-252x336.jpg" width="252" /></a><p class="wp-caption-text">A photo with: Reps Peers, Reps Council (missing Prathamesh and Elio), Kiki (the awesome girl that manage all our budget/swag requests) and Manel (an unexpected guest during the photo shoot)</p></div>
-<p> </p>
-<p>Moving forward, our plan is to deep dive into those because and also start acting on them.</p>
-<p>The council also highly engaged with the Leadership proposal (that had a high priority) since it will be the base on how Mozilla communities will be shaped in the near future and will of course influence our program.</p>
-<p>Open by Design was the motto of this All Hands during all the meetings inside Open Innovation, but also across the organization. You see Mozilla has a strong value that the other IT companies don’t have: the community.</p>
-<div class="wp-caption aligncenter" id="attachment_525" style="width: 262px;"><a href="http://blog.mozilla.org/mozillareps/files/2018/01/2018-01-11-14.35.24.jpg"><img alt="" class="size-medium wp-image-525" height="252" src="http://blog.mozilla.org/mozillareps/files/2018/01/2018-01-11-14.35.24-252x252.jpg" width="252" /></a><p class="wp-caption-text">Mozilla is more than a Silicon Valley IT company</p></div>
-<p>One of the most curious and interesting, for the purpose of openness, thing is the ability to access  official Mozilla Slack channels for all the mozillians with NDA to. This support enables the volunteers to be able to communicate directly with the employees. And Yes, as Reps you have already signed the NDA so you can access without problems the various channels!</p>]]>
-  </description>
-  <pubDate>Thu, 11 Jan 2018 13:41:51 +0000</pubDate>
-  
-</item>
-
-<item>
   <title>Sanyam Khurana - Ending the year with MozCoffee</title>
   <guid isPermaLink="false">tag:www.sanyamkhurana.com,2017-12-24:blog/mozcoffee-2017-end.html</guid>
   <link>https://www.sanyamkhurana.com/blog/mozcoffee-2017-end.html</link>
@@ -1504,23 +1440,6 @@ Since I've previous experience with JS, it was pretty easy to pick that stuff up
 <img alt="MozCoffee" src="https://www.sanyamkhurana.com/blog/feeds/images/mozcoffee-2017-end-2.jpg" />]]>
   </description>
   <pubDate>Sun, 24 Dec 2017 15:04:00 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Official Reps Blog - New Council Members – Autumn 2017</title>
-  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=519</guid>
-  <link>https://blog.mozilla.org/mozillareps/2017/12/13/new-council-members-autumn-2017/</link>
-  <description>
-    <![CDATA[<p>We are very happy to announce our 2 new council members <a href="https://reps.mozilla.org/u/prathamesh/">Prathamesh Chavan</a> and <a href="https://reps.mozilla.org/u/yomanpatil/">Mayur Patil</a> are fully onboarded and already working moving the Mozilla Reps program forward.</p>
-<p><a href="http://blog.mozilla.org/mozillareps/files/2017/12/council.jpg"><img alt="" class="aligncenter size-medium wp-image-520" height="252" src="http://blog.mozilla.org/mozillareps/files/2017/12/council-252x252.jpg" width="252" /></a>Of course we would like to thank a lot the 2 outcoming members: Michael Kohler and Alex Lakatos.</p>
-<p>Michael and Alex: you have worked extremely hard to move the program forward and your input and strategic thinking have inspired the rest of the Reps.</p>
-<p>Prathamesh and Mayur: a warm welcome. We we are very excited to have you and can’t wait to build the program together.</p>
-<p>The Mozilla Reps Council is the governing body of the Mozilla Reps Program. It provides the general vision of the program and oversees day-to-day operations globally. Currently, 7 volunteers and 2 paid staff sit on the council.<a href="https://wiki.mozilla.org/ReMo/Council"> Find out more on the Reps wiki</a>.</p>
-<p>Don’t forget to congratulate the new Council members on the<a href="https://discourse.mozilla-community.org/t/important-council-elections-results-and-next-steps/16012"> Discourse topic</a>!</p>
-<p> </p>]]>
-  </description>
-  <pubDate>Wed, 13 Dec 2017 22:34:12 +0000</pubDate>
   
 </item>
 
@@ -1576,135 +1495,6 @@ It was great to plan for 2018 related to WebExtension. I am very exciting for up
 </item>
 
 <item>
-  <title>Mehul Patel - Maker Fest 2018, Ahmedabad – Call for Participation</title>
-  <guid isPermaLink="false">http://www.rowdymehul.com/?p=1458</guid>
-  <link>http://www.rowdymehul.com/mozilla/maker-fest-2018-ahmedabad-call-for-participation/</link>
-  <description>
-    <![CDATA[<div class="" id="magicdomid83">
-<p><strong><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy">Hey Mozillians!</span></strong></p>
-<p><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy">We are so thrilled to announce that Mozilla India is partnering with the India’s largest Maker Festival, Maker Fest 2018 for the 5th consecutive year. The call for participation is open for all Mozillians.</span></p>
-</div>
-<div class="" id="magicdomid88"><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy"><strong>Mozilla India </strong>has partnered with Maker Fest </span><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy">2018, to map and empower a community of educators and creative people who </span><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy">share a passion to innovate, evolve and change the learning landscape. This </span><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy">year, <a href="https://www.makerfest.com/" rel="noopener">Makerfest</a></span><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy"> is back with an upgraded </span><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy">awesomeness with a 150+ Makers, 50 workshops, 25 awesome speakers, and </span><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy">30,000+spectators.<br />
-</span></div>
-<div class=""></div>
-<div><a href="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/12/maker_fest_2.png"><img alt="" class="aligncenter size-full wp-image-1449" height="511" src="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/12/maker_fest_2.png?resize=550%2C511" width="550" /></a></div>
-<p><span id="more-1458"></span></p>
-<div class="">
-<div class="" id="magicdomid15"><strong><span class="author-a-z77zxnz74zo5z67zvkxz87zz88zz74zjz122zh">About Maker Fest :</span></strong></div>
-<div class=""><strong><span class="author-a-z77zxnz74zo5z67zvkxz87zz88zz74zjz122zh"><br />
-</span></strong><span class="author-a-z77zxnz74zo5z67zvkxz87zz88zz74zjz122zh">Maker Fest is the Indian continuation of Maker Faire hosted across America, Europe, Africa and Japan, among others. Maker Faire, which launched in California, USA in 2006, now hosts hundreds of thousands attendees twice a year across California and New York. It is the amalgamation of festivals celebrating the innovators and an art show with all the booths for inventors and demonstrations and workshops for attendees. Creators, artists, and hobbyist across the country are invited to present their contemporary applications of ideas using the vast ocean of art, science and technology. Also, it is non-commercial and free for the public to attend. </span><span class="author-a-z77zxnz74zo5z67zvkxz87zz88zz74zjz122zh url"><a href="http://www.makerfest.com/">http://www.makerfest.com/</a></span></div>
-<div class="" id="magicdomid18">
-<p> </p>
-<p><a href="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/12/IMG-5864.jpg"><img alt="" class="aligncenter size-full wp-image-1437" height="577" src="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/12/IMG-5864.jpg?resize=720%2C577" width="720" /></a>Here goes our past four years experience at Maker Fest :</p>
-<ul>
-<li><a href="http://blog.mozillagujarat.org/mozillaatmf17/" rel="noopener">http://blog.mozillagujarat.org/mozillaatmf17/</a></li>
-<li><a href="https://rufuscsharma.wordpress.com/2017/01/13/journey-to-mars-makerfest/" rel="noopener">https://rufuscsharma.wordpress.com/2017/01/13/journey-to-mars-makerfest/</a></li>
-<li><a href="https://dvigneshwer.wordpress.com/2017/01/12/experience-makerfest-17/" rel="noopener">https://dvigneshwer.wordpress.com/2017/01/12/experience-makerfest-17/</a></li>
-<li><a href="https://sanjaygouri77.wordpress.com/2016/02/01/makerfest-2016/" rel="noopener">https://sanjaygouri77.wordpress.com/2016/02/01/makerfest-2016/</a></li>
-<li><a href="https://ashishmozillian.wordpress.com/2016/02/07/mozilla-india-maker-fest-2016/" rel="noopener">https://ashishmozillian.wordpress.com/2016/02/07/mozilla-india-maker-fest-2016/</a></li>
-<li><a href="http://trishulgoel.com/makerfest-2016/" rel="noopener">http://trishulgoel.com/makerfest-2016/</a></li>
-<li><a href="http://meandmozilla.blogspot.in/2015/01/makerfest-2015-in-ahmedabad-india.html" rel="noopener">http://meandmozilla.blogspot.in/2015/01/makerfest-2015-in-ahmedabad-india.html</a></li>
-<li><a href="http://prathameshpchavan.blogspot.in/2015/01/makerfest2015-ahmedabad.html" rel="noopener">http://prathameshpchavan.blogspot.in/2015/01/makerfest2015-ahmedabad.html</a></li>
-<li><a href="http://www.mozraj.com/2014/02/makerfest14-at-national-institute-of.html" rel="noopener">http://www.mozraj.com/2014/02/makerfest14-at-national-institute-of.html</a></li>
-<li><a href="http://fosswithumesh.wordpress.com/2014/01/07/makerfestahmedabad/" rel="noopener">http://fosswithumesh.wordpress.com/2014/01/07/makerfestahmedabad/</a></li>
-<li><a href="https://isantoshv.wordpress.com/2015/01/14/maker-fest-ahmedhabad/" rel="noopener">https://isantoshv.wordpress.com/2015/01/14/maker-fest-ahmedhabad/</a></li>
-<li><a href="http://meandmozilla.blogspot.in/2014/01/hive-india-makerfest14-ahmedabad.html" rel="noopener">http://meandmozilla.blogspot.in/2014/01/hive-india-makerfest14-ahmedabad.html</a></li>
-</ul>
-<div class="" id="magicdomid108">
-<p><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy">The event is free to attend but registration is mandatory. A few awesome </span><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy">Mozilla India volunteers will get a chance to avail sponsorship to </span><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy">attend/help with the event.</span></p>
-</div>
-<div></div>
-<div><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/12/DSC_7344.jpg"><img alt="" class="aligncenter size-full wp-image-1436" height="479" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/12/DSC_7344.jpg?resize=720%2C479" width="720" /></a></div>
-<div></div>
-</div>
-<div class="" id="magicdomid18">
-<div class=""><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy"><strong>APPLY NOW: </strong><br />
-<a href="https://goo.gl/forms/KvztgtZ9d8jQCni73" rel="noopener">https://goo.gl/forms/WRvnulHmfgc7hguu1</a></span></div>
-</div>
-</div>
-<p> </p>
-<p><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/12/IMG-0073.jpg"><img alt="" class="aligncenter size-full wp-image-1453" height="480" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/12/IMG-0073.jpg?resize=720%2C480" width="720" /></a></p>
-<div class="">
-<p><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy"><strong>Please note that</strong> as we have an active community in Gujarat region so we mainly give first preference to Mozillians from Gujarat as we are on limited resources and sponsorship is available for limited Mozillians. However, This event will be well documented. If you can’t attend in person, there still will be many ways to participate and shape the program- Don’t worry! As this is an open event, anyone interested can join the event on their own. </span></p>
-</div>
-<div class="">
-<div class=""></div>
-<div class="">
-<p><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy"><strong>Note</strong> that the deadline to apply for the event is on or </span><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy">before <strong>December 16th</strong>.</span></p>
-</div>
-<div class="" id="magicdomid122"><span class="author-a-lr5p8oq6az72zuyz78zz86zz65zy">Cheers,</span></div>
-<div class=""><a href="https://mozillians.org/en-US/u/rowdymehul/" rel="noopener">Mehul Patel</a></div>
-<div class="">On Behalf of Mozilla India.</div>
-</div>
-<div class=""></div>]]>
-  </description>
-  <pubDate>Tue, 05 Dec 2017 18:59:10 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Christophe Villeneuve - Retour sur le meetup-hackathon WebExtensions</title>
-  <guid isPermaLink="false">urn:md5:1e47a3027ffc329dd34f5915c1b93018</guid>
-  <link>https://blog.mozfr.org/post/2017/12/retour-meetup-hackathon-WebExtensions</link>
-  <description>
-    <![CDATA[<p><a href="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/soiree.jpg"><img alt="Soiree WebExtensions" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/.soiree_m.jpg" style="float: right; margin: 0 0 1em 1em; width: 200px;" /></a> Les 17 et 18 novembre dernier, Mozilla Paris <a href="https://blog.mozfr.org/post/2017/11/meetup-Hackathon-webextensions-Mozilla-Paris" hreflang="fr" title="Meetup et hackathon WebExtensions chez Mozilla Paris (3 nov. 2017) Communauté Mozilla francophone">accueillait</a> un hackathon dédié aux WebExtensions. Ce nouveau modèle d’extensions multinavigateur était devenu exclusif dans Firefox quelques jours plus tôt. Une soirée de présentation a précédé la journée de programmation de ces extensions.</p>
-<p>Pour préparer le hackathon, il fallait une soirée de lancement.</p>    <p><a href="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/conf-meetup.jpg" title="Salle conférence à Mozilla Paris"><img alt="Salle conférence à Mozilla Paris" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/.conf-meetup_m.jpg" style="margin: 0 auto; display: block;" /></a></p>
-
-<p>Ce hackathon sous le signe du portage et de la migration des extensions a été introduit par deux présentations.</p>
-
-<p>Tout d’abord, notre Mozillien Christophe Villeneuve a montré comment porter les extensions développées pour Chrome vers Firefox. Il a listé les erreurs couramment rencontrées lors de ces opérations. Vous pouvez retrouver ses diapos (<i lang="en">slides</i>) :</p>
-
-<div style="margin-bottom: 5px;"><a href="https://www.slideshare.net/hellosct1/le-portage-des-webextensions" title="Le portage des WebExtensions">Le portage des WebExtensions</a> par <a href="https://www.slideshare.net/hellosct1">Christophe Villeneuve</a></div>
-
-<p>Ensuite, Marc de <a href="https://www.lilo.org/fr/" hreflang="fr" title="Lilo moteur de recherche">Lilo</a> a partagé son expérience dans le développement d’extensions pour un moteur de recherche « qui finance des projets sociaux et environnementaux ». Il a justifié ses choix techniques face aux  contraintes de son service et des navigateurs pris en charge.</p>
-
-<p><a href="https://www.lilo.org/dl/presentation-Lilo-Firefox.pptx" hreflang="fr" title="Lilo et les WebExtensions"><img alt="slide lilo - Meetup Hackathon" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/.lilo_m.png" style="display: table; margin: 0 auto;" /></a><br />
-<a href="https://www.lilo.org/dl/presentation-Lilo-Firefox.pptx" hreflang="fr" style="display: block; text-align: center;" title="Lilo et les WebExtensions">Lilo et les WebExtensions [<abbr title="Format PowerPoint de Microsoft">PPTX</abbr>]</a></p>
-
-<p>Enfin, il a été temps pour les participants de proposer leurs envies, manques, besoin aux <i lang="en">hackers</i> du lendemain.</p>
-
-<p><img alt="idées pour le hackathon" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/.idees_m.jpg" style="display: table; margin: 0 auto;" /><br />
-<em style="display: block; text-align: center;">Extrait des idées des participants</em></p>
-
-<p>Après une courte nuit, les participants sont revenus avec beaucoup d’idées suite aux différentes conversations de la veille.</p>
-
-<p>Au cours de la journée, les développements ont été très variés, avec une pause en milieu de journée pour reprendre des forces. Voici une petite liste des projets en cours établie en fin de journée :</p>
-
-<p><a href="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/midi.jpg"><img alt="repas du midi" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/meetup/.midi_m.jpg" style="float: right; margin: 0 0 1em 1em; width: 150px;" /></a></p>
-<ul>
-<li>Tamper proxy (anciennement Tamper Data) : monitoring de requête</li>
-<li>Top Word  : un outil pour analyser le nombre de mots employés dans une page et les classer</li>
-<li>Aria Liner : une extension d’accessibilité</li>
-<li>Un cloneur de contenu</li>
-<li>Une extension pour communiquer avec le site liveslide.io</li>
-<li>DevTools PHP : un débogueur PHP dans la console</li>
-</ul>
-
-<p>Ce fut l’occasion pour les participants d’apprendre à créer les extensions. Ils vont continuer le développement pour pouvoir les mettre prochainement dans le <a href="http://addons.mozilla.org/" hreflang="fr" title="Site des extensions de Firefox">dépôt site des extensions</a> de Mozilla.</p>
-
-<p>Nous sommes sûrs que certains projets verront le jour très rapidement.</p>
-
-<p>En outre, les idées proposées et non retenues ne sont pas perdues. Elles ont été envoyées sur le <a href="https://github.com/firefox-addons/ideas/issues" hreflang="en" title="dépôt communautaire des extensions">dépôt communautaire</a>. La communauté des extensions pourra s’en inspirer pour en réaliser une.</p>
-
-<p>Après ce marathon, les organisateurs ont reçu des demandes pour refaire un événement de ce type. Ils ont été sensibles à cette forte demande… Ce sera pour 2018. Alors, à suivre…</p>
-
-<address><br />
-<a href="https://twitter.com/hellosct1" hreflang="fr" title="Christophe Villeneuve (@hellosct1) sur Twitter">@hellosct1</a>
-</address>
-
-<p><br />
-<em>Précédent événement :</em>  <a href="https://blog.mozfr.org/post/2017/11/Mozilla-Paris-Open-Source-Summit-6-7-decembre" hreflang="fr" title="Mozilla au Paris Open Source Summit les 6 et 7 décembre">Mozilla au Paris Open Source Summit les 6 et 7 décembre</a></p>
-
-<p><em>Crédit photos :</em></p>
-
-<p>Photo n° 1 <a href="https://www.flickr.com/photos/mozinet/albums/72157662214314018/with/38106494702/" hreflang="fr" title="Meetup Introduction WebExtensions octobre 2017 – Mozilla Paris">Mozinet</a> sous licence <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.fr&amp;quot" hreflang="fr" title="Creative Commons — Attribution - partage dans les mêmes conditions 2.0 Générique — CC BY-SA 2.0">CC By-SA 2.0</a></p>
-<p>Photo n<sup>os</sup> 2 à 4 <a href="https://www.flickr.com/photos/26276571@N03/albums/72157676896112176/" hreflang="fr" title="Open Source Summit 2016">Hellosct1</a> sous licence <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.fr&amp;quot" hreflang="fr" title="Creative Commons — Attribution - partage dans les mêmes conditions 2.0 Générique — CC BY-SA 2.0">CC By-SA 2.0</a>.</p>]]>
-  </description>
-  <pubDate>Fri, 01 Dec 2017 13:47:08 +0000</pubDate>
-  
-</item>
-
-<item>
   <title>Md Shahbaz Alam - WebVR Camp @ JRU, Ranchi</title>
   <guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=929</guid>
   <link>https://alamshahbaz.wordpress.com/2017/11/30/webvr-camp-jru-ranchi/</link>
@@ -1739,42 +1529,6 @@ It was great to plan for 2018 related to WebExtension. I am very exciting for up
 <p>More pics can be found here : <a href="https://flic.kr/s/aHsm9M5a79" rel="nofollow">https://flic.kr/s/aHsm9M5a79</a></p>]]>
   </description>
   <pubDate>Thu, 30 Nov 2017 14:12:29 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Christophe Villeneuve - Mozilla au Paris Open Source Summit les 6 et 7 décembre</title>
-  <guid isPermaLink="false">urn:md5:80e63071046691abe5b71ebfb2e1f1f4</guid>
-  <link>https://blog.mozfr.org/post/2017/11/Mozilla-Paris-Open-Source-Summit-6-7-decembre</link>
-  <description>
-    <![CDATA[<p><a href="https://blog.mozfr.org/dotclear/public/mozfr/evenements/poss/poss2017-entree.jpg"><img alt="Open Source Summit Paris 2017" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/poss/.poss2017-entree_s.jpg" style="float: right; margin: 0 0 1em 1em;" /></a> Le <a href="http://www.opensourcesummit.paris/" hreflang="fr" title="Paris Open Source Summit">Paris Open Source Summit</a>, premier événement européen du Libre et de l’<em>open source</em>,  se déroulera les 6 et 7 décembre prochains à l’<a href="http://www.eurosites.fr/eurosites/les-docks-de-paris/" hreflang="fr" title="Eurosites Les Docks">Eurosites Les Docks</a>. Vous y trouverez un salon, des conférences, des tables rondes et un village associatif où vous <strong>nous</strong> trouverez.</p>
-
-
-<p>Ce salon est le fruit de la fusion de <em>Solutions Linux</em> et de l’<em>Open World Forum</em>, deux événements emblématiques du <abbr title="Free/libre/open source software">FLOSS</abbr>. Il rassemble la communauté <em>open source</em> comme  les années précédentes. Ce rendez-vous devenu incontournable pour les Français et les Européens est l’occasion de retrouver les professionnels de ce secteur et de nombreuses offres <em>open source</em>.</p>    <p>POSS propose <strong>200 conférences</strong> selon 3 itinéraires : la technique (DevOps, big data, <abbr title="Artificial intelligence">AI</abbr>, cloud, outils clés…), les solutions (retours d’expérience, collaboration, gestion des documents, <abbr title="Internet of things">IoT</abbr>, équivalents <em>open source</em>, solutions métier pour les collectivités…) et l’écosystème (acteurs communautaires internationaux, recherche publique, collectivités locales, redécentralisation, <em>blockchain</em>, transition écologique…).</p>
-
-
-<p><img alt="Stand Mozilla à l'Open Source Summit Paris" src="https://blog.mozfr.org/dotclear/public/mozfr/evenements/poss/.poss2017-stand_m.jpg" style="display: table; margin: 0 auto;" /></p>
-
-
-<p>Du côté de Mozilla, nous nous trouvons sur le <strong>stand B39</strong> à la frontière du village associatif et de l’espace professionnel. Vous pourrez découvrir <a href="https://www.mozilla.org/fr/firefox/" hreflang="fr" title="Le nouveau navigateur rapide, pour Mac, PC et Linux – Firefox">Firefox Quantum</a> (<a href="https://blog.mozilla.org/press-fr/2017/11/14/mozilla-devoile-le-nouveau-firefox-quantum/" hreflang="fr" title="Mozilla dévoile le nouveau Firefox Quantum (14 nov. 2017) Section Presse Mozilla">sorti ce mois-ci</a>), ainsi que la dernière version de <a href="https://nightly.mozfr.org/" hreflang="fr" title="Téléchargez Firefox Nightly en français">Firefox en Nightly</a>, avec la possibilité de l’installer sur un téléphone portable. Vous aurez aussi la possibilité de parler et de découvrir <a href="https://www.mozilla.org/fr/firefox/mobile/" hreflang="fr" title="Navigateurs mobiles pour iOS et Android – Firefox">Firefox Focus</a> pour vos projets mobiles et des nombreux autres projets (vie privée…). Vous pourrez vous enquérir des technologies en développement comme <abbr title="Réalité virtuelle via le Web">WebVR</abbr> et des changements en cours comme les WebExtensions.</p>
-
-
-<p><br />
-<em>Comme vous pouvez le voir, c’est un rendez-vous à ne pas rater.</em></p>
-
-<address><br />
-<a href="https://twitter.com/hellosct1" hreflang="fr" title="Christophe Villeneuve (@hellosct1) sur Twitter">@hellosct1</a>
-</address>
-
-
-
-<p><br />
-<em>Précédent événement :</em>  <a href="https://blog.mozfr.org/post/2017/11/Capitole-du-Libre-week-end-18-19-novembre" hreflang="fr" title="Nous serons au Capitole du Libre le week-end des 18 et 19 novembre">Nous serons au Capitole du Libre le week-end des 18 et 19 novembre</a></p>
-
-
-<p><em>Crédit photo :</em> <a href="https://www.flickr.com/photos/26276571@N03/albums/72157676896112176/" hreflang="fr" title="Open Source Summit 2016">Hellosct1</a> sous licence <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.fr&amp;quot" hreflang="fr" title="Creative Commons — Attribution - partage dans les mêmes conditions 2.0 Générique — CC BY-SA 2.0">CC By-SA 2.0</a>.</p>]]>
-  </description>
-  <pubDate>Sun, 26 Nov 2017 16:43:14 +0000</pubDate>
   
 </item>
 
@@ -1858,34 +1612,6 @@ and down the London Bridge station, I made it into the train and I headed
 towards the Airport. It was time to go back home.</p>]]>
   </description>
   <pubDate>Thu, 09 Nov 2017 09:52:28 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Official Reps Blog - Resources Reps, what’s next?</title>
-  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=515</guid>
-  <link>https://blog.mozilla.org/mozillareps/2017/11/01/resources-reps-whats-next/</link>
-  <description>
-    <![CDATA[<p><a href="https://www.flickr.com/photos/christosbacharakis/24555180461" title="IMG_8366.CR2"><img alt="IMG_8366.CR2" height="683" src="https://farm2.staticflickr.com/1537/24555180461_93f876d1b2_b.jpg" width="1024" /></a></p>
-<p>In the previous <a href="https://kelimuttu.github.io/rep-resources-training/">blog post</a>, I wrote about the learnings that we got from the initial training session. And last Friday, we just <a href="https://discourse.mozilla.org/t/resources-track-applications-are-now-open/18367/12?u=rizki_kelimutu">announced</a> the new graduates from the final phase of Resources Rep training. The assessment was made during the 3 weeks of the training (whether group or individual exercises) that started on the 2nd of October until 21st of October 2017. You can also see the full list of the Rep Resources graduates in the <a href="https://reps.mozilla.org/people/#/group/resources/">Reps portal</a>. But I would like to quickly take you back on the initial purpose of Resources Reps.</p>
-<p><b>What is a Resources Rep?</b></p>
-<p>The idea behind the Resources Reps  is to have specialized Reps who are trained to help communities and other fellow Reps to plan strategically how they use the resources that the Reps program offers. This will ensures that resources of the program are used in the most impactful way and according to the<a href="https://discourse.mozilla.org/t/budget-allocation-q1-2/14650"> guidance</a> provided by Mozilla’s strategy and the Council.</p>
-<p><b>When did the training happened?</b></p>
-<p>The training sessions happened in 3 phases. The first one, which was the trial training, happened during 24th of July – 12th of August 2017. We asked  6 Reps to participate on this trial session to help us improve the training. After the trial training, we then opened the application for the rest of the Reps and decided to carry on with the first phase of the training with the India applicants during 11th of September – 1st of October. Finally, the last phase happened on the 2nd of October – 21st of October.</p>
-<p>During the 3 weeks of the training, the candidates were asked to go through the training material and complete the quiz every  week. And in the end of each week (we decided to have the meeting on the weekend), we scheduled a video meeting for an hour in order to have work and discuss on the subject together.</p>
-<p><b>What did we learn from the overall training?</b></p>
-<p>On the trial training, the participants helped  a lot in terms of improving the content of the training. Thanks to them, now we have the <a href="https://wiki.mozilla.org/ReMo/SOPs/Budget/Receipts_guide">receipt guideline</a> to help the Rep identify which receipts are acceptable and which are not.</p>
-<p>On the first phase of the training with Reps from India, we were experimenting with a new video conference tool, which surprisingly performed so much better than the tool that we usually use.</p>
-<p>And on the second phase, I learned a lot about accessibility issues. Since we need to accommodate so many time zones, I decided to break the meeting into 2 sessions in each weekend. The first session is for the Asia, Europe, and Africa, and the other session is for the Pacific people who lived in North or South America.</p>
-<p>The first meeting was rather challenging since we had people with problems on communication (more specifically a deaf participant and a person that was not able to follow up in English). This came to me as a shock, because that was something I was not prepared for. But fortunately, with some love of the local community, we were able to have an effective meeting. It’s super amazing to see how people were willing to help each other in the training. It was also a reminder for me to think about accessibility in advance for our future activities. For example like providing dial in details for a meeting could be so much beneficial for some people who don’t have access to a PC and can only join via phone. Or checking on the participants before the meeting in case there’s somebody who need special support. Because if we want to excel on diversity and inclusion, then we need to take further action to accommodate everyone.</p>
-<p><b>How can I apply to be a Resources Rep?</b></p>
-<p>For now we’re in the process of evaluating our current graduates. So in the meantime, we are not accepting more applications. But there’s a possibility we will reopen the application in the future. We’ll let you know for sure.</p>
-<p><b>What’s next?</b></p>
-<p>New Reps that  don’t have access to the budget and swag, can now ask for help from these <a href="https://wiki.mozilla.org/ReMo/Resources">Resources Rep</a>. We will no longer need to assign the bug to the mentor if the request was made by a Resources Rep. And instead it will go directly to the review team. And ideally, the new Reps should choose Resources Rep who’s close to their region. So, for example if I’m a new Rep from the US, I will ask for help from <a href="https://reps.mozilla.org/u/hashrocket/">Jason</a> who in this case is the Resources Rep who live the closest to me. You can also see the group on the <a href="https://reps.mozilla.org/people/#/group/resources/">reps portal</a>.</p>
-<p>We’re also going to reshuffle the Review Team members in the near future. The Review Team is now discussing the recommendation list from the current Resources Rep to be sent to the council for the future candidates of the Review team. We’ll keep you updated for the process.</p>
-<p>I also would like to thank the participants of the Resources Rep training. And especially for those who always make the time on their weekend to join the meeting in each week. Congratulations!</p>]]>
-  </description>
-  <pubDate>Wed, 01 Nov 2017 16:52:15 +0000</pubDate>
   
 </item>
 
@@ -1978,72 +1704,6 @@ decided that it was time to step up and apply to become a Mozilla Rep as other
 people recommended me.</p>]]>
   </description>
   <pubDate>Wed, 18 Oct 2017 20:11:36 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Md Shahbaz Alam - MozAarambh Jharkhand RAI University</title>
-  <guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=861</guid>
-  <link>https://alamshahbaz.wordpress.com/2017/10/17/mozaarambh-jharkhand-rai-university/</link>
-  <description>
-    <![CDATA[<p>I started my journey in Mozilla as a contributor to Mozilla Community Rajasthan and met many enthusiasts who inspired me to do  every possible contributions i could do to Mozilla and Open source in general. I am from Jharkhand , after returning from Rajasthan, I met a mozillian from Jharkhand community, <a href="https://mozillians.org/en-US/u/amitsin6h/" rel="noopener" target="_blank">Amit Singh</a> , he is very passionate about learning new things and very much like the idea of working in open.</p>
-<p>I got to know many problems of the people wanted to contribute. Major problem is the availability of support from Mozilla and Mozilla Reps in general. There are many Reps from this region , but unfortunatly they are working outside this state. They are very helpful in arranging things, but… But they want their presence, they want to hear them in person and want to know their success story, how they came to mozilla and why….. There are many more questions asked by few contributors who wanted to continue the same. I listed their questions and figured out many possible things we could do together to improve the contributions from this region.</p>
-<p>I moved to Ranchi officially , it was the time when i was very busy with my work. A phone call rang, it was Amit , wanted to know if i can organize an event in Jharkhand Rai University. I said yes, definitely . He introduced me to Prof. Shudhanshu, after meeting him we fixed the date, 6th Oct. 2017. Made a poster , promoted in Jharkahnd Rai University.</p>
-<p><img alt="MozAarambh Poster" class="alignnone size-full wp-image-905" src="https://alamshahbaz.files.wordpress.com/2017/10/mozaarambh-poster.jpg?w=788" /></p>
-<p>Event day, we reached the venue on time, we received a warm welcome. Prof. Shudhanshu introduced us infornt of students. I see a hall, full pacekd with students almost 200+ . I introduced myself  and why I choose to contribute to Mozilla and Open source. Students were listening this as if they were sitting in a lecture room. It was the tme to bring out few swags , in a minute everyone was answering questions, asking interesting questions. <strong>Swag has some power!!!!!</strong></p>
-
-<a href="https://alamshahbaz.wordpress.com/2017/10/17/mozaarambh-jharkhand-rai-university/photo6282760985194375150/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/10/photo6282760985194375150.jpg?w=150&amp;h=113" width="150" /></a>
-<a href="https://alamshahbaz.wordpress.com/2017/10/17/mozaarambh-jharkhand-rai-university/photo62827609851943751521/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/10/photo62827609851943751521.jpg?w=150&amp;h=113" width="150" /></a>
-
-<p>I started with introduction of Mozilla, Firefox and Open Source. To my surprise everyone knows about these things. Then I got to know that they had one introduction event of mozilla but after that never heard back from that mozillian. Then I introduced them about the mozilla’s products and projects, what actually matters. People were very excited to know about WebVR, Rust and WebCompat .</p>
-
-<a href="https://alamshahbaz.wordpress.com/2017/10/17/mozaarambh-jharkhand-rai-university/photo6282760985194375158/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/10/photo6282760985194375158.jpg?w=150&amp;h=113" width="150" /></a>
-<a href="https://alamshahbaz.wordpress.com/2017/10/17/mozaarambh-jharkhand-rai-university/photo6282760985194375148/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/10/photo6282760985194375148.jpg?w=150&amp;h=113" width="150" /></a>
-
-<p>I forgot to introduce the speakers, I had Amit and <a href="https://mozillians.org/en-US/u/Malam1212/" rel="noopener" target="_blank">Mahtab</a> with me who was sharing the stage. Amit gave session on WebCompat and even showed a demo on how to file a report. Mahtab gave session on L10n and how a non-coder students still contribute to open source.</p>
-
-<a href="https://alamshahbaz.wordpress.com/2017/10/17/mozaarambh-jharkhand-rai-university/photo62827609851943751461/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/10/photo62827609851943751461.jpg?w=150&amp;h=113" width="150" /></a>
-<a href="https://alamshahbaz.wordpress.com/2017/10/17/mozaarambh-jharkhand-rai-university/photo6282760985194375157/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/10/photo6282760985194375157.jpg?w=150&amp;h=113" width="150" /></a>
-
-<p>Event concluded with a group picture. A mozilla style of conclusion!!</p>
-<p><img alt="photo6282760985194375143" class="alignnone size-full wp-image-904" src="https://alamshahbaz.files.wordpress.com/2017/10/photo6282760985194375143.jpg?w=788" /></p>
-<p>Actual thing happend after the event , there were 80 students who wanted to know the possibilities and ways to involve with Mozilla and it’s projects. We get back to the hall ,selected few students who have shown their interest in making a club. I introduced Mozilla Campus Club to them. We formed a team and created Telegram groups so that we stay in loop.</p>
-
-<a href="https://alamshahbaz.wordpress.com/2017/10/17/mozaarambh-jharkhand-rai-university/photo6282760985194375154/"><img alt="" class="attachment-thumbnail size-thumbnail" height="150" src="https://alamshahbaz.files.wordpress.com/2017/10/photo6282760985194375154.jpg?w=113&amp;h=150" width="113" /></a>
-<a href="https://alamshahbaz.wordpress.com/2017/10/17/mozaarambh-jharkhand-rai-university/photo62827609851943751533/"><img alt="" class="attachment-thumbnail size-thumbnail" height="150" src="https://alamshahbaz.files.wordpress.com/2017/10/photo62827609851943751533.jpg?w=113&amp;h=150" width="113" /></a>
-<a href="https://alamshahbaz.wordpress.com/2017/10/17/mozaarambh-jharkhand-rai-university/photo6282760985194375156/"><img alt="" class="attachment-thumbnail size-thumbnail" height="113" src="https://alamshahbaz.files.wordpress.com/2017/10/photo6282760985194375156.jpg?w=150&amp;h=113" width="150" /></a>
-<a href="https://alamshahbaz.wordpress.com/2017/10/17/mozaarambh-jharkhand-rai-university/photo6282760985194375145/"><img alt="" class="attachment-thumbnail size-thumbnail" height="112" src="https://alamshahbaz.files.wordpress.com/2017/10/photo6282760985194375145.jpg?w=150&amp;h=112" width="150" /></a>
-
-<p>Mozilla Jharkhand has a <a href="https://www.facebook.com/groups/mozilla.jharkhand" rel="noopener" target="_blank">facebook group</a> and after the event people joined this group in hige number, from 170 we reached to 246 in a single day. Not only they joined in this group, they have introduced themself to this group, which i never seen in other community as this scale. This shows they are very active and only need a correct Mentor to guide them.</p>
-<p>I will love to do the role of Mentor to them. And next day we were rocking on local newspaper. Planning a series of events in this college to educate them and make a good contributor.</p>
-<p><img alt="22254677_1860036047345475_1303368950574395804_o" class="alignnone size-full wp-image-915" src="https://alamshahbaz.files.wordpress.com/2017/10/22254677_1860036047345475_1303368950574395804_o.jpg?w=788" /></p>
-<p>“Doing good is a part of our code.” – Mozilla</p>
-<p>“Learn , Teach n be Innovative” – Shahbaz</p>
-<p>Event Link : <a href="https://reps.mozilla.org/e/mozaarambh-rai-university/" rel="nofollow">https://reps.mozilla.org/e/mozaarambh-rai-university/</a></p>
-<p> </p>]]>
-  </description>
-  <pubDate>Tue, 17 Oct 2017 15:52:05 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Official Reps Blog - Rep of the Month – September 2017</title>
-  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=512</guid>
-  <link>https://blog.mozilla.org/mozillareps/2017/10/03/rep-of-the-month-september-2017/</link>
-  <description>
-    <![CDATA[<div class="cooked">
-<p>Please join us in congratulating <a href="https://reps.mozilla.org/u/Kush19/" rel="nofollow noopener">Kushagra Varade</a>, our Rep of the Month for September 2017!</p>
-<p>Kushagra is a web developer from Bhopal, India and has joined the Reps program in the first Webinar we ever organized back in April.</p>
-<div class="lightbox-wrapper">
-<p><a class="lightbox" href="https://discourse-paas-production-content.s3.amazonaws.com/original/3X/4/f/4fd543ae24c339ccf8cbcaf71966948c66826e2c.jpeg" rel="nofollow noopener" title="6019d9717d9ff5bb161d3c477207fba0.jpeg"><img alt="6019d9717d9ff5bb161d3c477207fba0" height="500" src="https://discourse-paas-production-content.s3.amazonaws.com/optimized/3X/4/f/4fd543ae24c339ccf8cbcaf71966948c66826e2c_1_500x500.jpeg" width="500" /></a></p>
-<div class="meta"><span class="informations"> </span></div>
-</div>
-<p>Since joining the Reps program, he has attended several events in his region. Most of these events focused on WebVR such as the <a href="https://reps.mozilla.org/e/geek-night-hyderabad-virtual-reality-for-the-open-web/" rel="nofollow noopener">Geek Night in Hyderabad</a>. He organized a <a href="https://reps.mozilla.org/e/mozactivate-cg/" rel="nofollow noopener">WebVR event</a> in July. Right after joining Reps he attended a <a href="https://reps.mozilla.org/e/moz-coffee-mozilla-mp-bhopal/" rel="nofollow noopener">MozCoffee</a> to discuss onboarding strategies and MozActivate.</p>
-<p>Thank you Kushagra, keep rocking the open Web! <img alt=":tada:" class="emoji" src="https://cdn-production.discourse.mozilla-community.org/images/emoji/twitter/tada.png?v=5" title=":tada:" /> <img alt=":tada:" class="emoji" src="https://cdn-production.discourse.mozilla-community.org/images/emoji/twitter/tada.png?v=5" title=":tada:" /></p>
-<p><a href="https://discourse.mozilla.org/t/rep-of-the-month-september-2017/19865">Join us on Discourse to congratulate him!</a></p>
-</div>]]>
-  </description>
-  <pubDate>Tue, 03 Oct 2017 09:14:11 +0000</pubDate>
   
 </item>
 
@@ -2169,248 +1829,6 @@ be helpful for us.</p>
 </item>
 
 <item>
-  <title>Viswaprasath KS - Weeks of Contribution- WebExtension Session4</title>
-  <guid isPermaLink="false">http://vp7techie.wordpress.com/2017/10/01/weeks-of-contribution-webextension-session4/</guid>
-  <link>https://vp7techie.wordpress.com/2017/10/01/weeks-of-contribution-webextension-session4/</link>
-  <description>
-    <![CDATA[<p><strong>Date</strong> : 2nd August 2017</p>
-<p><strong>Time</strong>: 8:30 – 9:30</p>
-<p><strong>IRC channel</strong>: #MozillaTN</p>
-<p>This is our first series of the WebExtension webseries. The main agenda of the program is to get started with Mozilla community and discuss the syllabus we will be learning in this series.</p>
-<p>In our <a href="https://iamvp7.github.io//MozWOC-Session3">previous session</a> we get started learning what are Browser Extension. What is so important of it and how it is going to keep web safe and help developers to maintain code easier. You can learn by checking my previous <a href="https://iamvp7.github.io//Lets-Get-Started-With-WebExtensions/">blog</a>.</p>
-<p>In the fourth session we are going to learn basics of tabs API, lot of extensions can be done by learning Tabs API</p>
-<h2 id="agenda">Agenda</h2>
-<p><strong>Learn about basic Tabs API</strong></p>
-<ul>
-<li>Firefox internal like how Close button works</li>
-<li>Firefox internal like how Reload button works</li>
-<li>Firefox internal like how Tab is updating with  new URL</li>
-</ul>
-<p>Some of the questions asked by contributors during the session.</p>
-<p><strong>I have one doubt in last session. After restarting our browser extension didn’t work in Nightly but it work perfectly with chrome? by Barani</strong><br />
-<em>In nightly we have installed in Debug mode, so it will be there only till the browser is active.</em></p>
-<p>You can get started with Tabs API from the following video.</p>
-<div class="jetpack-video-wrapper"></div>
-<p>All the code samples discussed in the above video is available in the <a href="https://github.com/iamVP7/MozWOC17/tree/master/session4">github</a>, previously we have discussed about <a href="https://iamvp7.github.io//Simple-Tab-Closing-Extension/">Tab.Close</a> API in one of our blog post.</p>
-<p>Google drive <a href="https://drive.google.com/drive/folders/0BynHVcltkfkweU00U2lwb0tMR1U">PDF Link</a></p>
-<h2 id="attendees">Attendees</h2>
-<p>Name / Twitter handle / Github profile</p>
-<ul>
-<li>Fahima Zulfath A/ @FahimaZulfath</li>
-<li>Karthikeyan Sethumadhavan /@im_karthimadav7</li>
-<li>Baranitharan / @baranicool</li>
-<li>Viswaprasath / @iamvp7</li>
-<li>Shivakumaar MGS/ @shivakumaarmgs</li>
-<li>Balaji / @balaji2198</li>
-</ul>
-<p>Etherpad of the session. Link is <a href="https://public.etherpad-mozilla.org/p/MozWOC17-Session4">here</a></p>]]>
-  </description>
-  <pubDate>Sun, 01 Oct 2017 23:34:00 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Viswaprasath KS - MozillaTN SFDHack WebExtension Workshop</title>
-  <guid isPermaLink="false">http://vp7techie.wordpress.com/2017/09/29/mozillatn-sfdhack-webextension-workshop/</guid>
-  <link>https://vp7techie.wordpress.com/2017/09/29/mozillatn-sfdhack-webextension-workshop/</link>
-  <description>
-    <![CDATA[<p>We wanted to make a strong community in Chennai. We got this wonderful place KCG E-cell. Lot of planning went around this event, and we planned event month before.</p>
-<p><strong>Organiser</strong></p>
-<ul>
-<li>Sayajis</li>
-<li>Vishal</li>
-</ul>
-<p><strong>Mozilla Reps</strong></p>
-<ul>
-<li>Viswaprasath</li>
-<li>Dinesh</li>
-</ul>
-<p><strong>Developer Mentor</strong></p>
-<ul>
-<li>Prasanth</li>
-<li>Balaji</li>
-</ul>
-<p>One of the most succesfully thing is Balaji was excited to become Mentor for this Session. He has recently started developing Add-ons and was part of recent <a href="https://iamvp7.github.io//WebExtension-IRC-Learning/">Weeks of Contribution</a>.</p>
-<p>We did a minimal marketing with our Telegram group and Mailing list, our main agenda is to bring max of 30 contributors and who are interested to contribute for a long time.</p>
-<h3 id="day-1">Day 1</h3>
-<p>This is the first time I am collaborating with Dinesh in Tamilnadu. He started sharing the path he came across Mozilla community, how he started learning and how he got help from contributor who are in other part of world.</p>
-<p>Our Agenda is very simple.</p>
-<p>For Day1</p>
-<ul>
-<li>Share about WebExtension</li>
-<li>Explore various API</li>
-<li>Start discussing on ideas</li>
-</ul>
-<p>For Day2</p>
-<ul>
-<li>Work on the ideas we have.</li>
-<li>Demo (show &amp; tell)</li>
-</ul>
-<p>We started discussing about WebExtension with the attendees came. I was very energetic and happy to discuss about WebExtension. Some of the examples I discussed on this session is</p>
-<ul>
-<li><a href="https://github.com/iamVP7/MyExtensions/tree/master/youtube-control">Youtube Controller</a></li>
-<li><a href="https://github.com/iamVP7/MyExtensions/tree/master/search-more/Firefox">Search More using ContextMenu</a></li>
-<li><a href="https://github.com/iamVP7/MyExtensions/tree/master/multisearch/Firefox">Multi Search using OmniBox</a></li>
-</ul>
-<p>Then we had a lunch.</p>
-<p>After that shared my code <a href="https://github.com/iamVP7/MyExtensions">repo</a> and asked everyone to dig the code. In the mean time Balaji and Dinesh were working on collecting some interesting Add-ons ideas on which contributors can work on.</p>
-<p>One of the Contributor who attended the event Sanjay told, the below feedback</p>
-<p><strong>There should be some resources where all of us can learn the basics step by step. The resources can be shared before event so, when we come to venue we can get to know what we are going to do and start discussing directly and start our coding part</strong></p>
-<p>I loved his suggestion and same suggestion was given by Karthick long back, we started to work on a book which is expected to be released soon. And currenty structuring the contents which will be easier to learn step by step and making it as a website.</p>
-<p>Then before we leaving home everyone started sharing our ideas one by one.</p>
-<h2 id="ideas-disucssed-by-attendees">Ideas disucssed by attendees</h2>
-<ul>
-<li>History Deleter by monisha,nandhini</li>
-<li>One Click games by amirtha,karthika</li>
-<li>Google Search by amirtha,karthika</li>
-<li>Remindyou by Pavan</li>
-<li>NextPlease by Abdulla P I</li>
-<li>Go Directly/ Dont Search by Akash Milton</li>
-<li>Bold it by Balaji</li>
-<li>Disc Lyric by Subhashini Gopal</li>
-<li>Live Editor by Balaji B</li>
-<li>Tabs Grouping by Sanjay</li>
-<li>Facebook Message in browserAction</li>
-</ul>
-<p>Then we organisers, mentors and reps went for a dinner.</p>
-<h1 id="day-2">Day 2</h1>
-<p>We started our Day 2 around 10.00 AM. We started discussing about the ideas the we had and everyone started learning the API from MDN.</p>
-<p>Then Abdulla, finished his Addon using <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/commands">Commands API</a>. His ideas is to move to next page of google search using simple keyboard shortcuts.<br />
-Ctrl + some key to next page and previous page. Then Abdulla started mentoring others who are new to Javascript.</p>
-<p>By After we had following demo.</p>
-<ul>
-<li><a href="https://addons.mozilla.org/en-GB/firefox/addon/go-direct/">Go Direct</a> by Akash Milton, where we search some text and go directly to website.</li>
-<li><a href="https://addons.mozilla.org/en-US/firefox/addon/live-editor/">Live Editor</a> by Balaji B.</li>
-<li><a href="https://addons.mozilla.org/en-US/firefox/addon/time-out-for-your-tasks/">Time out</a> by Balaji B.</li>
-</ul>
-<p>Some of partial demo. (Not in AMO)</p>
-<ul>
-<li>One Click Games (using Tabs.open API)</li>
-<li>Google Search (using omnibox API and Tabs.open)</li>
-<li>Tabs Grouping.</li>
-<li>Specific Domain History Deleter</li>
-</ul>
-<p>The final part where screwed up was, show and Tell. The plan is to bring all the attendees share the demo and make them to explain the code they have done.<br />
-But due to the power problem on the second day we are not able to do it. If it had happened then we might had the best hackathon.</p>
-<h3 id="some-good-numbers-we-had">Some good numbers we had.</h3>
-<ul>
-<li>20 Contributors joined.</li>
-<li>7 Add-ons developed</li>
-<li>3 Addons currently in AMO</li>
-<li>2 New Young mentors( Abdulla, Balaji)</li>
-<li>1 Experience Mentors (Sanjay)</li>
-</ul>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en"><a href="https://twitter.com/iamVP7?ref_src=twsrc%5Etfw">@iamVP7</a> explaining the code flow of <a href="https://twitter.com/MozWebExt?ref_src=twsrc%5Etfw">@MozWebExt</a>. <a href="https://twitter.com/hashtag/SFDHack17?src=hash&amp;ref_src=twsrc%5Etfw">#SFDHack17</a> <a href="https://twitter.com/mozillaTN?ref_src=twsrc%5Etfw">@mozillaTN</a>  <a href="https://twitter.com/MozillaIN?ref_src=twsrc%5Etfw">@MozillaIN</a> <a href="https://t.co/lbmVZQAZ22">pic.twitter.com/lbmVZQAZ22</a></p>
-<p>— Balaji boominathan (@balaji2198) <a href="https://twitter.com/balaji2198/status/908955484098486273?ref_src=twsrc%5Etfw">September 16, 2017</a></p></blockquote>
-<p><a href="https://platform.twitter.com/widgets.js">//platform.twitter.com/widgets.js</a></p>
-<p>At the end of the session we had conversation about building the Campus clubs in the colleges around various parts of chennai, and what is their general expectation. We had chance to talk with 3 college students.</p>
-<ul>
-<li>Jaya Engineering College</li>
-<li>Saveetha Engineering College</li>
-<li>SSN College</li>
-</ul>
-<p>Blog post by Balaji after this addon published. Link <a href="https://balaji2198.github.io/my-add-on-went-live-in-minutes">here</a></p>
-<p>Thanks to KCG college for venue, AMO team &amp; community contributors for all the knowledge shared plus mentoring and Mozilla Reps community for funding this event.</p>]]>
-  </description>
-  <pubDate>Fri, 29 Sep 2017 01:34:00 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Mehul Patel - Dive Into Rust at ORDINATEUR’17</title>
-  <guid isPermaLink="false">http://www.rowdymehul.com/?p=1416</guid>
-  <link>http://www.rowdymehul.com/mozilla/dive-into-rust-at-ordinateur17/</link>
-  <description>
-    <![CDATA[<p><span class="author-a-n8m2z75zz85z1z88zz69zi0fz76zz87z1c">The event is focused on introducing and teaching the state of art system programming language <a href="https://www.rust-lang.org/en-US/" rel="noopener" target="_blank">Rust</a> to local programmers and Mozillians in Gujarat.  This is the first time <strong>Mozilla</strong> will participate at <strong>ORDINATEUR’17</strong>! The summit will involve students and tech enthusiasts from the university. I gave a talk on <a href="https://www.rust-lang.org/en-US/">Rust programming</a> which is one of emerging technologies and one of the major focus of Mozilla.<br />
-</span></p>
-<p><strong>About ORDINATEUR’17 :</strong></p>
-<p>ORDINATEUR’17 is a one of a kind flagship event organized by IEEE GCET Computer Society Student Chapter under the them “<strong><em>Tech Trend &amp; Innovate</em></strong>”</p>
-<p><a href="https://i1.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/poster.jpg"><img alt="" class="aligncenter size-full wp-image-1420" height="267" src="https://i1.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/poster.jpg?resize=720%2C267" width="720" /></a>Before, I shared my experience with this talk, so let me tell you one thing that this was my one of the best intellectual programming debate talk. Yes, it is! <img alt="😀" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f600.png" style="height: 1em;" /><span id="more-1416"></span></p>
-<p>I have started with Introduction to Mozilla and “Who am I”. Adding to that, I have also shared about Mozilla projects and <a href="https://www.rust-lang.org/en-US/">Rust </a>is one of them. So now, Lets Dive Into Rust!</p>
-<p><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8975.jpg"><img alt="" class="aligncenter size-full wp-image-1421" height="480" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8975.jpg?resize=720%2C480" width="720" /></a><br />
-According to me, <em>Rust is a good choice when you’d choose C++. You can also say, “Rust is a systems programming language that pursuing the trifecta: safe, concurrent, and fast.” I would say, Rust is an ownership-oriented programming language.</em></p>
-<p><em><strong>Why should I use Rust? </strong></em>I am always expecting this question whenever I talk about Rust and here as well one language enthusiast asked me the same questions.</p>
-<p><strong>Firstly, I have shared the reason that I’ve looked into Rust at first and then I have explained and discussed each point with participants.  </strong></p>
-<p><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_04-10-17.jpg"><img alt="" class="aligncenter size-full wp-image-1419" height="720" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_04-10-17.jpg?resize=720%2C720" width="720" /></a></p>
-<ul>
-<li>Rust is new enough that you can write useful stuff that would have already existed in other languages</li>
-<li>It is low-level enough that you take account of most resources.</li>
-<li>It’s more like C++ and Go, less like Node and Ruby</li>
-<li>cargo is awesome. Managing crates just works as intended, which makes a whole lot of troubles you may have in other languages just vanish with a satisfying <em>poof</em>.</li>
-</ul>
-<p>Please read the full story <a href="http://www.rowdymehul.com/why-should-i-use-rust/" rel="noopener">here</a>, this may explain you, <em><strong>why you should use </strong></em>Rust?</p>
-<p>Then, we move ahead did some practicals where I have shown them small demos from our <a href="https://github.com/MozillaIndia/RustIndia/tree/master/short_demo" rel="noopener">Rust Kits</a></p>
-<p><a href="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8938.jpg"><img alt="" class="aligncenter size-full wp-image-1422" height="480" src="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8938.jpg?resize=720%2C480" width="720" /></a>It was always fun to play with Rust and glad that participants also enjoyed while rusty their hand.</p>
-<div class="wp-caption aligncenter" id="attachment_1423"><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8978.jpg"><img alt="" class="wp-image-1423 size-full" height="480" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG_8978.jpg?resize=720%2C480" width="720" /></a><p class="wp-caption-text"><strong>                                             Thanks, ORDINATEUR’17 Team for this memento.</strong></p></div>
-<p><strong>Reps </strong>link: <a href="https://reps.mozilla.org/e/mozconnect-with-ordinateur-17/" rel="noopener">https://reps.mozilla.org/e/mozconnect-with-ordinateur-17/</a></p>
-<p><strong>Presentation </strong>link: <a href="https://docs.google.com/presentation/d/1SatJ6G_Um9cRbV7PjqRrjwf68Ku7kSYG9vGJI_Zy40M/edit?usp=sharing" rel="noopener">https://docs.google.com/presentation/d/1SatJ6G_Um9cRbV7PjqRrjwf68Ku7kSYG9vGJI_Zy40M/edit?usp=sharing</a></p>
-<p><strong>Google Drive (Photos) </strong>link: <a href="https://drive.google.com/drive/folders/0B9Vs6T2Sp2LAWV9KLWhPYktPOVU" rel="noopener">https://drive.google.com/drive/folders/0B9Vs6T2Sp2LAWV9KLWhPYktPOVU </a></p>
-<h1>What Next?</h1>
-<ul>
-<li>I am looking for more such collaboration with such organizations to spread the Mozilla mission &amp; Rust.</li>
-<li>Next series of full-day intense workshop on Rust at G H Patel College of Engineering &amp; Technology with IEEE GCET Computer Society and nearby university campuses.</li>
-</ul>
-<p style="text-align: center;"><strong><em>Hope you enjoyed my blog! <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f642.png" style="height: 1em;" /></em></strong></p>]]>
-  </description>
-  <pubDate>Sat, 23 Sep 2017 23:37:52 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Mehul Patel - Why Open Source ?</title>
-  <guid isPermaLink="false">http://www.rowdymehul.com/?p=1406</guid>
-  <link>http://www.rowdymehul.com/mozilla/why-open-source/</link>
-  <description>
-    <![CDATA[<p>Firstly, let me extend the thanks to <a href="http://elab.yuvalay.org/" rel="noopener">Yuvalay Electronics Lab</a> for inviting me as Speaker to give a talk on Open Source. Moreover, kudos to you to arrange a talk on Open source first time ever in <span class="_Xbe">Vadodara</span> city.</p>
-<p><strong>About Yuvalay Electronics Lab</strong></p>
-<p>Yuvalay Electronics Lab offers a platform and eco-system to the students, hobbyists, and professionals to understand and apply the theoretical knowledge of the subjects in the field of Electronics. It helps to convert the interest into the passion by providing a conducive environment to learn-explore-innovate under the guidance of experts. <a href="http://elab.yuvalay.org/" rel="noopener">More</a></p>
-<p>This is the first time ever I have not presented any presentation, this time it’s gonna be a pure talk where people can ask me anything about open source. I have started my talk with, what I am thinking or believing about open source.</p>
-<p><a href="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-31-39.jpg"><img alt="" class="aligncenter size-full wp-image-1408" height="720" src="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-31-39.jpg?resize=720%2C720" width="720" /></a>For me, <em>contributing to open source can be a rewarding way to learn, teach, and gain experience. No matter which skills you have, everything can be made useful. In this talk, I have shared the following points which can help you to get started with </em>an<em> open source contribution.</em><span id="more-1406"></span></p>
-<ol>
-<li><em>Why contribute to open source?</em></li>
-<li><em>What it means to contribute</em></li>
-<li><em>Boost yourself to a new project; best example: Github</em></li>
-<li><em>How to find a project to contribute to? : some sources Github, Your First PR, and so on.</em></li>
-<li><em>How to submit a contribution?</em></li>
-<li><em>What happens once you contributed?</em></li>
-</ol>
-<p>I am always asking these questions to my self and trying to find out the answer, and guess what while finding the answer to these questions my contribution to open source automatically done.</p>
-<p>A common misconception about contributing to open source is that you need to contribute code. For me, contributions don’t have to be tech related as open source projects also need people who have non-tech skills, like documentation, localization, marketing, testing and much more.</p>
-<p>For instance, <b><i>What can I do for Mozilla?</i></b> is a resource that helps pair people with the organization’s technical and non-technical needs.</p>
-<p><b><i>Why do people contribute to open source? </i></b></p>
-<p>To, improve existing skills<br />
-To, meet people who are having similar interests<br />
-To, find mentors and teach others<br />
-To, build public artifacts that help to build your profile</p>
-<p>Here are  few of my personal favorites Open Source Platforms;</p>
-<ul>
-<li>Linux &lt;3</li>
-<li>WordPress</li>
-<li>Python &amp; Rust</li>
-<li>VLC Media Player &lt;3</li>
-<li>Web Browsers:
-<ul>
-<li>Firefox &lt;3</li>
-<li>Chromium (the basis for Chrome)</li>
-</ul>
-</li>
-<li>GIMP</li>
-</ul>
-<p><i>I bet on you, within these kinds of projects exist more undetected bugs, probable improvements, and documentation deficiency. Therefore, even if you don’t want to learn how to code inside, still you can find ways to take part in the open source world.</i></p>
-<p>There was a very healthy discussion between me and all the participants where they asking back to back questions and I am thus thoroughly enjoying to answer those questions.</p>
-<p><a href="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-28-47.jpg"><img alt="" class="aligncenter size-full wp-image-1409" height="720" src="https://i2.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-28-47.jpg?resize=720%2C720" width="720" /></a>Our goal via this talk is to make people understand that open source contribution have no explicit literal like hard-earned cash value. But, the implicit value, i.e. the opportunity to contribute to open source widely outweighs any literal cash value you might gain by giving your time over to a project. e.g. Guess how much money I got paid for contributing to Linux package? $0. Yep, it was $0.</p>
-<p>Our aim is to people believe that if they don’t file bugs and make steps to reproduce them, or on ways to reproduce expected and unexpected behaviors, so coders/techs have no way of knowing how software gets used and what they should do get resolved.</p>
-<p>At last, we also had round discussion of what participants thinking about open source and what their passion about open source.Everyone has shared their views and all an all it was great to hear their views on it.</p>
-<p><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-42-46.jpg"><img alt="" class="aligncenter size-full wp-image-1411" height="720" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/photo_2017-09-24_03-42-46.jpg?resize=720%2C720" width="720" /></a>Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project. This is the way community builds with better engagement.</p>
-<p><a href="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG-9744.jpg"><img alt="" class="aligncenter size-full wp-image-1410" height="540" src="https://i0.wp.com/www.rowdymehul.com/wp-content/uploads/2017/09/IMG-9744.jpg?resize=720%2C540" width="720" /></a><br />
-Thank you, everyone, who joined our talk! <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f642.png" style="height: 1em;" /> Hope you enjoyed reading my blog.  <img alt="🙂" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.4/72x72/1f642.png" style="height: 1em;" /></p>]]>
-  </description>
-  <pubDate>Sat, 23 Sep 2017 22:25:32 +0000</pubDate>
-  
-</item>
-
-<item>
   <title>Ajay Kumar Jogawath - Mozilla Campus Club Inauguration @ BITS,Warangal</title>
   <guid isPermaLink="false">http://ajaykumarjogawath.wordpress.com/?p=499</guid>
   <link>https://ajaykumarjogawath.wordpress.com/2017/09/11/mozilla-campus-club-inauguration-bitswarangal/</link>
@@ -2458,6 +1876,424 @@ Thank you, everyone, who joined our talk! <img alt="🙂" class="wp-smiley" src=
 <p> </p>]]>
   </description>
   <pubDate>Mon, 11 Sep 2017 06:07:02 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Ram Dayal Vaishnav - Highlights from Netherlands HackerCamp – SHA2017!</title>
+  <guid isPermaLink="false">http://gurumukhi.wordpress.com/?p=882</guid>
+  <link>https://gurumukhi.wordpress.com/2017/09/05/highlights-from-netherlands-hackercamp-sha/</link>
+  <description>
+    <![CDATA[SHA, aka Still Hacking Anyways, is part of international non profit outdoor hacker camp series organized once in 4 years in The Netherlands. This year it was organized in Zeewolde on August 4th to 8th and I was honored to be one of speakers at SHA for my WebVR talk. Read my blogpost ‘SHA Hacker … <a href="https://gurumukhi.wordpress.com/2017/09/05/highlights-from-netherlands-hackercamp-sha/">Continue reading <span class="meta-nav">→</span></a>]]>
+  </description>
+  <pubDate>Mon, 04 Sep 2017 20:32:51 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Abhiram Ravikumar - It’s raining Rust at Red Hat</title>
+  <guid isPermaLink="false">http://abhiramrk.com/?p=322</guid>
+  <link>http://abhiramrk.com/its-raining-rust-at-red-hat/</link>
+  <description>
+    <![CDATA[<p>I know it’s been a while since I’ve put out a post and mostly because I’m trying to learn amazing things and get my hands dirty, trying to build solutions that actually make sense.</p>
+<p>One such pet-project has been Rust, probably the <a href="https://redmonk.com/sogrady/2017/06/08/language-rankings-6-17/">fastest</a> growing systems level programming language today. Hitherto, I’ve always looked at Rust from the outside, never got my hands dirty, mostly because I was under the assumption that it had nothing to do with web development. Turns out, I was completely wrong!</p>
+<p>This year’s <a href="https://discourse.mozilla.org/t/rainofrust-campaign-trailer/15852">Rain of Rust</a> campaign gave me an opportunity to revisit the programming language and the reason why it’s been garnering interests at astronomical pace. For a nascent programming language which is in the 1.19th version of its release, it’s challenging the big guns – C and C++. Yes, you heard <a href="https://www.quora.com/Which-language-has-the-brightest-future-in-replacement-of-C-between-D-Go-and-Rust-And-Why">it </a>right.</p>
+<h3>On to the campaign</h3>
+<p>The campaign, although initiated and led by volunteers from the Mozilla India community at first was later adopted by the larger Mozilla community with contributions from all over the world like these events in <a href="https://reps.mozilla.org/e/rust-activate/">Mexico </a>and <a href="https://reps.mozilla.org/e/dive-into-rust-senai-santa-cecilia/">Brazil</a>. The main goal of the event was to increase outreach about the language and train developers to contribute in the rust ecosystem.</p>
+<h3>At Bangalore</h3>
+<p>As one of the crucial aspects of the campaign was to organize on-the-ground events and so, with the gracious support of our host Sumantro at Red Hat, we managed to pull of a small event consisting of rust enthusiasts and Mozilla Tech Speakers.</p>
+<p>We had our very own Vigneshwer leading the introduction to rust and hands-on session. This was well taken by the participants who had just installed rust and exploring what they could do with the language.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">We have <a href="https://twitter.com/dvigneshwer">@dvigneshwer</a> today kick starting <a href="https://twitter.com/hashtag/RainOfRust?src=hash">#RainOfRust</a>  at BLR. <a href="https://twitter.com/rustlang">@rustlang</a> <a href="https://twitter.com/mozTechSpeakers">@mozTechSpeakers</a> <img alt="🌟" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f31f.png" style="height: 1em;" /> other talks lined up.. <a href="https://t.co/EGvXB63sS3">pic.twitter.com/EGvXB63sS3</a></p>
+<p>— Abhiram Ravikumar (@abhi12ravi) <a href="https://twitter.com/abhi12ravi/status/878555743338676225">June 24, 2017</a></p></blockquote>
+<p></p>
+<p>With witty remarks, use cases and insights of the language, Vigneshwer kept the participants interested. During the hands-on he introduced the <a href="https://github.com/MozillaIndia/RustIndia/tree/master/RainOfRust#rust-kits">kits </a>built by the Rust India community and explained how participants could use them to learn the language. On the whole, it was a well-rounded session and helped the participants understand why rust is important and how they could contribute.</p>
+<p>We then had a talk by Ravi from <a href="https://www.atherenergy.com/">Ather energy</a> which has used rust components to send  location data packets from its two-wheeler vehicles to the cloud in a secure and reliable fashion. His talk was inspirational as the participants were able to visualize how rust could be used in a production scenario.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Second talk of the day by Ravi from <a href="https://twitter.com/atherenergy">@atherenergy</a> using <a href="https://twitter.com/rustlang">@rustlang</a> in production environments! <a href="https://twitter.com/hashtag/RainOfRust?src=hash">#RainOfRust</a> <a href="https://twitter.com/mozTechSpeakers">@mozTechSpeakers</a> <a href="https://twitter.com/MozillaIN">@MozillaIN</a> <img alt="🌟" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f31f.png" style="height: 1em;" /> <a href="https://t.co/hNZcVSlmhV">pic.twitter.com/hNZcVSlmhV</a></p>
+<p>— Abhiram Ravikumar (@abhi12ravi) <a href="https://twitter.com/abhi12ravi/status/878572229981683714">June 24, 2017</a></p></blockquote>
+<p></p>
+<p>For the last talk of the day, we had our own ReMo and host Sumantro show a demo on <a href="https://rocket.rs/">Rocket</a>, a simple web framework for rust developers. This was in particular interest to me as a web developer, hitherto I was under the impression that rust could only be used for parallel computing and system level programming scenarios.  Now that I know rust has a fast and safe web framework, watch out JavaScript! Here’s Sumantro’s <a href="http://sumantrom.blogspot.in/2017/04/rocket-on-fedora.html">post </a>on how to set it up on Fedora.</p>
+<div class="fb-social-plugin fb-post"></div>
+<p> </p>
+<h3>Last word</h3>
+<p>On the whole it was personally fulfilling that we pulled off a workshop in ~1 week of planning and what was comforting was that the feedback we received through the new ReMo <a href="https://github.com/mozilla/activate.mozilla.community/issues/210">feedback form</a> was a 6+ on a scale of 0-7. Yay!</p>
+<p>Finishing off with a mighty group photo. A round of shout-outs to Bhumika and Ra Fey for helping us out with the posters and social media calls to action! You guys are wonderful. ^_^</p>
+<p> </p>
+<div class="wp-caption aligncenter" id="attachment_336" style="width: 656px;"><a href="http://abhiramrk.com/wp-content/uploads/2017/08/grouppic.jpg"><img alt="Rust Workshop | June 2017 | Bangalore" class="wp-image-336 size-large" height="507" src="http://abhiramrk.com/wp-content/uploads/2017/08/grouppic-1024x804.jpg" width="646" /></a><p class="wp-caption-text">Rust Workshop | June 2017 | Bangalore</p></div>
+<p> </p>
+<p>Fin.</p>
+<a class="likepost json-call 1-322-posts" href="http://abhiramrk.com/feed/?fn=like&amp;following=1-322-posts">Like</a><p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Google+"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="WhatsApp"></a><a class="a2a_button_diaspora" href="https://www.addtoany.com/add_to/diaspora?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Diaspora"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="WordPress"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_blogger_post" href="https://www.addtoany.com/add_to/blogger_post?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Blogger Post"></a><a class="a2a_button_hacker_news" href="https://www.addtoany.com/add_to/hacker_news?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Hacker News"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;title=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat"></a></p>]]>
+  </description>
+  <pubDate>Sun, 20 Aug 2017 14:21:43 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Robert Reyes - First Time at COSCUP Taiwan</title>
+  <guid isPermaLink="false">http://www.bobreyes.com/myblog/?p=5421</guid>
+  <link>http://www.bobreyes.com/myblog/first-time-coscup-taiwan/</link>
+  <description>
+    <![CDATA[<p>I had the opportunity to represent Mozilla (and my country) in COSCUP 2017 over the weekend. COSCUP is an annual conference held by Taiwanese Open source community participants since 2006. It’s a major force of Free software movement advocacy in Taiwan. The event is often held with talks, sponsor and communities booths, and Birds of […]</p>
+<p>The post <a href="http://www.bobreyes.com/myblog/first-time-coscup-taiwan/" rel="nofollow">First Time at COSCUP Taiwan</a> appeared first on <a href="http://www.bobreyes.com/myblog" rel="nofollow">Bob Reyes Dot Com</a>.</p>]]>
+  </description>
+  <pubDate>Mon, 07 Aug 2017 02:35:27 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Sanyam Khurana - Why you should contribute to Open Source</title>
+  <guid isPermaLink="false">tag:www.sanyamkhurana.com,2017-06-26:blog/why-contribute-to-foss.html</guid>
+  <link>https://www.sanyamkhurana.com/blog/why-contribute-to-foss.html</link>
+  <description>
+    <![CDATA[<p>My first step with FOSS was <a class="reference external" href="https://www.sanyamkhurana.com/blog/how-dgplug-training-is-proving-beneficial-to-me.html">during the summer of 2014</a>, where I got introduced to <a class="reference external" href="http://dgplug.org">DGPLUG</a> (Durgapur Linux Users Group). Every year, they conduct a training over IRC covering a wide range of topics. Since then, I've been contributing to different projects, primarily to <a class="reference external" href="https://github.com/mozilla/gecko-dev">Mozilla's Gecko Engine</a>. Recently I also started <a class="reference external" href="https://github.com/python/cpython/pulls?utf8=%E2%9C%93&amp;q=is%3Apr%20author%3ACuriousLearner">contributing to CPython</a>.</p>
+<p>Over <a class="reference external" href="https://github.com/CuriousLearner/">this journey as CuriousLearner over the past few years</a>, I've been fortunate enough to collaborate with some of the best engineers, learnt a lot of skills &amp; gained some nice perspective on different technologies by just contributing to Open Source. I owe my learning to them.</p>
+<p>I've been always asked this question by my friends, colleagues, and strangers whom I often run into in local meet-ups and conferences.</p>
+<blockquote>
+<ul class="simple">
+<li>Why should I contribute to Open Source</li>
+<li>What's in it for me</li>
+</ul>
+</blockquote>
+<p>So, I thought I would cover this topic from the perspective of a student as well as the perspective of a working professional.</p>
+<div class="section" id="learn-new-skills">
+<h2>Learn new skills</h2>
+<p>When I say skills, I'm not referring to just coding skills or learning yet another framework. There are tons of skills to be learnt. These include coding, debugging, testing, writing docs, collaboration, participating in meetings etc. In FOSS, you won't just learn technical skills, but soft skills as well. That means you'll learn how to communicate effectively over different mediums and making sense to other people who might be from different backgrounds.</p>
+<p>I've seen many engineers are hesitant when it comes to communication. They can think and write really nice code, but when it comes to explaining themselves, they lack the communication skills, which is vital to be a better professional.</p>
+</div>
+<div class="section" id="improve-existing-skills">
+<h2>Improve existing skills</h2>
+<p>It's not always about learning a new tech that you heard about. It's important to improve on things you think <em>you might already know</em>. Contributing to a FOSS project would make you learn intricate details that your mentors have gained working as a software craftsmen for several years.</p>
+</div>
+<div class="section" id="meet-like-minded-people">
+<h2>Meet like-minded people</h2>
+<p>Many organizations do stand-up / all-hands meetings where everyone comes together and explains what are they're working on, what they plan to do next and if they face any blocker. So, students, there is a high possibility that when you graduate, you'll do this in your organization :) You'll meet a lot of people having similar interests and you'll learn a lot of things just by hanging out with them (most of the time on IRC).</p>
+</div>
+<div class="section" id="learn-people-skills">
+<h2>Learn people skills</h2>
+<p>Learn team management, resolving internal conflicts, brainstorming on a new feature, public-speaking, time-management, conducting meet-ups &amp; learn to prioritize your work. You will just expand your horizons.</p>
+</div>
+<div class="section" id="learn-to-read">
+<h2>Learn to READ</h2>
+<p>One of the best things I've been ever taught is to "READ". (And those who've met me personally knows how many times I've been repeating this thing :)).</p>
+<p>When I say read, I mean you'll read the documentation, development guide and most importantly the source code.</p>
+<p>Always remember that code is meant to be read more times than it is written. When you contribute to any FOSS project, one of the important skill you add to your skill-set is to make your brain make sense out of the code that may look gibberish to many people.</p>
+<p>This is a very important skill. Once you're in a company, you'll be given the responsibility of maintaining huge code base and constantly adding features to it. There won't be someone who would spoon-feed you by explaining what every line of code means.</p>
+<p>I've seen many people struggling hard in their jobs to figure out what a particular piece of code does. But if you've already worked with humongous code bases, this shall be a cake-walk for you. You would already know how to scrutinize bugs, debug errors and most importantly, would have already taught your brain to think and <cite>READ</cite>.</p>
+</div>
+<div class="section" id="find-mentors">
+<h2>Find mentors</h2>
+<p>FOSS is all about mentors &amp; mentees. There are people just like me and you who volunteer their time and skill to do good for the community. You'll find a lot of mentors who would be willing to teach you different skills. Remember, that you've got this opportunity to learn from domain experts :)</p>
+<p>And no matter what, always respect everyone's time.</p>
+</div>
+<div class="section" id="teach-others">
+<h2>Teach others</h2>
+<p>While it is important to get your code reviewed, it is much more important to review other's code. This would help you in learning different coding style and also about how someone approached a particular problem. This would help in expanding your logical skills &amp; as always you'll be learning a lot yourself along the way with having healthy discussions in code reviews.</p>
+</div>
+<div class="section" id="it-feels-great-to-make-small-changes">
+<h2>It feels great to make (small) changes</h2>
+<p>You don't necessarily need to work on big features in a project or become a life-long contributor. Contribute to a project that you use on daily basis (like <a class="reference external" href="https://whatcanidoformozilla.org/">Mozilla Firefox</a>) and I promise you that it would be gratifying when you see the whole world rely on the small code changes you did.</p>
+<p>A small change in the documentation means you might save someone countless hours of debugging and scratching their head on how to use a particular piece of code. Always remember, documentation bugs are not something inferior; you'll learn a lot in writing documentation, right from the tools such as Sphinx and rST to expanding your domain knowledge about the project.</p>
+</div>
+<div class="section" id="building-your-reputation-career-along-the-way">
+<h2>Building your reputation (&amp; career) along the way</h2>
+<p>All the code you'll write in Open Source projects would be public and can be taken as a demonstration of how you write code &amp; what you can do. It depicts how you work with others and most importantly give you an enormous amount of experience in working with people having diversified skill-set.</p>
+<p>Once you get acquainted with the code base, you'll be invited to develop stand-alone features and who knows you might get that commit bit turned on when you've developed enough reputation in the community ;)</p>
+<p>Apart from all the things mentioned above, I think Mozilla's mission says a lot about why I contribute to FOSS</p>
+<blockquote>
+Doing good is part of our code</blockquote>
+<p>Alright, I didn't realize, I'll be able to write this much. Hopefully, this would help &amp; motivate people to get involved in contributing to Open Source. As always, if you have any queries, or want help in contributing to any project, feel free to mail me on <strong>Sanyam [at] SanyamKhurana [dot] com</strong>.</p>
+</div>]]>
+  </description>
+  <pubDate>Mon, 26 Jun 2017 11:41:00 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Tanzeel Khan - Kashmir Uses Firefox Nightly</title>
+  <guid isPermaLink="false">http://khantanzeel.wordpress.com/?p=350</guid>
+  <link>https://khantanzeel.wordpress.com/2017/05/25/kashmir-uses-firefox-nightly/</link>
+  <description>
+    <![CDATA[<p>The event was a part of PAN India pilot campaign for Firefox Nightly aimed to create a strong technical community who will be using and testing Nightly on a regular basis. Besides, it was a meetup for community members in the region. The event Kashmir Uses Firefox Nightly was organised at Bangs, Srinagar on 25th May, … <a class="more-link" href="https://khantanzeel.wordpress.com/2017/05/25/kashmir-uses-firefox-nightly/">Continue reading <span class="screen-reader-text">Kashmir Uses Firefox Nightly</span></a></p>]]>
+  </description>
+  <pubDate>Thu, 25 May 2017 15:55:59 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Nino Vranesic - Let’s focus on privacy and get rid of the clutter</title>
+  <guid isPermaLink="false">http://blog.elnino.si/post/160523882052</guid>
+  <link>http://blog.elnino.si/post/160523882052</link>
+  <description>
+    <![CDATA[We live in Information Society in which the creation and distribution of 
+information has become the...]]>
+  </description>
+  <pubDate>Wed, 10 May 2017 19:49:39 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Biraj Karmakar - India uses Firefox Nightly: Kick off on May 1, 2017</title>
+  <guid isPermaLink="false">http://birajkarmakar.wordpress.com/?p=1367</guid>
+  <link>https://birajkarmakar.wordpress.com/2017/04/25/india-uses-firefox-nightly-kick-off-on-may-1-2017/</link>
+  <description>
+    <![CDATA[<p>In my last <a href="https://birajkarmakar.wordpress.com/2017/03/30/india-uses-firefox-nightly-a-campaign-especially-for-india">blog</a>, I have announced that <a href="https://blog.mozillaindia.org/1801">Mozilla India</a> is going to organize a <a href="https://blog.nightly.mozilla.org/2017/03/30/guest-post-india-uses-firefox-nightly-a-campaign-especially-for-india/">special campaign</a> on <a href="http://nightly.mozilla.org">Firefox Nightly</a> Usage in India. RSVP <a href="https://reps.mozilla.org/e/india-uses-firefox-nightly/">here</a>.</p>
+<p>Everything is set. Gearing up for the campaign.</p>
+<p><img alt="#INUsesFxNightly_fb" class="alignnone size-full wp-image-1375" src="https://birajkarmakar.files.wordpress.com/2017/04/inusesfxnightly_fb.png?w=720" /></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>BTW Recently we have organized one community call on this campaign. You can watch it to know more about how to organize events and technical things.</p>
+<div class="jetpack-video-wrapper"></div>
+<ul>
+<li><b> How to get involved:</b>
+<ul>
+<li><b>Online Activities</b>
+<ul>
+<li>Telling and inviting friends!</li>
+<li>Create the event in social media!</li>
+<li>Writing about it on Facebook &amp; Twitter.</li>
+<li>Posting updates on social media when the event is running.</li>
+<li>Running an online event like webinar for this campaign. Please, check the <strong><a href="https://wiki.mozilla.org/India/India_uses_Firefox_Nightly#Event_flow">event flow</a>.</strong></li>
+<li>Blog posting regarding Firefox Nightly technical things, features and events.</li>
+</ul>
+</li>
+<li><b>Offline Activities</b>
+<ul>
+<li>Introduction to Mozilla</li>
+<li>Introduction to Firefox Nightly Release cycle details</li>
+<li>Why we need Firefox Nightly users?</li>
+<li>Showing various stats regarding firefox</li>
+<li>Installing Nightly on participant’s PC</li>
+<li>WebCompat on Firefox Nightly</li>
+<li>How they can contribute in Nightly (QA and Promotion)</li>
+<li>Swag Distribution</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Duration of Campaign:<strong> 2 months</strong></li>
+<li>Total Number of offline events: <strong>15 only. </strong></li>
+<li>Hashtag: <strong>#INUsesFxNightly</strong></li>
+<li>Duration of each event: <strong>3-5 hours</strong></li>
+</ul>
+<p><strong>Swag is ready! </strong></p>
+<p> </p>
+<div class="wp-caption aligncenter" id="attachment_1398" style="width: 3274px;"><img alt="IMG_20170425_174228.jpg" class="aligncenter size-full wp-image-1398" src="https://birajkarmakar.files.wordpress.com/2017/04/img_20170425_174228.jpg?w=720" /><p class="wp-caption-text">Swag for offline events</p></div>
+<p>For <strong>requesting swag</strong>, please read <a href="https://wiki.mozilla.org/India/India_uses_Firefox_Nightly#Swag_request">here</a>.</p>
+<p>Also, we have the <strong>budget</strong> for these events. You can request it. <strong>Know more <a href="https://wiki.mozilla.org/India/India_uses_Firefox_Nightly#Budget_request">here</a> .</strong></p>
+<p>Other than that if you want to know more about <strong>activity format, event flow, resource and more thing</strong>, please read the <a href="https://wiki.mozilla.org/India/India_uses_Firefox_Nightly">wiki</a>.</p>
+<p><b>If you have a special query, please send a mail to Biraj Karmakar [brnet00 AT gmail DOT com]. Don’t forget to join our <a href="https://t.me/joinchat/AAAAAApQnnZdPCejeKYf1w .">telegram group</a> for a realtime chat. </b></p>
+<p> </p>
+<p> </p>]]>
+  </description>
+  <pubDate>Tue, 25 Apr 2017 13:02:38 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Robert Reyes - Pinoy Mozillians at the 2017 Asian L10n Workshop in Taipei</title>
+  <guid isPermaLink="false">http://www.bobreyes.com/myblog/?p=5149</guid>
+  <link>http://www.bobreyes.com/myblog/pinoy-mozillians-2017-asian-l10n-workshop-taipei/</link>
+  <description>
+    <![CDATA[<p>A delegation of four (04) Pinoy Mozillians participated in the weekend-long workshop for Mozilla Localization (L10n) at Mozilla Taiwan office. Heading the delegation was your’s truly, with fellow Mozilla Rep Frederick Villaluna, and Localizers Richmond Lacanlalay and Michelle Manlogon. Bye, Manila! Hello, Taipei! The team’s journey began at the NAIA Terminal 2 (MNL) early morning […]</p>
+<p>The post <a href="http://www.bobreyes.com/myblog/pinoy-mozillians-2017-asian-l10n-workshop-taipei/" rel="nofollow">Pinoy Mozillians at the 2017 Asian L10n Workshop in Taipei</a> appeared first on <a href="http://www.bobreyes.com/myblog" rel="nofollow">Bob Reyes Dot Com</a>.</p>]]>
+  </description>
+  <pubDate>Mon, 24 Apr 2017 14:55:59 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Nino Vranesic - We need diversity and polymorphism to secure future of the Web</title>
+  <guid isPermaLink="false">http://blog.elnino.si/post/159804822072</guid>
+  <link>http://blog.elnino.si/post/159804822072</link>
+  <description>
+    <![CDATA[The digital revolution is now part of our everyday life. Much of the digital change has happened at...]]>
+  </description>
+  <pubDate>Thu, 20 Apr 2017 22:41:46 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Elio Qoshi - Joining the Mozilla Creative Team</title>
+  <guid isPermaLink="false">https://elioqoshi.me/?p=1753</guid>
+  <link>https://elioqoshi.me/2017/04/joining-mozilla-creative-team/</link>
+  <description>
+    <![CDATA[<p><a href="https://mozilla.org"><img alt="" class="wp-image-1754 size-full alignnone" src="https://i1.wp.com/elioqoshi.me/wp-content/uploads/2017/04/moz-logo-bw-rgb.png?resize=360%2C103&amp;ssl=1" /></a></p>
+<p>A day after April Fool’s, it seems like the right time to announce the news: I’m joining the Mozilla Creative Team as a design contractor starting tomorrow.</p>
+<p>This is a major step and honor for me to work among one of the most influential design teams in the open source industry, closely involved with community and one which strives to be as decentralized as possible, in a world where latter seems unthinkable to do. When I started contributing to Mozilla 4 years ago, I missed any opportunities to get involved on a design level within the community, regardless if Branding, UI or UX. I’m happy that nowadays the landscape is more inclusive towards community designers, where I’d like to note the <a href="https://elioqoshi.me/2016/08/mozilla-rebranding-notes/">major open rebranding process we undertook last year</a>, and the launch of the<a href="https://github.com/mozilla/opendesign"> Open Design repo</a> for communities to process design requests and have monthly meetings.</p>
+<p>With the new Mozilla brand being launched 2 months ago, a great amount of work still lies before us. Apart from applying the new visual language across Mozilla’s websites and communication channels, we have to figure out how Communities are involved with the new identity, to make it feel consistent, yet flexible and inclusive for a wide range of communities.</p>
+<div class="wp-caption alignnone" id="attachment_1755" style="width: 575px;"><img alt="" class=" wp-image-1755" src="https://i0.wp.com/elioqoshi.me/wp-content/uploads/2017/04/CreativeTeamHawaii.jpg?resize=565%2C412&amp;ssl=1" /><p class="wp-caption-text">With the Creative Team at the All-Hands Work Week in Hawaii last year.</p></div>
+<p>My work will encompass exactly this and work closer with the community to strengthen the bridge between Staff and Contributors and offer ways for design contributors to get involved in a similar manner as developers in open source. With Mozilla being one of the leading forces of diverse contributor backgrounds in open source, it completely makes sense to make this the next step.</p>
+<p>My work will be closely tied with values we share at <a href="https://ura.design/">Ura Design</a> and <a href="http://opensourcedesign.net/">Open Source Design</a>, which have taught me invaluable lessons in the past. I look forward to turning them into practice and update you soon on the actual projects we are working on.</p>
+<h3>Links</h3>
+<p><a href="https://blog.mozilla.org/opendesign/">Mozilla Open Design Blog</a><br />
+<a href="https://github.com/mozilla/opendesign">Mozilla Open Design Repo</a><br />
+<a href="https://mozilla.ninja">Mozilla New Brand Principles</a></p>
+<p>The post <a href="https://elioqoshi.me/2017/04/joining-mozilla-creative-team/" rel="nofollow">Joining the Mozilla Creative Team</a> appeared first on <a href="https://elioqoshi.me" rel="nofollow">Elio's Corner</a>.</p>]]>
+  </description>
+  <pubDate>Sun, 02 Apr 2017 09:24:33 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Biraj Karmakar - India uses Firefox Nightly – A Campaign especially for India</title>
+  <guid isPermaLink="false">http://birajkarmakar.wordpress.com/?p=1289</guid>
+  <link>https://birajkarmakar.wordpress.com/2017/03/30/india-uses-firefox-nightly-a-campaign-especially-for-india/</link>
+  <description>
+    <![CDATA[<p>Fellow mozillians, I am super excited to inform you that very soon we are going to release a new campaign in India  called “<a href="https://reps.mozilla.org/e/india-uses-firefox-nightly/">India uses Firefox Nightly</a>“. Behind this campaign, our mission is <span style="font-weight: 400;">to increases <a href="https://nightly.mozilla.org">Firefox nightly </a>usages in India. </span></p>
+<p><a href="https://birajkarmakar.wordpress.com/2017/03/30/india-uses-firefox-nightly-a-campaign-especially-for-india/sticker_sample/#main" rel="attachment wp-att-1364"><img alt="" class="aligncenter size-full wp-image-1364" src="https://birajkarmakar.files.wordpress.com/2017/03/sticker_sample.png?w=720" /></a></p>
+<p><strong>Why India?</strong></p>
+<p>As we all know <span style="font-weight: 400;">we have a great Mozilla community around India. We have a large number of dedicated students, developers and evangelists who are really passionate about Mozilla. We have seen that very few people in India actually know about Firefox Nightly. So we have taken an initiative to run a pilot campaign for <span style="font-weight: 400;">Firefox Nightly throughout India. Firefox Nightly, as a pre-release version of Firefox targeting power-users and core Mozilla contributors, is a glimpse of what the future of Firefox will be for hundreds of millions of people. Having a healthy and strong technical community using and testing Nightly is a great way to easily get involved in Mozilla by providing a constant feedback loop to developers.</span></span><span style="font-weight: 400;"> Here you can test lots of pre-release features. So it needs little bit of general promotion, which will pump to bring a good number of tech-savvy, power users who will be our active community members.</span></p>
+<h2><span style="text-decoration: underline;">Few Key points</span></h2>
+<p><b>Time Frame: </b><span style="font-weight: 400;">2 months Max              </span><b>Hashtag: </b><span style="font-weight: 400;">#INUsesFxNightly</span></p>
+<p><strong>Event Duration: </strong>3 – 5 Hours             <strong> Total events:</strong> 15</p>
+<p><b>Who will join us: </b><span style="font-weight: 400;">We invite students, community member, developer, open source evangelist to run this campaign.</span></p>
+<h2><span style="text-decoration: underline;">Parts of Campaign </span></h2>
+<h3>Online activities:</h3>
+<p>Mozillians spread the message of this campaign around the India as well as through social media (facebook, twitter, Instagram), blog, <span style="font-weight: 400;">promotional </span>snippet, email,<span style="font-weight: 400;"> mailing list, website news item</span> etc.</p>
+<h3>Offline activities:</h3>
+<p>Here any community member or open source enthusiasts can host one event in his area or join any nearby event for helping organisers. The event can be held at <span style="font-weight: 400;">Startup Company, School, University, Community centre, Home, Café. </span></p>
+<h3><b>Goals for this initiative</b></h3>
+<p><b>Impact:</b></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">1000 Nightly Installed</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">20 New Active Contributors </span></li>
+</ul>
+<p><b>Strength:</b></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">30 Mozillians run events </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">500 Attendees</span></li>
+</ul>
+<p>BTW have you tried Firefox Nightly yet, <a href="https://nightly.mozilla.org">download</a> it now?</p>
+<h2>More details will come soon. Stay tuned!</h2>
+<p>We need many core campaign volunteers who will help us to run this initiative smoothly. If you are intersted in joining campaign team, please let me know.</p>
+<p>Have design skills? We need a logo for this campaign, please come and help us <a href="https://github.com/mozilla/OpenDesign/issues/101">here</a>.</p>]]>
+  </description>
+  <pubDate>Thu, 30 Mar 2017 15:51:43 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Biraj Karmakar - My dream project – Digital Literacy Camp 2017</title>
+  <guid isPermaLink="false">http://birajkarmakar.wordpress.com/?p=1160</guid>
+  <link>https://birajkarmakar.wordpress.com/2017/03/23/my-dream-project-digital-literacy-camp-2017/</link>
+  <description>
+    <![CDATA[<p>Sorry, for posting this late. Actually last few months I was so busy. That’s why I could not write this here.</p>
+<p>As you all know, the world has now transformed into a global village and the digital literacy movement will touch every city one by one. Lack of web literacy can push young minds to the darkness of ignorance, where no dreams prosper. That’s why I started this initiative called “<strong>Digital Literacy Camp 2017</strong>“- this is my dream project.</p>
+<p>So let me introduce you all to my <strong>Dream Project</strong> – <strong><a href="https://digitalcamp2017.tumblr.com/post/154066934090/digital-literacy-camp-2017">Digital Literacy Camp 2017</a></strong> – aim to reach 100 students in my city and make them powerful web citizens, transforming the little part of our whole country.</p>
+<p>I started my campaign in various crowd fudging site from <strong>December 1st week’16.</strong></p>
+<p>Our training period starting from <strong>1st Mar to 31st May 2017</strong>. So we already started our training……..</p>
+<p>This is three months staggered campaign to educate 100 underprivileged students on and prepare them for a better tomorrow. Here we have 100 Students from the unprivileged community. 1 Common dream. The Desire to learn – <strong>Basic Computer Learning, Internet &amp; Web <span class="m_707744728426875313m_8245081716060758696gmail-il">Literacy</span>, Spoken English and Smartphone usage.</strong></p>
+<h2>Why this 100 students from the underprivileged community:</h2>
+<p>Some children are born to lead. But at some point time, these students are always used to hear “NO”, because of their economic condition but we are saying “Yes” to their dreams. Our goal is to open a whole new world to these underprivileged children by fueling their curiosity. It is not just about education, we will help these kids learn effective skills through fun activities. Let’s work together to empower a generation of digitally literate citizens. They are here to make a difference in the lives of others.</p>
+<h2>Our campaign video:</h2>
+<div class="jetpack-video-wrapper"></div>
+<h2>Our goal:</h2>
+<p>After three months’ training, the students will:</p>
+<p>1. Understand the working of a computer and know about the various programs.</p>
+<p>2. Use English while communicating with others. 50% of the content produced on the internet is written in English, so the spoken English skills will come in handy.</p>
+<p>3. Utilise the power of the internet to understand the world in a better way. Explore the new way of learning through the Internet. They can know more about privacy on their online life. They must know how to connect online and utilise the online resources.</p>
+<p>4. They can know how the smartphone can transform their life. Also, we have selected some fun activities which will not only keep them interested but also develop a learning spirit in them. These beautiful minds will; get the best resources from us and that included proper infrastructure, skilled trainers, study material, the internet and skill-based class training.</p>
+<h2>Impact:</h2>
+<p>Students are bombarded with tonnes of information every single day and it is very hard for them to retain the right information. We must concentrate our efforts on making them effective consumers of information. Digital footprints are permanent and if they lack digital knowledge, they will never develop the ability to differentiate between what is trustworthy on the web and what is not. As they are proceeding down this path, these young students are growing their vocabulary, learning how to do research and most importantly their critical thinking skills are developed. The little joys are priceless. The smile on their faces encourages us to work harder. If a little move can create so much difference in their life, we can definitely do bigger things for them. Bigger things can bring bigger changes. Teaching with a difference can make learning easy.</p>
+<h2>We already started our training</h2>
+<div class="wp-caption aligncenter" id="attachment_media-5" style="width: 3998px;"><img alt="BeFunky Collage.jpg" class="aligncenter size-full wp-image-1216" src="https://birajkarmakar.files.wordpress.com/2017/03/befunky-collage.jpg?w=720" /><p class="wp-caption-text">Our students with guardians on 1st day of class | Date 01 March 2017</p></div>
+<h2> Few photos from our training classes</h2>
+<p> </p>
+<div class="wp-caption aligncenter" id="attachment_media-7" style="width: 3998px;"><img alt="BeFunky Collage.jpg" class="alignnone size-full wp-image-1225" src="https://birajkarmakar.files.wordpress.com/2017/03/befunky-collage1.jpg?w=720" /><p class="wp-caption-text">These are all our trainers, taking classes</p></div>
+<p>For more photos, please follow our <a href="https://www.facebook.com/digitalcamp2017/">facebook</a> and <a href="https://twitter.com/digitalcamp2017">twitter</a>. Campaign hashtag is #digitalcamp2017.</p>
+<p>We have not raised sufficient money from crowdsourcing platform. Still, we need your help. Every contribution is equally important to make this initiative successful. Your gift can give them a hope to live and become educated digital citizens.</p>
+<p><img alt="a7f583b0acd790909d8a69e605c6ee9ad5f72d2c.png" class="alignnone size-full wp-image-1274" src="https://birajkarmakar.files.wordpress.com/2017/03/a7f583b0acd790909d8a69e605c6ee9ad5f72d2c.png?w=720" /></p>
+<h2 style="text-align: left;"><b><i>           If you are outside of India then this <a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.generosity.com%2Feducation-fundraising%2Fdigital-literacy-camp-2017--2&amp;t=YzMyMGZjMjkxYWQwM2Y2MWJmZGMxNWRkNTY2MTUwMjk1NzVlYzNmOSxKcEV4NXhrNQ%3D%3D&amp;b=t%3A7a-y3ltzRlb3jqq7RidjRA&amp;p=https%3A%2F%2Fdigitalcamp2017.tumblr.com%2Fpost%2F154066934090%2Fdigital-literacy-camp-2017&amp;m=1">link</a> for donation.</i></b></h2>
+<h2 style="text-align: center;">People staying in India can donate us through these</h2>
+<p><img alt="OGN2YV0" class="alignnone size-full wp-image-1280" src="https://birajkarmakar.files.wordpress.com/2017/03/ogn2yv0.png?w=720" /></p>
+<p>We would like to <em><strong>thank all donors and supporters</strong></em>. Want to know more about this program, please read <a href="https://digitalcamp2017.tumblr.com/post/154066934090/digital-literacy-camp-2017">here.</a> Help us to make these kids proven Digital Literate persons.</p>
+<p>If you have any suggestions or comments please share with us.</p>
+<p> </p>
+<p> </p>
+<p> </p>]]>
+  </description>
+  <pubDate>Thu, 23 Mar 2017 12:59:03 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Robert Reyes - Pinoy Mozillian at FOSSASIA 2017</title>
+  <guid isPermaLink="false">http://www.bobreyes.com/myblog/?p=5134</guid>
+  <link>http://www.bobreyes.com/myblog/pinoy-mozillian-fossasia-2017/</link>
+  <description>
+    <![CDATA[<p>I had the privilege of representing Mozilla and my country, the Philippines for the third straight year in FOSSASIA. For the second year in a row, FOSSASIA 2017 was held at the Science Center Singapore from the 17th up to the 19th of this month. The theme for this year’s FOSSASIA is “Artificial Intelligence and Machine Learning […]</p>
+<p>The post <a href="http://www.bobreyes.com/myblog/pinoy-mozillian-fossasia-2017/" rel="nofollow">Pinoy Mozillian at FOSSASIA 2017</a> appeared first on <a href="http://www.bobreyes.com/myblog" rel="nofollow">Bob Reyes Dot Com</a>.</p>]]>
+  </description>
+  <pubDate>Tue, 21 Mar 2017 08:26:26 +0000</pubDate>
+  
+</item>
+
+<item>
+  <title>Irvin Chen - Mozilla Community Space Taipei Status Report, May 2014 - Feb 2017</title>
+  <guid isPermaLink="false">tag:blogger.com,1999:blog-9654230.post-3432335155184343414</guid>
+  <link>http://irvin.sto.tw/2017/03/mozilla-community-space-taipei-status.html</link>
+  <description>
+    <![CDATA[<p><em>“摩茲工寮, Mozilla Community Space Taipei”</em> is an event/meeting/working space and shelter to the local Mozillians, Mozilla volunteers, and OSS communities.</p>
+<p>It is the first of three spaces besides <a href="http://www.mozspacemnl.org/">Manila Space</a> &amp; <a href="http://www.mozilla.or.id/space.html">Jakarta Space</a>. The spaces are leading by Mozilla Open Innovation Group's “<a href="https://wiki.mozilla.org/Participation/Community_Spaces">community spaces</a>” project, managing by local MozTW volunteers.</p>
+<p>Here I will share about some brief status of the Taipei Space.</p>
+<p>(I'll use “MozTW Space” or “Space” as the abbreviation to “Mozilla Community Space Taipei” below.)</p>
+<div class="separator" style="clear: both; text-align: center;"><img alt="Cover of the slide" src="https://lh3.googleusercontent.com/-g5CYNssHbXo/WMQiEafIh6I/AAAAAAAAHQw/6K85_iuZyQg/s9999/1489248604.png" /></div>
+<h2>MozTW Community</h2>
+<p>Mozilla Taiwan Community (MozTW) is a local Mozilla volunteer community. We had contributing by localizing, promoting Firefox, Mozilla and open cultures to Mozilla and open source projects since 2004.</p>
+<div class="separator" style="clear: both; text-align: center;"><img alt="MozTW" src="https://lh3.googleusercontent.com/-9Ly2ofGQ9_U/WMQiEQ_1BGI/AAAAAAAAHQ0/ptOnGeKdbm8/s9999/1489248627.png" /></div>
+<p>MozTW maintained an online <a href="https://moztw.org">product portal and forum</a>, hosting <a href="https://moztw.org/events/">many offline events</a> and engaging with other Asia Mozillians and open source hackers.</p>
+<div class="separator" style="clear: both; text-align: center;"><img alt="moztw.org website" src="https://lh3.googleusercontent.com/-xhb0CtuEtSk/WMQj2KOZ8MI/AAAAAAAAHRw/x29AEyS8oFo/s9999/1489248841.png" /></div>
+<h2>History of Space</h2>
+<div class="separator" style="clear: both; text-align: center;"><img alt="MozTW Space site" src="https://lh3.googleusercontent.com/-ULB1FZcJM4w/WMQj144h_hI/AAAAAAAAHRs/2WakaDfdkA0/s9999/1489248851.png" /></div>
+<p>The Community Space was an idea initially raised by William Quiviger in 2013, and sponsored by WPR team. We started the first experimental space in Taipei spring 2014.</p>
+<p>After April 2016, the space project had transitioned to Participation Team, supported by Brian King. In February 2017, it has been transitioned to Open Innovation Group with the help by George Roter and Konstantina.</p>
+<div class="separator" style="clear: both; text-align: center;"><img alt="History" src="https://lh3.googleusercontent.com/-lfGOaGyy6Aw/WMQj1dhCSwI/AAAAAAAAHRg/GU0_ySRVAaw/s9999/1489248863.png" /></div>
+<h2>Keyholders</h2>
+<p>MozTW Space is co-managing by “Keyholder,” 15 local Mozilla volunteers. Keyholders are all vouched Mozillians, and has same privilege. People need to be countersigned by more than 50% of Mozillian visitors (in last three months) when they applied for the position. The threshold represents the community's support to the applicant.</p>
+<div class="separator" style="clear: both; text-align: center;"><img alt="Keyholders" src="https://lh3.googleusercontent.com/-4WIedzZAo_c/WMQj1QVPlCI/AAAAAAAAHRo/7SUpN-7s0uU/s9999/1489248884.png" /></div>
+<h2>Visitors &amp; Events</h2>
+<p>Everyone is welcome to visiting MozTW space when there is any Keyholder inside. However, it's not opening 24 hours / 7 days a week due to the volunteers ability. In last three years, we managed to open the space 20~25 days per month in average. (mostly
+    the night time)</p>
+<p>Besides Mozilla events, we also welcome and support all open culture and programming communities to hosting their events in the MozTW Space. Totally there are more than <strong>8000 visitors</strong> and <strong>760 events</strong> since May 2014.</p>
+<div class="separator" style="clear: both; text-align: center;"><img alt="Opening status" src="https://lh3.googleusercontent.com/-t7heHLgR1YQ/WMQj1AsT1kI/AAAAAAAAHRc/cb8f9Nj88hg/s9999/1489248903.png" /></div>
+<p>Some of the most closing cooperate communitiess including <a href="http://g0v.tw">G0V</a>, <a href="http://openstreetmap.tw">OSM</a>, <a href="https://meta.wikimedia.org/wiki/Wikimedia_Taiwan">Wikimedia Taiwan</a>, <a href="http://creativecommons.tw/%3Cbr%3E">Creative Commons Taiwan</a>,
+    <a href="http://ocf.tw">Open Culture Foundation</a>, <a href="http://sitcon.org/">SITCON</a> (Students Information Technology Conference) and <a href="http://www.wofoss.org/">WoFOSS</a> (Women in Free and Open Source Software in Taiwan).</p>
+<div class="separator" style="clear: both; text-align: center;"><img alt="Half year status" src="https://lh3.googleusercontent.com/-yN37DkSMZ50/WMQj1ZdVFRI/AAAAAAAAHRk/_RHDTLlJH8k/s9999/1489248915.png" /></div>
+<p>One of the primary goals is to introduce Mozilla and our belief to new friends. In last six month (Sep-Feb), more than 410 visitors had learned about Mozilla on their first visit to the Space (out of 1800 visitors in 167 events).</p>
+<p>We introduce Mozilla, Manifesto, our different projects, topics around internet health and policy, and new technologies we're building.</p>
+<h2>Dev-rel</h2>
+<p>Since Dec 2015, we put emphasis on developer relationship. There are 168 developer events, and we introduce Rust, Servo, HTML5, WebAPI and developer tools to more than 4000 local programmers.</p>
+<h2>Social Engagement</h2>
+<p>On social engagement, we had received 2550 Check-ins and 1100 Likes on <a href="https://www.facebook.com/MozSpaceTPE/">Facebook</a> and <a href="http://https://foursquare.com/v/%E6%91%A9%E8%8C%B2%E5%B7%A5%E5%AF%AE-mozilla-community-space-taipei/5370b8a1498e8c14504d0007">Foursquare</a>.
+    And in fact, we didn't ask people to do it. These social channels had become a good way for us to promoting openness.</p>
+<div class="separator" style="clear: both; text-align: center;"><img alt="Social engagement" src="https://lh3.googleusercontent.com/-L1niZL8bCmE/WMQj0qlvIMI/AAAAAAAAHRY/LBEhn14PLu8/s9999/1489248925.png" /></div>
+<p>And we issue Open Badges...</p>
+<div class="separator" style="clear: both; text-align: center;"><img alt="Open badge" src="https://lh3.googleusercontent.com/-1qMzKKxswBI/WMQj0XFAHwI/AAAAAAAAHRQ/3bBSiJV-hy0/s9999/1489249058.png" /></div>
+<p>… to the visitors around the world - including <a href="https://mozillians.org/u/surman/">Mark Surman</a>, <a href="https://mozillians.org/u/kinger/">Brian King</a>, <a href="https://mozillians.org/u/lshapiro/">Larissa Shapiro</a>, <a href="https://mozillians.org/u/williamq/">William Quiviger</a>, <a href="https://mozillians.org/u/dietrich/">Dietrich Ayala</a>, <a href="https://github.com/maxogden">Max Ogden</a>, <a href="https://www.binghamton.edu/history/people/faculty/fan.html">Fa-ti Fan</a>, <a href="http://weibo.com/81691005">田爱娜</a> and many more.</p>
+<div class="separator" style="clear: both; text-align: center;"><img alt="Visitors photo wall" src="https://lh3.googleusercontent.com/-o_AVC_TzKxo/WMQj0r4BG_I/AAAAAAAAHRU/j--6zU8pAak/s9999/1489249081.png" /></div>
+<h2>MozTW Lab</h2>
+<div class="separator" style="clear: both; text-align: center;"><img alt="MozTW Lab" src="https://lh3.googleusercontent.com/-bMlX0D-mhuM/WMQjzq6vV9I/AAAAAAAAHRE/ISFQhqSB6YY/s9999/1489249111.png" /></div>
+<p>One of the best events is “<a href="http://moztw.org/events/moztw-lab/">MozTW Lab</a>,” Mozillian weekly meetup on each Friday night. Volunteers get together to socialize, work, and give lightning talks on various topics including Mozilla's latest update.</p>
+<p>This meetup had been running for seven years, and there are 77 lightning talk sessions recorded/live broadcasted through Vidyo from Space since 2014.</p>
+<h2>Photos</h2>
+<p>Here are some photo highlights of the space,</p>
+<div class="separator" style="clear: both; text-align: center;"><img alt="Photo highlights" src="https://lh3.googleusercontent.com/-MyZiq7hp1js/WMQjzx6ULmI/AAAAAAAAHRM/PJ8AK3J2p9A/s9999/1489249132.png" /></div>
+<div class="separator" style="clear: both; text-align: center;"><img alt="Photo highlights" src="https://lh3.googleusercontent.com/-OYUeIS-3SUs/WMQjztcPZeI/AAAAAAAAHRI/dr227Vlx5co/s9999/1489249134.png" /></div>
+<h2>More</h2>
+<ul>
+    <li>Read more about the community spaces in 2016 in <a href="https://blog.mozilla.org/community/2017/01/25/community-spaces-in-2016/">about:community blog</a></li>
+    <li>Check the <a href="http://flickr.moztw.space">Flickr album</a> and <a href="http://fb.moztw.space">FB page</a> for more photos</li>
+    <li>Contact us on <a href="mailto:space@moztw.org">space at moztw.org</a></li>
+    <li>See if there is any event / opening on <a href="http://cal.moztw.org">space calendar</a></li>
+    <li>And <a href="http://map.moztw.space">plan the route</a> to the space</li>
+</ul>
+<p>Looking forward to your visit!</p>
+<div class="separator" style="clear: both; text-align: center;"><img alt="Contact info" src="https://lh3.googleusercontent.com/-eUd9TcwJiig/WMQjzi6HlLI/AAAAAAAAHRA/KbU_CQ5IOHU/s9999/1489249162.png" /></div>
+<p>(Download the full slide <a href="https://www.slideshare.net/irvinfly/mozilla-community-space-taipei-status-report-201702">here</a>.)</p>]]>
+  </description>
+  <pubDate>Wed, 15 Mar 2017 03:08:05 +0000</pubDate>
   
 </item>
 
