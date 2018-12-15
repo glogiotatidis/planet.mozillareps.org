@@ -460,10 +460,10 @@
 			<div class="wpa wpmrec">
 				<span class="wpa-about">Advertisements</span>
 				<div class="u">		<div style="padding-bottom: 15px; width: 300px; height: 250px; float: left; margin-right: 5px; margin-top: 0px;">
-		<div id="atatags-26942-5c13eb2ae92a4">
+		<div id="atatags-26942-5c153cafb8291">
 			
 		</div></div>		<div style="padding-bottom: 15px; width: 300px; height: 250px; float: left; margin-top: 0px;">
-		<div id="atatags-114160-5c13eb2ae92a7">
+		<div id="atatags-114160-5c153cafb8295">
 			
 		</div></div></div>
 				
@@ -1291,16 +1291,16 @@ And talked about new features of AR and VR.</p>
   <description>
     <![CDATA[<p>We all know that every year, 8th March is celebrated as International Women's Day. It is a focal point in the movement for women's rights. On this occasion, all the Open Source communities in and around Delhi came forward to hold a mega-meetup to encourage more women to take active part in Open Source &amp; Tech on March 10, 2018.</p>
 <p>We were astonished to see the huge turn around of 180 people including 150+ women participants.</p>
-<img alt="Group photo of all attendees" src="https://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-1.jpg" />
+<img alt="Group photo of all attendees" src="http://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-1.jpg" />
 <p>Mozilla Delhi, PyDelhi, PyLadies Delhi, LinuxChix India, Women Who Code Delhi, Women Who Go Delhi, Women Techmakers Delhi, and Women in Machine Learning and Data Science were the communities helped up in shaping the event.</p>
 <p>Here are some of the volunteers who helped to make the event possible</p>
-<img alt="Group photo of volunteers" src="https://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-2.jpeg" />
+<img alt="Group photo of volunteers" src="http://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-2.jpeg" />
 <p>We had 3 main technical talks which were all presented by Women having a decade of experience working in the technical field. Apart from that, we had several other lightening talks and community talks.</p>
-<img alt="Group photo of volunteers" src="https://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-3.jpg" />
+<img alt="Group photo of volunteers" src="http://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-3.jpg" />
 <p><a class="reference external" href="https://twitter.com/a2batic">Kanika</a> gave a lightening talk on "WoMoz" &amp; encouraged students to contribute to Mozilla.</p>
-<img alt="Group photo of volunteers" src="https://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-4.jpg" />
+<img alt="Group photo of volunteers" src="http://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-4.jpg" />
 <p>Later, <a class="reference external" href="https://twitter.com/ErSanyamKhurana">I got a chance to</a> give a lightening talk on "Why you should contribute to Open Source", to help &amp; encourage folks to contribute to Open Source projects.</p>
-<img alt="Group photo of volunteers" src="https://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-5.jpg" />
+<img alt="Group photo of volunteers" src="http://www.sanyamkhurana.com/blog/feeds/images/womoz-womens-day-5.jpg" />
 <p>I want to thank everyone who helped with the event &amp; Adobe for sponsoring the venue. Don't forget to join the Open Source groups in &amp; around Delhi that you're interested in. As always, if you need any help on contributing, drop me a mail at Sanyam [at] SanyamKhurana [dot] com.</p>
 <p>You can check out more <a class="reference external" href="https://drive.google.com/drive/folders/1pIUUpHB-HW1tw4asoLxpZ1c2-fQONpOt">photos of the event from here</a></p>]]>
   </description>
@@ -1417,38 +1417,38 @@ And talked about new features of AR and VR.</p>
   <link>https://www.sanyamkhurana.com/blog/mozilla-addons-dev-amu.html</link>
   <description>
     <![CDATA[<p>It all started with PyCon India. I met a few students of Aligarh Muslim University who were trying to teach about FOSS in their college. A few them were already contributing to <a class="reference external" href="https://github.com/coala/coala">Coala</a>. We talked a bit and they were discussing problems they were facing to run that community. I already started a Mozilla community at my college in the earlier days. Since I brought up a lot of folks from my college community in the event, we together discussed <em>How to nurture FOSS communities in college</em> as part of PyCon India Open Spaces. Here is a glimpse of the same:</p>
-<img alt="PyCon India Open Spaces on how to nurture FOSS communities in college" class="align-center" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-1.jpeg" />
+<img alt="PyCon India Open Spaces on how to nurture FOSS communities in college" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-1.jpeg" />
 <p>Later, these folks were excited and invited me as a speaker at their college. A lot of planning happened for the event and we were in touch almost daily for different things. We planned the event one and a half month in advance. Finally, on 24th Feb 2018, we decided to have a full-day event around FOSS at Aligarh Muslim University.</p>
 <p>We left from Delhi at around 6:30 AM in the morning. We then halted at a cafe known as <cite>Break Point</cite> around Aligarh to have breakfast. We reached the university at around 10:20 AM.</p>
 <p>We took some time to test the entire set-up and the event began at around 11:30 AM. I took the first session on <strong>Why you should contribute to Open Source</strong>. We discussed the question that somehow pops up sooner or later into everyone's mind while contributing to Open Source: <strong>What's in it for me?</strong>.</p>
 <p>We discussed various pathways one can begin contributing to Open Source Projects like <strong>coding, writing docs, managing team, advocacy, documentation, translation, bug triaging, reviews, organization skills, soft skills</strong> &amp; tons of other things that come as a by-product.</p>
-<img alt="Curious &amp; enthusiastic attendees learning about different contribution pathways in FOSS" class="align-center" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-9.jpg" />
+<img alt="Curious &amp; enthusiastic attendees learning about different contribution pathways in FOSS" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-9.jpg" />
 <p>You can find the slides here: <a class="reference external" href="http://sanyamkhurana.com/presentations/why-foss">Why you should contribute to Open Source?</a>.</p>
-<img alt="Curious &amp; enthusiastic attendees at Mozilla AMU" class="align-center" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-2.jpg" />
+<img alt="Curious &amp; enthusiastic attendees at Mozilla AMU" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-2.jpg" />
 <p>We had a break for sometime and then started with the much awaited <strong>Add-ons session</strong>. Everyone was very excited to start learning to develop add-ons. I began with explaining the initial setup details &amp; discussed JSON briefly to bring everyone on the same page. To make most out of the event, We also organized a few events previously to teach basics of JavaScript &amp; JSON so that students so that they do not feel overwhelmed with the add-ons development.</p>
-<img alt="Curious &amp; enthusiastic attendees learning from Sanyam Khurana (CuriousLearner)" class="align-center" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-3.jpg" />
+<img alt="Curious &amp; enthusiastic attendees learning from Sanyam Khurana (CuriousLearner)" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-3.jpg" />
 <p>Then Shashank (<a class="reference external" href="http://github.com/realslimshanky">@realslimshanky</a>) took over and discussed <tt class="docutils literal">manifest.json</tt> and it's importance. Later we developed a simple addon -- borderify, which displays a border on every site the user visits. Some students also modified their scripts to make their add-ons do different things and posted them on twitter. Shashank, me and Shivam Singhal (<a class="reference external" href="http://github.com/championshuttler">@championshuttler</a>) helped everyone with their problems during the development phase.</p>
-<img alt="Curious &amp; enthusiastic attendees learning from Sanyam Khurana (CuriousLearner)" class="align-center" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-4.jpg" />
+<img alt="Curious &amp; enthusiastic attendees learning from Sanyam Khurana (CuriousLearner)" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-4.jpg" />
 <p>Since all of us are devs, we were able to quickly resolve queries of students. One of the most important things I noticed is that often people misspell either the name of their manifest file or some key in their manifest people resulting their add-on to not load during the debugging phase.</p>
 <p>A lot of them then created addons on their own and modified their previously created borderify addon to do more stuff. I've tried to <a class="reference external" href="https://gist.github.com/CuriousLearner/1a4b08dbf642be8e4dfeb9544c9ab4c9">collect some of them here</a>. For a more verbose list you can visit Twitter and search tweets tagging me (<a class="reference external" href="http://twitter.com/ErSanyamKhurana">@ErSanyamKhurana</a> with <a class="reference external" href="https://twitter.com/search?q=%23MozAMU">#MozAMU</a>.</p>
 <p>Imaginations ran wild and one of the attendee created an addon that replaces the word <tt class="docutils literal">Google</tt> with <tt class="docutils literal">Mozilla</tt> on every web page. You can see <a class="reference external" href="https://github.com/husainhz7/GoogleMozilla/">his hack here</a></p>
 <p>To make the session more interesting we gave add-ons stickers to anyone who answers the question about what we were just telling them. A lot of folks praised and tweeted about the addons they were generating. We were able to generate <strong>10,000+ impressions with more than 4,000+ accounts reached on Twitter for #MozAMU</strong>.</p>
-<img alt="Twitter Outreach report on no of impressions created for #MozAMU" class="align-center" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-11.png" />
-<img alt="Twitter Outreach report on top contributors created for #MozAMU" class="align-center" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-12.png" />
+<img alt="Twitter Outreach report on no of impressions created for #MozAMU" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-11.png" />
+<img alt="Twitter Outreach report on top contributors created for #MozAMU" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-12.png" />
 <p>You can <a class="reference external" href="https://tweetreach.com/reports/20714737">read the full report here</a>.</p>
 <p>Till this time, I never introduced to anyone about who am I and most importantly not listed any of my contributions in any of the projects. I don't want them to feel overwhelmed and assume that we people have some sort of superpowers that we're able to patch bugs in any FOSS project. I always make it a point to encourage them and help them land their first patch.</p>
 <p>And my introduction summed that up in just one line <tt class="docutils literal">I'm one of you <span class="pre">--</span> a part of the community</tt>.</p>
-<img alt="Sanyam Khurana (CuriousLearner) teaching about essential things to learn while contributing to FOSS projects" class="align-center" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-13.png" />
+<img alt="Sanyam Khurana (CuriousLearner) teaching about essential things to learn while contributing to FOSS projects" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-13.png" />
 <p>We then hopped on to discuss <strong>How do I start contributing to Open Source?</strong> where we specifically discussed <strong>How to find bugs on different projects through Bugzilla &amp; Bugsahoy</strong>.</p>
-<img alt="Enthusiastic folks learning about contributions for Sanyam Khurana (CuriousLearner)" class="align-center" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-7.jpg" />
+<img alt="Enthusiastic folks learning about contributions for Sanyam Khurana (CuriousLearner)" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-7.jpg" />
 <p>You can find the <a class="reference external" href="http://www.sanyamkhurana.com/presentations/foss/#/">slides here</a>. Then I discussed other Open Source projects I've contributed to like <em>CPython, Django, Oppia, Mozilla's Devtools, Gecko-Engine &amp; tried to find out similarities in various bug trackers.</em> We then had a group photo with some of the attendees.</p>
-<img alt="Group photo at Mozilla AMU" class="align-center" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-5.jpg" />
+<img alt="Group photo at Mozilla AMU" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-5.jpg" />
 <p>It was already 5 PM and we didn't go for Lunch since students kept us busy with their questions during the lunch break too :P</p>
-<img alt="Curious &amp; enthusiastic students asking questions in break" class="align-center" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-8.jpg" />
+<img alt="Curious &amp; enthusiastic students asking questions in break" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-8.jpg" />
 <p>So, we decided to hop-on to a restaurant nearby with the core-team of students that helped in organizing the event with so much enthusiasm.</p>
-<img alt="Curious &amp; enthusiastic attendees at Mozilla AMU" class="align-center" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-10.jpg" />
+<img alt="Curious &amp; enthusiastic attendees at Mozilla AMU" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-10.jpg" />
 <p>Then we clicked one last photo before leaving Aligarh at around 7:00 PM with the core-volunteers of the event who helped in all the preparations for the event.</p>
-<img alt="Group photo Mozilla AMU" class="align-center" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-6.jpg" />
+<img alt="Group photo Mozilla AMU" class="align-center" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-amu-6.jpg" />
 <p>In the end, I would like to congratulate the students for making so wonderful arrangements and pushing up the FOSS community in their college. I hope they will now start landing patches in different FOSS projects &amp; we'll all meet again soon.</p>]]>
   </description>
   <pubDate>Thu, 01 Mar 2018 11:41:00 +0000</pubDate>
@@ -1785,17 +1785,17 @@ file and then students started making simple add-ons on their own. The
 <a class="reference external" href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension">borderify</a>
 Web Extension was chosen to teach students. Me, Trishul and Shivam helped them
 whenever they were stuck.</p>
-<img alt="Web Extension session" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons.jpg" />
+<img alt="Web Extension session" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons.jpg" />
 <p>The next session was took by Faye on Women in Mozilla and how we can improve the
 no of women contributors in the community.</p>
-<img alt="Faye engaging participants" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-faye.jpg" />
+<img alt="Faye engaging participants" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-faye.jpg" />
 <p>The third session was took by me where I discussed about <cite>What is FOSS</cite> and why
 people should contribute to FOSS. We then discussed on various pathways one can
 start contributing. We also discussed on finding bugs through BugZilla and Bugsahoy
 for Mozilla.</p>
 <p>Then Shashikanth discussed about importance of Privacy issues.</p>
 <p>We ended the event with a capture of all enthusiastic faces in the meetup:</p>
-<img alt="Group photo after Mozilla Web Extension session" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-addons-group.jpg" />]]>
+<img alt="Group photo after Mozilla Web Extension session" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-group.jpg" />]]>
   </description>
   <pubDate>Tue, 23 Jan 2018 14:45:00 +0000</pubDate>
   
@@ -1809,25 +1809,25 @@ for Mozilla.</p>
     <![CDATA[<p>We recently organized Moz-Fedora Day, a one day event on promoting FOSS through
 Mozilla &amp; Fedora at Investopad, Hauz Khas, Delhi on Jan 13, 2018. The aim was
 to depict the usage of packaging &amp; building one of the Mozilla's project using Fedora.</p>
-<img alt="Sanyam explaining about Mozilla &amp; it's mission" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-fedora-day-4.jpg" />
+<img alt="Sanyam explaining about Mozilla &amp; it's mission" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-fedora-day-4.jpg" />
 <p>The core event focused on making the participants automate the build of any of
 the Mozilla's open source project of their choice. The aim is to influence
 people to switch to Linux as a build environment (We used Fedora for this)
 and introduce the basics of the version control system (Mercurial in case of Mozilla).
 The event will also introduce to Vagrant for running standardized virtual
 machines for build environments.</p>
-<img alt="Sanyam engaging participants on Moz-Fedora Day" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-fedora-day-3.jpg" />
+<img alt="Sanyam engaging participants on Moz-Fedora Day" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-fedora-day-3.jpg" />
 <p>The session began with Saurabh representing a bit about Fedora and other Linux
 Distributions. I discussed about Mozilla, it's mission and different projects.
 We then decided to package <a class="reference external" href="https://servo.org/">Servo</a> in Fedora and guided
 folks through the steps to build the system. We used simple Vagrant setup to
 package Servo project with Fedora.</p>
-<img alt="Sanyam explaining about build systems" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-fedora-day-2.jpg" />
+<img alt="Sanyam explaining about build systems" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-fedora-day-2.jpg" />
 <p>At the end of the event, we had a small discussion on how one can find bugs
 through Bugzilla &amp; Bugsahoy. The presentation can be found here:
 <a class="reference external" href="http://www.sanyamkhurana.com/presentations/foss/">http://www.sanyamkhurana.com/presentations/foss/</a></p>
 <p>We also distributed some swags to folks who were able to make builds successfully.</p>
-<img alt="Swag Distribution" src="https://www.sanyamkhurana.com/blog/feeds/images/moz-fedora-day-1.jpg" />
+<img alt="Swag Distribution" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-fedora-day-1.jpg" />
 <p>Most of this was a hands-on session and I saw new faces who were truly excited to
 learn about these things. A Saturday well spent, spreading the love of Open Source.</p>]]>
   </description>
@@ -1855,8 +1855,8 @@ in various areas.</p>
 <p>Near the end of the event, Trishul also helped me in explaining about addons.
 Since I've previous experience with JS, it was pretty easy to pick that stuff up.</p>
 <p>Finally, we had some amazing photographs which would now become a memory for all of us.</p>
-<img alt="MozCoffee" src="https://www.sanyamkhurana.com/blog/feeds/images/mozcoffee-2017-end-1.jpg" />
-<img alt="MozCoffee" src="https://www.sanyamkhurana.com/blog/feeds/images/mozcoffee-2017-end-2.jpg" />]]>
+<img alt="MozCoffee" src="http://www.sanyamkhurana.com/blog/feeds/images/mozcoffee-2017-end-1.jpg" />
+<img alt="MozCoffee" src="http://www.sanyamkhurana.com/blog/feeds/images/mozcoffee-2017-end-2.jpg" />]]>
   </description>
   <pubDate>Sun, 24 Dec 2017 15:04:00 +0000</pubDate>
   
