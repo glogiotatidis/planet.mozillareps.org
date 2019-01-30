@@ -10,6 +10,51 @@
 
 
 <item>
+  <title>Official Reps Blog - Reps OKRs – First half of the year 2019</title>
+  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=576</guid>
+  <link>https://blog.mozilla.org/mozillareps/2019/01/29/reps-okrs-first-half-of-the-year-2019/</link>
+  <description>
+    <![CDATA[<p>Here are the OKRs for the first half of the year:</p>
+<p><b>Objective 1: Reps are the bridge between their local communities (Mozilla or other local open source communities) and the Mozilla contribution opportunities<br />
+</b></p>
+<ul>
+<li><b>Key Result 1.1:</b> 60% of Reps have a connection with another open source community (as a result of our community connection training)</li>
+<li><b>Key Result 1.2:</b> 70% of Reps have gathered data about the interests of their community</li>
+</ul>
+<p><b>Objective 2: Mozilla projects reach out to Reps as gateway to community engagement<br />
+</b></p>
+<ul>
+<li><b>Key Result 2.1:</b> 200 employees say they know about the Reps program’s purpose (Implementation hint: We aim for an All Hands Lightning Talk and being featured in the tl:dr newsletter with an update about the program)</li>
+<li><b>Key Result 2.2:</b> Reps collaborate with two new functional teams</li>
+</ul>
+<p><b>Objective 3: Reps feel more involved in the program<br />
+</b></p>
+<ul>
+<li><b>Key Result 3.1:</b> As a result of the mobilizing activities of the Reps we are able to connect 50% of campaign outcomes to their mobilizing efforts</li>
+</ul>
+<p><b>Objective 4: External, non-Mozilla entities identify the Reps program as a connector to the broader Mozilla community<br />
+</b></p>
+<ul>
+<li><b>Key Result 4.1:</b> External open source communities are informed about 2019 Reps plans with two publications</li>
+<li><b>Key Result 4.2:</b> By updating the Reps description in all resources to reflect the current purpose of the program more people could explain the purpose of the Reps program</li>
+</ul>
+<p><b>Objective 5: Existing Reps and new applicants understand the resources we provide —<br />
+</b></p>
+<ul>
+<li><b>Key Result 5.1:</b> we have less questions by new Reps on understanding the community coordinator role (Implementation hint: Document resources on what we provide)</li>
+</ul>
+<p><b>Objective 6: We understand what is missing for the Reps Program to enable personal growth<br />
+</b></p>
+<ul>
+<li><b>Key Result 6.1:</b> 50% of Reps have reported what the Reps program helped them to do in terms of community building and personal growth</li>
+<li><b>Key Result 6.2:</b> We identified 3 new personal growth area opportunities we want to provide</li>
+</ul>]]>
+  </description>
+  <pubDate>Tue, 29 Jan 2019 18:24:44 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Bhuvana Meenakshi Koteeswaran - 2018 – Red letter days, Mozilla and Me :)</title>
   <guid isPermaLink="false">http://kbmtechie.wordpress.com/?p=327</guid>
   <link>https://kbmtechie.wordpress.com/2018/12/31/2018-red-letter-days-mozilla-and-me/</link>
@@ -498,10 +543,10 @@
 			<div class="wpa wpmrec">
 				<span class="wpa-about">Advertisements</span>
 				<div class="u">		<div style="padding-bottom: 15px; width: 300px; height: 250px; float: left; margin-right: 5px; margin-top: 0px;">
-		<div id="atatags-26942-5c5094f118ec2">
+		<div id="atatags-26942-5c51e6e907d88">
 			
 		</div></div>		<div style="padding-bottom: 15px; width: 300px; height: 250px; float: left; margin-top: 0px;">
-		<div id="atatags-114160-5c5094f118ec4">
+		<div id="atatags-114160-5c51e6e907d8b">
 			
 		</div></div></div>
 				
@@ -2344,45 +2389,6 @@ be helpful for us.</p>
     <![CDATA[SHA, aka Still Hacking Anyways, is part of international non profit outdoor hacker camp series organized once in 4 years in The Netherlands. This year it was organized in Zeewolde on August 4th to 8th and I was honored to be one of speakers at SHA for my WebVR talk. Read my blogpost ‘SHA Hacker … <a href="https://gurumukhi.wordpress.com/2017/09/05/highlights-from-netherlands-hackercamp-sha/">Continue reading <span class="meta-nav">→</span></a>]]>
   </description>
   <pubDate>Mon, 04 Sep 2017 20:32:51 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Abhiram Ravikumar - It’s raining Rust at Red Hat</title>
-  <guid isPermaLink="false">http://abhiramrk.com/?p=322</guid>
-  <link>http://abhiramrk.com/its-raining-rust-at-red-hat/</link>
-  <description>
-    <![CDATA[<p>I know it’s been a while since I’ve put out a post and mostly because I’m trying to learn amazing things and get my hands dirty, trying to build solutions that actually make sense.</p>
-<p>One such pet-project has been Rust, probably the <a href="https://redmonk.com/sogrady/2017/06/08/language-rankings-6-17/">fastest</a> growing systems level programming language today. Hitherto, I’ve always looked at Rust from the outside, never got my hands dirty, mostly because I was under the assumption that it had nothing to do with web development. Turns out, I was completely wrong!</p>
-<p>This year’s <a href="https://discourse.mozilla.org/t/rainofrust-campaign-trailer/15852">Rain of Rust</a> campaign gave me an opportunity to revisit the programming language and the reason why it’s been garnering interests at astronomical pace. For a nascent programming language which is in the 1.19th version of its release, it’s challenging the big guns – C and C++. Yes, you heard <a href="https://www.quora.com/Which-language-has-the-brightest-future-in-replacement-of-C-between-D-Go-and-Rust-And-Why">it </a>right.</p>
-<h3>On to the campaign</h3>
-<p>The campaign, although initiated and led by volunteers from the Mozilla India community at first was later adopted by the larger Mozilla community with contributions from all over the world like these events in <a href="https://reps.mozilla.org/e/rust-activate/">Mexico </a>and <a href="https://reps.mozilla.org/e/dive-into-rust-senai-santa-cecilia/">Brazil</a>. The main goal of the event was to increase outreach about the language and train developers to contribute in the rust ecosystem.</p>
-<h3>At Bangalore</h3>
-<p>As one of the crucial aspects of the campaign was to organize on-the-ground events and so, with the gracious support of our host Sumantro at Red Hat, we managed to pull of a small event consisting of rust enthusiasts and Mozilla Tech Speakers.</p>
-<p>We had our very own Vigneshwer leading the introduction to rust and hands-on session. This was well taken by the participants who had just installed rust and exploring what they could do with the language.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">We have <a href="https://twitter.com/dvigneshwer">@dvigneshwer</a> today kick starting <a href="https://twitter.com/hashtag/RainOfRust?src=hash">#RainOfRust</a>  at BLR. <a href="https://twitter.com/rustlang">@rustlang</a> <a href="https://twitter.com/mozTechSpeakers">@mozTechSpeakers</a> <img alt="🌟" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f31f.png" style="height: 1em;" /> other talks lined up.. <a href="https://t.co/EGvXB63sS3">pic.twitter.com/EGvXB63sS3</a></p>
-<p>— Abhiram Ravikumar (@abhi12ravi) <a href="https://twitter.com/abhi12ravi/status/878555743338676225">June 24, 2017</a></p></blockquote>
-<p></p>
-<p>With witty remarks, use cases and insights of the language, Vigneshwer kept the participants interested. During the hands-on he introduced the <a href="https://github.com/MozillaIndia/RustIndia/tree/master/RainOfRust#rust-kits">kits </a>built by the Rust India community and explained how participants could use them to learn the language. On the whole, it was a well-rounded session and helped the participants understand why rust is important and how they could contribute.</p>
-<p>We then had a talk by Ravi from <a href="https://www.atherenergy.com/">Ather energy</a> which has used rust components to send  location data packets from its two-wheeler vehicles to the cloud in a secure and reliable fashion. His talk was inspirational as the participants were able to visualize how rust could be used in a production scenario.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">Second talk of the day by Ravi from <a href="https://twitter.com/atherenergy">@atherenergy</a> using <a href="https://twitter.com/rustlang">@rustlang</a> in production environments! <a href="https://twitter.com/hashtag/RainOfRust?src=hash">#RainOfRust</a> <a href="https://twitter.com/mozTechSpeakers">@mozTechSpeakers</a> <a href="https://twitter.com/MozillaIN">@MozillaIN</a> <img alt="🌟" class="wp-smiley" src="https://s.w.org/images/core/emoji/2.3/72x72/1f31f.png" style="height: 1em;" /> <a href="https://t.co/hNZcVSlmhV">pic.twitter.com/hNZcVSlmhV</a></p>
-<p>— Abhiram Ravikumar (@abhi12ravi) <a href="https://twitter.com/abhi12ravi/status/878572229981683714">June 24, 2017</a></p></blockquote>
-<p></p>
-<p>For the last talk of the day, we had our own ReMo and host Sumantro show a demo on <a href="https://rocket.rs/">Rocket</a>, a simple web framework for rust developers. This was in particular interest to me as a web developer, hitherto I was under the impression that rust could only be used for parallel computing and system level programming scenarios.  Now that I know rust has a fast and safe web framework, watch out JavaScript! Here’s Sumantro’s <a href="http://sumantrom.blogspot.in/2017/04/rocket-on-fedora.html">post </a>on how to set it up on Fedora.</p>
-<div class="fb-social-plugin fb-post"></div>
-<p> </p>
-<h3>Last word</h3>
-<p>On the whole it was personally fulfilling that we pulled off a workshop in ~1 week of planning and what was comforting was that the feedback we received through the new ReMo <a href="https://github.com/mozilla/activate.mozilla.community/issues/210">feedback form</a> was a 6+ on a scale of 0-7. Yay!</p>
-<p>Finishing off with a mighty group photo. A round of shout-outs to Bhumika and Ra Fey for helping us out with the posters and social media calls to action! You guys are wonderful. ^_^</p>
-<p> </p>
-<div class="wp-caption aligncenter" id="attachment_336" style="width: 656px;"><a href="http://abhiramrk.com/wp-content/uploads/2017/08/grouppic.jpg"><img alt="Rust Workshop | June 2017 | Bangalore" class="wp-image-336 size-large" height="507" src="http://abhiramrk.com/wp-content/uploads/2017/08/grouppic-1024x804.jpg" width="646" /></a><p class="wp-caption-text">Rust Workshop | June 2017 | Bangalore</p></div>
-<p> </p>
-<p>Fin.</p>
-<a class="likepost json-call 1-322-posts" href="http://abhiramrk.com/feed/?fn=like&amp;following=1-322-posts">Like</a><p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Google+"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="WhatsApp"></a><a class="a2a_button_diaspora" href="https://www.addtoany.com/add_to/diaspora?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Diaspora"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="WordPress"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_blogger_post" href="https://www.addtoany.com/add_to/blogger_post?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Blogger Post"></a><a class="a2a_button_hacker_news" href="https://www.addtoany.com/add_to/hacker_news?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Hacker News"></a><a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share#url=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;title=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat"></a></p>]]>
-  </description>
-  <pubDate>Sun, 20 Aug 2017 14:21:43 +0000</pubDate>
   
 </item>
 
