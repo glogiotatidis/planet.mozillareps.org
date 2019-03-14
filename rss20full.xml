@@ -10,6 +10,24 @@
 
 
 <item>
+  <title>Official Reps Blog - Rep of the Month – February 2019</title>
+  <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=581</guid>
+  <link>https://blog.mozilla.org/mozillareps/2019/03/14/rep-of-the-month-february-2019/</link>
+  <description>
+    <![CDATA[<p>Please join us in congratulating <a href="https://reps.mozilla.org/u/edovio/" rel="nofollow noopener">Edoardo Viola</a>, our Rep of the Month for February 2019!</p>
+<p>Edoardo is a long-time Mozillian from Italy and has been a Rep for almost two years. He’s a Resource Rep and has been on the Reps Council until January. When he’s not busy with Reps work, Edoardo is a Mentor in the <a href="https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/" rel="nofollow noopener">Open Leadership Training Program</a>. In the past he has contributed to Campus Clubs as well as MozFest, where he was a Space Wrangler for the Web Literacy Track.</p>
+<div class="lightbox-wrapper">
+<p><a class="lightbox" href="https://discourse-paas-production-content.s3.dualstack.us-east-1.amazonaws.com/original/3X/1/8/18f04ead2ebad735329e8f3ac4847c6b17a0c405.jpeg" rel="nofollow noopener" title="edoardo.jpg"><img alt="edoardo" class="d-lazyload" height="460" src="https://discourse-paas-production-content.s3.dualstack.us-east-1.amazonaws.com/optimized/3X/1/8/18f04ead2ebad735329e8f3ac4847c6b17a0c405_2_690x460.jpeg" width="690" /></a></p>
+<div class="meta"><span class="informations"> </span></div>
+</div>
+<p>Recently Edoardo helped out at FOSDEM in Brussels as part of the Mozilla volunteers organizing our presence. He helped out at the booth, as well as helping to moderate the Mozilla Dev Room. He also contributes to the Internet Health Report as part of the volunteer team to give input for the next edition of the report.</p>
+<p><a href="https://discourse.mozilla.org/t/rep-of-the-month-february-2019/36947">To congratulate him, please head over to Discourse!</a></p>]]>
+  </description>
+  <pubDate>Thu, 14 Mar 2019 12:32:46 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Official Reps Blog - Rep of the Month – November 2018</title>
   <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=578</guid>
   <link>https://blog.mozilla.org/mozillareps/2019/03/06/rep-of-the-month-november-2018/</link>
@@ -651,10 +669,10 @@
 			<div class="wpa wpmrec">
 				<span class="wpa-about">Advertisements</span>
 				<div class="u">		<div style="padding-bottom: 15px; width: 300px; height: 250px; float: left; margin-right: 5px; margin-top: 0px;">
-		<div id="atatags-26942-5c894b0fd8d59">
+		<div id="atatags-26942-5c8a9ca564014">
 			
 		</div></div>		<div style="padding-bottom: 15px; width: 300px; height: 250px; float: left; margin-top: 0px;">
-		<div id="atatags-114160-5c894b0fd8d5c">
+		<div id="atatags-114160-5c8a9ca564017">
 			
 		</div></div></div>
 				
@@ -2396,45 +2414,6 @@ So instead of having only one search engine, our idea is to have more than one s
 <p>Etherpad of the session. Link is <a href="https://public.etherpad-mozilla.org/p/MozWOC17-Session6">here</a></p>]]>
   </description>
   <pubDate>Mon, 02 Oct 2017 00:34:00 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Viswaprasath KS - Weeks of Contribution- WebExtension Session5</title>
-  <guid isPermaLink="false">http://vp7techie.wordpress.com/2017/10/02/weeks-of-contribution-webextension-session5/</guid>
-  <link>https://vp7techie.wordpress.com/2017/10/02/weeks-of-contribution-webextension-session5/</link>
-  <description>
-    <![CDATA[<p><strong>Date</strong> : 4th August 2017</p>
-<p><strong>Time</strong>: 9:00 – 10:00</p>
-<p><strong>IRC channel</strong>: #MozillaTN</p>
-<p>This is our first series of the WebExtension webseries. The main agenda of the program is to get started with Mozilla community and discuss the syllabus we will be learning in this series.</p>
-<p>In our <a href="https://iamvp7.github.io//MozWOC-Session4">previous session</a> we get started learning what are tabs API. There are lot of cases where we have used Tabs API and published add-ons on it. We will slowly cover tabs API one by one along with Different API.</p>
-<p>In the fifth session we are going to learn one of the use case of omnibox using Tabs.create API.</p>
-<h4 id="todays-problem-statement">Todays Problem statement</h4>
-<p>In the address of Firefox / Google Chrome what happens is when we enter some words we will be getting the results from default search engine. but we will some times require to search on different site. say you know my handle in twitter is @iamvp7 so there are two ways goto twitter.com and search my handle (or) goto search engine search my handle with twitter keyword.. so it sometime gets bored. so we will build a small add-on which will<br />
-be helpful for us.</p>
-<h2 id="agenda">Agenda</h2>
-<p><strong>Building simple Multi Search Add-on</strong></p>
-<ul>
-<li>learn about omnibox API. <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/omnibox">MDN docs</a></li>
-<li>learn about Tabs create API <a href="https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/tabs/create">MDN docs</a></li>
-</ul>
-<p>You can get started with omnibox API &amp; Tabs.Create API from the following video.</p>
-<div class="jetpack-video-wrapper"></div>
-<p>All the code samples discussed in the above video is available in the <a href="https://github.com/iamVP7/MozWOC17/tree/master/session5">github</a> and the detailed blog post on this particular API is shared before. <a href="https://iamvp7.github.io//Build-Quick-Search-In-Firefox-Using-WebExtensions/">Link of post</a></p>
-<p>Google drive <a href="https://drive.google.com/drive/folders/0BynHVcltkfkwalloaFdlOFNuZjg">PDF link</a></p>
-<h2 id="attendees">Attendees</h2>
-<p>Name / Twitter handle</p>
-<ul>
-<li>Baranitharan / @baranicool</li>
-<li>Fahima Zulfath A / @Fahimazulfath</li>
-<li>Subhrajyoti Sen/ @iamsubhrajyoti</li>
-<li>Seshadri/ @Seshadriii</li>
-<li>Viswaprasath / @iamvp7</li>
-</ul>
-<p>Etherpad of the session. Link is <a href="https://public.etherpad-mozilla.org/p/MozWOC17-Session5">here</a></p>]]>
-  </description>
-  <pubDate>Mon, 02 Oct 2017 00:04:00 +0000</pubDate>
   
 </item>
 
