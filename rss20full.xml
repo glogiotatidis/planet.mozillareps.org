@@ -10,6 +10,59 @@
 
 
 <item>
+  <title>Md Shahbaz Alam - Beta Testing BugHunting</title>
+  <guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=1123</guid>
+  <link>https://alamshahbaz.wordpress.com/2019/07/16/beta-testing-bughunting/</link>
+  <description>
+    <![CDATA[<p>Hello Everyone, It’s been almost 9 months since I wrote a blog. There are pending blogs coming soon from Oct 2018, which includes my journey experience and speaking experience from southeast Asia.</p>
+<p>After a series of WebExtension events in Ranchi, It was time to test our Favorite browser, we organized two BugHunting events one on <a href="https://reps.mozilla.org/e/beta-testing-bughunter-ranchi/">25-May-2019</a> and next on <a href="https://reps.mozilla.org/e/beta-testing-bughunter-ranchi-2/">09-June-2019</a>.</p>
+
+<a href="https://alamshahbaz.wordpress.com/2019/07/16/beta-testing-bughunting/photo_2019-07-16_14-38-30/"><img alt="" class="attachment-thumbnail size-thumbnail" height="150" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-38-30.jpg?w=80&amp;h=150" width="80" /></a>
+<a href="https://alamshahbaz.wordpress.com/2019/07/16/beta-testing-bughunting/photo_2019-07-16_14-38-28/"><img alt="" class="attachment-thumbnail size-thumbnail" height="150" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-38-28.jpg?w=79&amp;h=150" width="79" /></a>
+
+<p>The first event started with downloading the Firefox Preview after signing and setting up the Google Play account. We have also discussed the importance of Bug and why one should always report.</p>
+<p>Mozilla was launching a NEW Android web browser and they needed us to get it ready for the free and open web.</p>
+<p>We followed How to Bug Hunt section of <a href="https://events.mozilla.org/becomeabetatestingbughunter" rel="nofollow">https://events.mozilla.org/becomeabetatestingbughunter</a> and Shared the <a href="https://bughunterissues.mozilla.community/">bug entry details</a></p>
+<p>The event concluded with some delicious food at dinner as most of them were keeping Ramadan Fast. So, we preferred the night to do the event.</p>
+<p><img alt="photo_2019-07-16_14-17-10" class="alignnone size-full wp-image-1135" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-17-10.jpg?w=788" /><img alt="photo_2019-07-16_14-17-12" class="alignnone size-full wp-image-1134" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-17-12.jpg?w=788" /><img alt="photo_2019-07-16_14-17-15" class="alignnone size-full wp-image-1133" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-17-15.jpg?w=788" /></p>
+<p>The second event had a different goal, we divided the team into two, one who attended previous Bug Hunting Event and the second set of people were new to Bug Hunting.</p>
+
+<a href="https://alamshahbaz.wordpress.com/2019/07/16/beta-testing-bughunting/photo_2019-07-16_14-17-40/"><img alt="" class="attachment-thumbnail size-thumbnail" height="84" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-17-40.jpg?w=150&amp;h=84" width="150" /></a>
+<a href="https://alamshahbaz.wordpress.com/2019/07/16/beta-testing-bughunting/photo_2019-07-16_14-17-42/"><img alt="" class="attachment-thumbnail size-thumbnail" height="84" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-17-42.jpg?w=150&amp;h=84" width="150" /></a>
+<a href="https://alamshahbaz.wordpress.com/2019/07/16/beta-testing-bughunting/photo_2019-07-16_14-17-39/"><img alt="" class="attachment-thumbnail size-thumbnail" height="84" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-17-39.jpg?w=150&amp;h=84" width="150" /></a>
+<a href="https://alamshahbaz.wordpress.com/2019/07/16/beta-testing-bughunting/photo_2019-07-16_14-17-33/"><img alt="" class="attachment-thumbnail size-thumbnail" height="84" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-17-33.jpg?w=150&amp;h=84" width="150" /></a>
+
+<p>For newbies were followed the above steps and for ones who attended the previous event, were asked to go through bugs faced by each other and helping others to file the bug they encounter. We have submitted 56 bugs in total using bug entry.</p>
+<p><img alt="photo_2019-07-16_14-17-29" class="alignnone size-full wp-image-1138" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-17-29-1.jpg?w=788" /></p>
+<p><img alt="photo_2019-07-16_14-17-05" class="alignnone size-full wp-image-1137" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-17-05.jpg?w=788" /></p>
+<p><img alt="photo_2019-07-16_14-17-07" class="alignnone size-full wp-image-1136" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-17-07.jpg?w=788" /></p>
+<p> </p>
+<p>We concluded the event with awesome food and more bugs!!</p>
+<p>Some of the feedback/ bugs we found:</p>
+<ul>
+<li>It is showing less advertisements</li>
+<li>It suggest sites automatically( autofill )</li>
+<li>Multiple tabs works very smoothly</li>
+<li>Save collection of sites</li>
+<li>we can blacklist sites</li>
+<li>we can block microphone while using this browser</li>
+<li>jharkhand.result.com crashes a lot</li>
+<li>instagram works smoothly</li>
+<li>Do not allow to go back from websites such as maps.google.com</li>
+<li>No Download options</li>
+<li>Download tracking is not available</li>
+<li>lags while scrolling to websites like facebook.com</li>
+<li>Data saving option is not available</li>
+</ul>
+<p>Some specific bugs/feedback</p>
+<p><img alt="photo_2019-07-16_14-44-56" class="alignnone size-full wp-image-1142" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-44-56.jpg?w=788" /><img alt="photo_2019-07-16_14-44-58" class="alignnone size-full wp-image-1141" src="https://alamshahbaz.files.wordpress.com/2019/07/photo_2019-07-16_14-44-58.jpg?w=788" /></p>
+<p> </p>]]>
+  </description>
+  <pubDate>Tue, 16 Jul 2019 09:15:53 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Official Reps Blog - Rep of the Month – June 2019</title>
   <guid isPermaLink="false">http://blog.mozilla.org/mozillareps/?p=596</guid>
   <link>https://blog.mozilla.org/mozillareps/2019/07/05/rep-of-the-month-june-2019/</link>
@@ -123,7 +176,7 @@
 			<div class="wpa wpmrec">
 				<span class="wpa-about">Advertisements</span>
 				<div class="u">		<div style="padding-bottom: 15px; width: 300px; height: 250px; float: left; margin-right: 5px; margin-top: 0px;">
-			<div id="atatags-26942-5d2cd493b070c">
+			<div id="atatags-26942-5d2e261b4c797">
 				
 			</div>
 		</div></div>
@@ -2295,40 +2348,6 @@ for Mozilla.</p>
 <img alt="Group photo after Mozilla Web Extension session" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-addons-group.jpg" />]]>
   </description>
   <pubDate>Tue, 23 Jan 2018 14:45:00 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Sanyam Khurana - Moz-Fedora Day</title>
-  <guid isPermaLink="false">tag:www.sanyamkhurana.com,2018-01-14:blog/moz-fedora-day.html</guid>
-  <link>https://www.sanyamkhurana.com/blog/moz-fedora-day.html</link>
-  <description>
-    <![CDATA[<p>We recently organized Moz-Fedora Day, a one day event on promoting FOSS through
-Mozilla &amp; Fedora at Investopad, Hauz Khas, Delhi on Jan 13, 2018. The aim was
-to depict the usage of packaging &amp; building one of the Mozilla's project using Fedora.</p>
-<img alt="Sanyam explaining about Mozilla &amp; it's mission" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-fedora-day-4.jpg" />
-<p>The core event focused on making the participants automate the build of any of
-the Mozilla's open source project of their choice. The aim is to influence
-people to switch to Linux as a build environment (We used Fedora for this)
-and introduce the basics of the version control system (Mercurial in case of Mozilla).
-The event will also introduce to Vagrant for running standardized virtual
-machines for build environments.</p>
-<img alt="Sanyam engaging participants on Moz-Fedora Day" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-fedora-day-3.jpg" />
-<p>The session began with Saurabh representing a bit about Fedora and other Linux
-Distributions. I discussed about Mozilla, it's mission and different projects.
-We then decided to package <a class="reference external" href="https://servo.org/">Servo</a> in Fedora and guided
-folks through the steps to build the system. We used simple Vagrant setup to
-package Servo project with Fedora.</p>
-<img alt="Sanyam explaining about build systems" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-fedora-day-2.jpg" />
-<p>At the end of the event, we had a small discussion on how one can find bugs
-through Bugzilla &amp; Bugsahoy. The presentation can be found here:
-<a class="reference external" href="http://www.sanyamkhurana.com/presentations/foss/">http://www.sanyamkhurana.com/presentations/foss/</a></p>
-<p>We also distributed some swags to folks who were able to make builds successfully.</p>
-<img alt="Swag Distribution" src="http://www.sanyamkhurana.com/blog/feeds/images/moz-fedora-day-1.jpg" />
-<p>Most of this was a hands-on session and I saw new faces who were truly excited to
-learn about these things. A Saturday well spent, spreading the love of Open Source.</p>]]>
-  </description>
-  <pubDate>Sun, 14 Jan 2018 14:45:00 +0000</pubDate>
   
 </item>
 
