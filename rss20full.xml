@@ -10,6 +10,31 @@
 
 
 <item>
+  <title>Bhuvana Meenakshi Koteeswaran - Hour of Code event at GRD college of Science</title>
+  <guid isPermaLink="false">http://kbmtechie.wordpress.com/?p=353</guid>
+  <link>https://kbmtechie.wordpress.com/2019/12/25/hour-of-code-event-at-grd-college-of-science/</link>
+  <description>
+    <![CDATA[<p><strong>Summary:</strong></p>
+<p><img alt="IMG_9975.JPG" class="alignnone size-full wp-image-360" src="https://kbmtechie.files.wordpress.com/2019/12/img_9975.jpg?w=620" /></p>
+<p>An orientation session on Mozilla projects was held on 6-7 December 2019 at Dr. GR Damodaran College of Science, Coimbatore. This talk was part of the “Hour of Code” event, which is an International event celebrated across the globe to encourage students to develop their knowledge on Computer Science. This event was supported by Open Knowledge movements like Wikimedia, Mozilla, etc.which would help students to share their knowledge in the form of volunteerships and contributions. The highlights of Campus Club program was covered as part of a focussed group discussion.</p>
+<p><strong>Hour of code event</strong></p>
+<p><img alt="IMG_9836.JPG" class="alignnone size-full wp-image-359" src="https://kbmtechie.files.wordpress.com/2019/12/img_9836.jpg?w=620" /></p>
+<p>The “Hour of Code” is an International event conducted across the globe to commemorate the birthday of Grace Hopper, a computer scientist. In India 1047 events were officially registered and were conducted region-wise. In Coimbatore, Dr.G.R. Damodaran College of Science initiated the first Hour of Code event in the city. The event was attended by 400-500 students, where 50% of the participants were identified as women, from various departments and 6 Open Source and Knowledge movements’ community members were invited as speakers. Among them were Mozilla, Wikimedia, Google Developers Groups, Facebook Devcircles, Women Tech Makers and School of AI where all the community representatives pitched to the student gathering on how to contribute to these groups. The students were enthusiastic to initiate Open source clubs and also nominate a Point Of Contact with the guidance of the faculty members.</p>
+<p><strong>The Orientation- Day 1</strong></p>
+<p><img alt="photo_2019-12-11_13-54-46.jpg" class="alignnone size-full wp-image-357" src="https://kbmtechie.files.wordpress.com/2019/12/photo_2019-12-11_13-54-46.jpg?w=620" /></p>
+<p>I was invited as a Chief Guest for the event to talk to students about how they may contribute to Mozilla and its projects. I presented to the students the various forms of Mozilla which would be of interest to coders and non-coders. This also included discussions on Campus Clubs, WebVR, Firefox Reality, Mozilla Hubs, Addons and Rust. As the participants from the college were mostly from Tamil Nadu, I also emphasised how contribution to localisation projects of L10n and SUMO.</p>
+<p><strong>Focussed Group Discussions – Day 2</strong></p>
+<p><img alt="IMG_9997.JPG" class="alignnone size-full wp-image-361" src="https://kbmtechie.files.wordpress.com/2019/12/img_9997.jpg?w=620" /></p>
+<p>On the second day I invited the students to form circles or groups based on their interest of contribution. There were four teams formed and I shared with the every possibility of getting themselves involved into the projects. Resources on where to begin and how to contact experts both in regional and global levels was made understandable to the participants. The final day ended with great discussions and also I encouraged the women in crowd to openly discuss about the issues they face and what will make them feel safe to sustain their contributions as a part of the community.</p>
+<p><img alt="photo_2019-12-12_12-19-39.jpg" class="alignnone size-full wp-image-358" src="https://kbmtechie.files.wordpress.com/2019/12/photo_2019-12-12_12-19-39.jpg?w=620" /></p>
+<p>Press coverage about the event can be seen at <a href="https://youtu.be/5APh01ScHrM">Desathin Nambikai</a> , <a href="https://youtu.be/QEWl8z0Q07Y">The Covai mail news</a> , <a href="https://youtu.be/BkZbDWmvWdQ" rel="noopener" target="_blank">Prime Time Tamil</a> , <a href="https://youtu.be/16mqiY_M3NE" rel="noopener" target="_blank">Covai news </a>and <a href="http://bit.ly/2PTC3u6">Updatenews360.com<br />
+</a></p>]]>
+  </description>
+  <pubDate>Wed, 25 Dec 2019 10:43:35 +0000</pubDate>
+  
+</item>
+
+<item>
   <title>Md Shahbaz Alam - Firefox Accounts Campaign – Ranchi</title>
   <guid isPermaLink="false">http://alamshahbaz.wordpress.com/?p=1214</guid>
   <link>https://alamshahbaz.wordpress.com/2019/12/17/firefox-accounts-campaign-ranchi/</link>
@@ -634,7 +659,7 @@
 
 
 <p>I am very happy and should thank organizers team for the effort they made. They helped right from booking the tickets, late night check-in to the room for my stay, dropping me again at the railway, the ID card they designed, fetching the details about the speakers instead of asking us.</p>
-			<div id="atatags-26942-5e027af11d97c"></div>]]>
+			<div id="atatags-26942-5e03cc8177c22"></div>]]>
   </description>
   <pubDate>Sun, 12 May 2019 17:52:40 +0000</pubDate>
   
@@ -2338,45 +2363,6 @@ So instead of having only one search engine, our idea is to have more than one s
     <![CDATA[SHA, aka Still Hacking Anyways, is part of international non profit outdoor hacker camp series organized once in 4 years in The Netherlands. This year it was organized in Zeewolde on August 4th to 8th and I was honored to be one of speakers at SHA for my WebVR talk. Read my blogpost ‘SHA Hacker … <a href="https://gurumukhi.wordpress.com/2017/09/05/highlights-from-netherlands-hackercamp-sha/">Continue reading <span class="meta-nav">→</span></a>]]>
   </description>
   <pubDate>Mon, 04 Sep 2017 20:32:51 +0000</pubDate>
-  
-</item>
-
-<item>
-  <title>Abhiram Ravikumar - It’s raining Rust at Red Hat</title>
-  <guid isPermaLink="false">http://abhiramrk.com/?p=322</guid>
-  <link>http://abhiramrk.com/its-raining-rust-at-red-hat/</link>
-  <description>
-    <![CDATA[<p>I know it’s been a while since I’ve put out a post and mostly because I’m trying to learn amazing things and get my hands dirty, trying to build solutions that actually make sense.</p>
-<p>One such pet-project has been Rust, probably the <a href="https://redmonk.com/sogrady/2017/06/08/language-rankings-6-17/">fastest</a> growing systems level programming language today. Hitherto, I’ve always looked at Rust from the outside, never got my hands dirty, mostly because I was under the assumption that it had nothing to do with web development. Turns out, I was completely wrong!</p>
-<p>This year’s <a href="https://discourse.mozilla.org/t/rainofrust-campaign-trailer/15852">Rain of Rust</a> campaign gave me an opportunity to revisit the programming language and the reason why it’s been garnering interests at astronomical pace. For a nascent programming language which is in the 1.19th version of its release, it’s challenging the big guns – C and C++. Yes, you heard <a href="https://www.quora.com/Which-language-has-the-brightest-future-in-replacement-of-C-between-D-Go-and-Rust-And-Why">it </a>right.</p>
-<h3>On to the campaign</h3>
-<p>The campaign, although initiated and led by volunteers from the Mozilla India community at first was later adopted by the larger Mozilla community with contributions from all over the world like these events in <a href="https://reps.mozilla.org/e/rust-activate/">Mexico </a>and <a href="https://reps.mozilla.org/e/dive-into-rust-senai-santa-cecilia/">Brazil</a>. The main goal of the event was to increase outreach about the language and train developers to contribute in the rust ecosystem.</p>
-<h3>At Bangalore</h3>
-<p>As one of the crucial aspects of the campaign was to organize on-the-ground events and so, with the gracious support of our host Sumantro at Red Hat, we managed to pull of a small event consisting of rust enthusiasts and Mozilla Tech Speakers.</p>
-<p>We had our very own Vigneshwer leading the introduction to rust and hands-on session. This was well taken by the participants who had just installed rust and exploring what they could do with the language.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">We have <a href="https://twitter.com/dvigneshwer">@dvigneshwer</a> today kick starting <a href="https://twitter.com/hashtag/RainOfRust?src=hash">#RainOfRust</a>  at BLR. <a href="https://twitter.com/rustlang">@rustlang</a> <a href="https://twitter.com/mozTechSpeakers">@mozTechSpeakers</a> <img alt="🌟" class="wp-smiley" src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f31f.png" style="height: 1em;" /> other talks lined up.. <a href="https://t.co/EGvXB63sS3">pic.twitter.com/EGvXB63sS3</a></p>
-<p>— Abhiram Ravikumar (@abhi12ravi) <a href="https://twitter.com/abhi12ravi/status/878555743338676225">June 24, 2017</a></p></blockquote>
-<p></p>
-<p>With witty remarks, use cases and insights of the language, Vigneshwer kept the participants interested. During the hands-on he introduced the <a href="https://github.com/MozillaIndia/RustIndia/tree/master/RainOfRust#rust-kits">kits </a>built by the Rust India community and explained how participants could use them to learn the language. On the whole, it was a well-rounded session and helped the participants understand why rust is important and how they could contribute.</p>
-<p>We then had a talk by Ravi from <a href="https://www.atherenergy.com/">Ather energy</a> which has used rust components to send  location data packets from its two-wheeler vehicles to the cloud in a secure and reliable fashion. His talk was inspirational as the participants were able to visualize how rust could be used in a production scenario.</p>
-<blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">Second talk of the day by Ravi from <a href="https://twitter.com/atherenergy">@atherenergy</a> using <a href="https://twitter.com/rustlang">@rustlang</a> in production environments! <a href="https://twitter.com/hashtag/RainOfRust?src=hash">#RainOfRust</a> <a href="https://twitter.com/mozTechSpeakers">@mozTechSpeakers</a> <a href="https://twitter.com/MozillaIN">@MozillaIN</a> <img alt="🌟" class="wp-smiley" src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/1f31f.png" style="height: 1em;" /> <a href="https://t.co/hNZcVSlmhV">pic.twitter.com/hNZcVSlmhV</a></p>
-<p>— Abhiram Ravikumar (@abhi12ravi) <a href="https://twitter.com/abhi12ravi/status/878572229981683714">June 24, 2017</a></p></blockquote>
-<p></p>
-<p>For the last talk of the day, we had our own ReMo and host Sumantro show a demo on <a href="https://rocket.rs/">Rocket</a>, a simple web framework for rust developers. This was in particular interest to me as a web developer, hitherto I was under the impression that rust could only be used for parallel computing and system level programming scenarios.  Now that I know rust has a fast and safe web framework, watch out JavaScript! Here’s Sumantro’s <a href="http://sumantrom.blogspot.in/2017/04/rocket-on-fedora.html">post </a>on how to set it up on Fedora.</p>
-<div class="fb-social-plugin fb-post"></div>
-<p> </p>
-<h3>Last word</h3>
-<p>On the whole it was personally fulfilling that we pulled off a workshop in ~1 week of planning and what was comforting was that the feedback we received through the new ReMo <a href="https://github.com/mozilla/activate.mozilla.community/issues/210">feedback form</a> was a 6+ on a scale of 0-7. Yay!</p>
-<p>Finishing off with a mighty group photo. A round of shout-outs to Bhumika and Ra Fey for helping us out with the posters and social media calls to action! You guys are wonderful. ^_^</p>
-<p> </p>
-<div class="wp-caption aligncenter" id="attachment_336" style="width: 656px;"><a href="http://abhiramrk.com/wp-content/uploads/2017/08/grouppic.jpg"><img alt="Rust Workshop | June 2017 | Bangalore" class="wp-image-336 size-large" height="507" src="http://abhiramrk.com/wp-content/uploads/2017/08/grouppic-1024x804.jpg" width="646" /></a><p class="wp-caption-text" id="caption-attachment-336">Rust Workshop | June 2017 | Bangalore</p></div>
-<p> </p>
-<p>Fin.</p>
-<a class="likepost json-call 1-322-posts" href="http://abhiramrk.com/feed/?fn=like&amp;following=1-322-posts">Like</a><p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="WhatsApp"></a><a class="a2a_button_diaspora" href="https://www.addtoany.com/add_to/diaspora?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Diaspora"></a><a class="a2a_button_wordpress" href="https://www.addtoany.com/add_to/wordpress?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="WordPress"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_hacker_news" href="https://www.addtoany.com/add_to/hacker_news?linkurl=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;linkname=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat" rel="nofollow noopener" target="_blank" title="Hacker News"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=http%3A%2F%2Fabhiramrk.com%2Fits-raining-rust-at-red-hat%2F&amp;title=It%E2%80%99s%20raining%20Rust%20at%20Red%20Hat"></a></p>]]>
-  </description>
-  <pubDate>Sun, 20 Aug 2017 14:21:43 +0000</pubDate>
   
 </item>
 
